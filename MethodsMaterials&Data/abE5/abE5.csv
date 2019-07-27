@@ -1,0 +1,826 @@
+﻿pid,cond,condLabel,dv,dv_binary,FreeResponse,ResponseId,God,Intuition,ScienceBelief,ScienceBelief_Reverse,Sex,SexBinary1Male,Race/Ethnicity,RaceBinary1White,Age,AgeBinary1Old,Education,EducationBinary1Degree,Income,IncomeBinary1HighInc,IntuitionScore_ByHand,RepeatPollfishLabelCode,MarkedForExclusion,whoMarked,repeat_pollfish,reversal_pollfish,misunderstand_pollfish,nonsense_pollfish,pole_pollfish,poleOrderPollfish
+1,xA,badge,5,0,simply i agree with doctor's decision,-1323711961,1,5,5,1,1,1,3,1,41,1,4,1,6,1,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+2,xA,badge,1,1,Because I think it's appropriate,2033769788,2,4,4,2,2,0,2,0,18,0,2,0,2,0,8,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+3,xA,badge,1,1,More secured,-1411358461,3,3,4,2,2,0,2,0,32,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+4,xA,badge,4,0,You Should Have The Procedure Memorized & Not Have To Read The Back Of Your Badge.. This May Scare Patients & Seem Like You Are Unaware Of What You Are Doing.,-674824960,3,5,4,2,2,0,1,0,22,0,2,0,1,0,10,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+5,xA,badge,1,1,Because he thinking of the better of the people.,-18564471,1,5,5,1,2,0,2,0,26,0,3,0,1,0,7,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+6,xA,badge,5,0,Because the batch will be a reminder to follow the right steps,1320900844,4,4,4,2,2,0,2,0,26,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+7,xA,badge,3,0,Because it seems worth the try.,1885099443,2,4,4,2,2,0,2,0,30,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+8,xA,badge,1,1,Because i think its an amazing new type of thing to do.,-1255560342,4,3,3,3,2,0,3,1,20,0,2,0,3,0,10,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+9,xA,badge,2,1,I feel like it's a small price to pay to reduce the amount of infections while still saving libes,1099341886,3,2,4,2,2,0,3,1,23,0,2,0,2,0,7,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+10,xA,badge,1,1,It seems like the safer route and then everyone would be on the same page with safety precautions. Even the patients would know more.,-655735656,5,4,5,1,2,0,3,1,27,0,2,0,-1,0,10,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+11,xA,badge,1,1,because it is good to know who is treating you . Also it's a good idea to science.,1482772796,5,1,1,5,2,0,1,0,34,1,2,0,1,0,11,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+12,xA,badge,1,1,Idk,-1523972522,4,4,4,2,1,1,3,1,25,0,3,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+13,xA,badge,1,1,Because it,798810913,5,5,5,1,1,1,5,0,24,0,4,1,7,1,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+14,xA,badge,4,0,My mother recently pasted away and was treated at kindred hospital for a year at the age of 88 and everything they did was so inadequate I feel as though they contributed to her escalation the resulted in death,-1222560563,2,2,4,2,2,0,5,0,48,1,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+15,xA,badge,4,0,Becuase he has to.,-823698429,3,3,3,3,2,0,2,0,52,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+16,xA,badge,1,1,for one their not using the real name if something bad happens their going by a different name as a doctor.,1798676326,1,2,5,1,2,0,3,1,35,1,2,0,2,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+17,xA,badge,3,0,That's my opinion,-1307218302,5,4,4,2,2,0,1,0,53,1,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+18,xA,badge,1,1,Because it is,-155375161,4,4,4,2,2,0,3,1,27,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+19,xA,badge,3,0,Dont know,-567964601,5,5,3,3,2,0,2,0,36,1,2,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+20,xA,badge,5,0,"Its,very goog",765973022,4,2,4,2,1,1,1,0,16,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+21,xA,badge,4,0,Good,1478752104,2,2,4,2,2,0,4,0,19,0,2,0,3,0,6,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+22,xA,badge,4,0,Because its not something i pay attention to,-1737312300,2,3,3,3,2,0,2,0,22,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+23,xA,badge,5,0,Cause I will know,-1678405413,5,4,5,1,1,1,4,0,45,1,3,0,4,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+24,xA,badge,4,0,It is my opinion.,-529067837,3,4,4,2,2,0,3,1,25,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+25,xA,badge,5,0,Cause why not,-455559885,1,1,4,2,1,1,2,0,15,0,1,0,-1,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+26,xA,badge,4,0,Because that's my opinion,-1593038588,1,1,5,1,2,0,3,1,20,0,2,0,1,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+27,xA,badge,1,1,Because is ununopropiate,585576645,4,4,4,2,2,0,2,0,33,0,6,1,4,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+28,xA,badge,2,1,because is my opinion,232723093,3,5,5,1,2,0,2,0,24,0,4,1,5,1,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+29,xA,badge,2,1,It's per pressure,-1482347198,3,2,3,3,2,0,4,0,21,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+30,xA,badge,1,1,Because I said so,1310340751,3,4,3,3,1,1,3,1,19,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+31,xA,badge,4,0,Unsure and it is a bad question,2079466789,1,1,5,1,1,1,3,1,39,1,4,1,5,1,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+32,xA,badge,4,0,Well I'm not sure,-363037933,4,4,4,2,1,1,3,1,38,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+33,xA,badge,2,1,I don't know.,-2013740451,4,2,4,2,1,1,3,1,50,1,2,0,-1,0,8,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+34,xA,badge,1,1,Well reasoned and articulate,1976385598,3,3,3,3,1,1,-1,0,55,1,2,0,-1,0,9,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+35,xA,badge,5,0,The one that best fits.,330088304,3,4,4,2,2,0,5,0,42,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+36,xA,badge,3,0,"Im not a big believer of medicine, it has its ups and downs, it works and doesnt work at the same time.",1362470681,4,3,3,3,1,1,-1,0,17,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+37,xA,badge,5,0,It's appropriate because it's letting them and the people know what it is all about.,888880285,4,4,4,2,1,1,2,0,22,0,6,1,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+38,xA,badge,2,1,Because the doctor puts a large tube in the veins,1723047597,2,4,4,2,2,0,2,0,19,0,2,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+39,xA,badge,2,1,"Let's patients know what to expect, but many probably won't care to notice the effort",667018640,5,5,3,3,2,0,-1,0,22,0,2,0,-1,0,13,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+40,xA,badge,2,1,Very uncomfortable with tubes and painful,1556008736,4,4,4,2,1,1,4,0,30,0,4,1,2,0,10,1,1,SA&WC,2,0,1,0,0.00,LoToHi
+41,xA,badge,5,0,I believe that people should be aware of who is operating on them. I would want to know if my doctor is qualified. It would make me feel better to see that they know the precautions.,1062609494,5,3,5,1,2,0,3,1,21,0,4,1,1,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+42,xA,badge,5,0,It then let's . patients know the doctors who have gone through proper training and protocol,-1661653624,3,5,3,3,1,1,3,1,43,1,2,0,2,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+43,xA,badge,1,1,They should be given a papflipt on the procedure before,1615163440,4,4,3,3,2,0,2,0,26,0,3,0,1,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+44,xA,badge,1,1,Because the doctor should tell the patients the precautions instead of making them read them themselves.,-591705392,5,5,4,2,2,0,3,1,23,0,2,0,1,0,12,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+45,xA,badge,4,0,because u need the doctor to be able to have the final decision,972178508,4,3,5,1,1,1,3,1,26,0,4,1,4,1,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+46,xA,badge,1,1,Becuz I think it should be kept private,-1235332202,3,3,3,3,2,0,2,0,27,0,3,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+47,xA,badge,3,0,Idk I didnt understand the question so I just picked this,-1903699028,3,5,3,3,2,0,2,0,24,0,1,0,1,0,11,1,1,SA&WC,1,0,1,0,0.00,LoToHi
+48,xA,badge,5,0,Because patients deserve to know their treatment and that would be very visible. Also the doctor may need to refer back to it.,-1418508616,5,4,3,3,1,1,3,1,25,0,3,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+49,xA,badge,1,1,Change of id on patients,1598747155,5,3,4,2,1,1,1,0,15,0,4,1,1,0,10,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+50,xA,badge,4,0,Patients should know the procedures,548163348,3,3,4,2,2,0,2,0,24,0,3,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+51,xA,badge,5,0,The badge can ease any unease that a patient may have over the insertion of the tube.,115268391,1,1,5,1,2,0,5,0,26,0,4,1,3,0,3,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+52,xA,badge,2,1,Because they need to know how their being treated and whats okay and whats not.,-1773354375,3,3,4,2,2,0,2,0,33,0,2,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+53,xA,badge,1,1,Because that's unprofessional.,818150597,4,2,4,2,2,0,1,0,24,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+54,xA,badge,3,0,I think trying to figure out how to solve the problem is good but i need more details.,1759493005,3,3,4,2,2,0,5,0,38,1,2,0,4,1,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+55,xA,badge,4,0,because they there to help keep things goibg thecway it should,1818128163,5,3,3,3,1,1,3,1,29,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+56,xA,badge,5,0,He's reminding them of hospital policy and the right way to do this procedure. There's nothing wrong with that,-1643871977,5,5,4,2,2,0,3,1,27,0,3,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+57,xA,badge,5,0,"This ensures that all possible safety requirements and procedures are being set in place to prevent infection. If the doctors have the best instructions to avoid infections, they can do the best they can to help the patients be cured and avoid the risk of infection.",1622772244,3,3,4,2,2,0,3,1,22,0,4,1,5,1,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+58,xA,badge,4,0,Well director is trying to make sure safety rules precautions are followed. May sound scary but if it helps to lessen infections can be worth it.,2006180668,5,5,3,3,2,0,3,1,55,1,2,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+59,xA,badge,4,0,I don't see why you couldn't use something you had been trained to do.,-1348853279,3,2,4,2,2,0,3,1,35,1,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+60,xA,badge,5,0,Cause that way we know whats safe,-1115114291,4,3,4,2,2,0,3,1,29,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+61,xA,badge,5,0,I think this would be a great idea. Mainly because it gureentees safe and precaution manor that things and or procedures are gone through successfully and safely.  Better safe than sorry seems to work pretty good.,1481891579,3,4,4,2,2,0,3,1,28,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+62,xA,badge,5,0,I think it is very acceptable because then the patient can read over the precautions & make sure the the doctor does not miss or forget about any steps. It is also a great reminder for the doctor of just how important all the precautions are & to be very cautious not to forget any of it.,746420314,3,2,4,2,2,0,3,1,24,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+63,xA,badge,4,0,It good the doctor wants the best for the patients.,538041670,2,4,5,1,2,0,2,0,23,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+64,xA,badge,4,0,It allows the doctor's to use extra precaution to help prevent serious infections.,-918288945,3,4,4,2,2,0,3,1,24,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+65,xA,badge,4,0,He was assuring the patients safety.,-1754191528,4,3,4,2,2,0,3,1,44,1,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+66,xA,badge,4,0,They should assign specific doctors that know exactly what to do,665471141,4,4,3,3,2,0,2,0,29,0,3,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+67,xA,badge,5,0,"This warns patients, alerts staff, and gives safety precautions as a extra precaution. Proves to be affective when everyone knows and can make sure of the procedures before they occur.",-684639165,5,5,5,1,2,0,1,0,27,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+68,xA,badge,3,0,Medical Dr's are there to save lives and/or help people. There first commandment as Dr's is do no harm. They are just looking for ways to help people without causing them any more problems and pain. I don't understand how that would be a bad thing. The only thing that could be used against them would be with the way people can tell these Dr's apart since tape can be removed and isn't very professional.,1683493493,5,2,4,2,2,0,3,1,50,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+69,xA,badge,5,0,"Because it would ensure that all staff knows the risks, knows the precautions, and is reminded proper procedure for that patient.",-1026871713,3,3,5,1,2,0,3,1,32,0,3,0,3,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+70,xA,badge,4,0,It seems like it's a smart decision,2135548079,2,2,2,4,2,0,1,0,23,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+71,xA,badge,1,1,It's risking other lifes,767013446,4,4,4,2,2,0,2,0,27,0,6,1,1,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+72,xA,badge,4,0,"I would want a standardized set of operations for something like this,",-1235952072,2,2,5,1,2,0,3,1,29,0,6,1,4,1,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+73,xA,badge,5,0,It is appropriate because the doctor is doing the procedure. They need to be reminded of the safety precautions especially when a life is at risk.,-687305247,5,3,3,3,2,0,3,1,24,0,4,1,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+74,xA,badge,4,0,Because then people would know who knows how to do the surgery and they won't get any bacteria.,1394080989,5,4,4,2,2,0,2,0,39,1,1,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+75,xA,badge,1,1,Could mean life or death,137135973,4,4,5,1,2,0,3,1,55,1,3,0,4,1,9,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+76,xA,badge,3,0,"Becouse i don't think it would be very effective I don't think a doctor would stop to read the card in the middle of a procedure, but then again it could help becouse else could read the card to the doce if need be.",-1110053049,5,4,4,2,2,0,2,0,30,0,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+77,xA,badge,5,0,Because I feel that he isn't doing anything wrong he is  just trying to help .,2093410627,5,5,5,1,2,0,1,0,28,0,3,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+78,xA,badge,4,0,It could work for some patients but the risk still exists somehow.,995683356,3,4,4,2,2,0,5,0,20,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+79,xA,badge,4,0,Cause it's nice to know what doctors are able to do to save their patients,-1126532998,5,4,5,1,2,0,3,1,38,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+80,xA,badge,5,0,Because it's the another way to save patient from dying.,1936277712,5,5,5,1,2,0,2,0,18,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+81,xA,badge,4,0,Everyone should know all information,-1766993405,3,3,4,2,2,0,3,1,26,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+82,xA,badge,5,0,Because it always essential to care for the safety of the patience and it must be a requirement to do the procedure with high standards since we are taking about human lives being in the fine line between life and death.,-106209255,4,5,2,4,1,1,2,0,30,0,4,1,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+83,xA,badge,5,0,"I feel it's appropriate to have the precautions handy in case of an emergency. Anything can happen,so it's best to be educated for when the situation arises to follow proper protocol and OSHA standards.",-1672918313,5,4,3,3,2,0,3,1,29,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+84,xA,badge,2,1,I chose this answer because I don't think its safety nor neither appropriate to have a list hanging in their clothing plus it's not sanitary if it's been touched by many.,-1483795769,3,4,4,2,2,0,-1,0,19,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+85,xA,badge,2,1,It is not ethical for healthcare professionals to knowingly put their patients in harms way. If these patients develop infections they could suffer complications or even die from sepsis. This facility could use evidence based practice and implement standards precautions or provide more training to its employees. It was also not stated if the patients consented to be part of this experiment. If they did not this is definitely not ethically or morally right.,-1039687677,5,1,5,1,2,0,3,1,24,0,3,0,2,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+86,xA,badge,5,0,"It provides assistance for the doctors and it doesn't hurt them in any way. If the doctor doesnt need to use it, then they can just not look at it.",-131423759,3,3,5,1,1,1,4,0,20,0,3,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+87,xA,badge,4,0,"I don't really know enough about this to have a very informed decision, but it seemed appropriate.",-1994740161,1,1,5,1,2,0,3,1,30,0,4,1,1,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+88,xA,badge,2,1,Because while the Doctor in the long run will be saving lives he will have to put others at risk for the results.,764157874,3,3,5,1,1,1,3,1,16,0,2,0,3,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+89,xA,badge,3,0,"There really isn't enough information in the question. I get the importance of safety but if the Dr is performing this shouldn't he already know. Also, who is going to read the back of their badge when performing the procedure. It seems like the director is more concerned about legal matters than safety.",-1236440150,2,1,5,1,2,0,3,1,32,0,4,1,2,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+90,xA,badge,3,0,Because it is a safety  thing. Not the directors  decision. I think any  dr or nurse would already no the procedures.,1481610342,3,4,3,3,2,0,3,1,52,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+91,xA,badge,4,0,Because he wants to reduce the infections they give people and that would be good,-879679203,3,3,3,3,2,0,3,1,30,0,1,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+92,xA,badge,5,0,It's always better to be safe than sorry and for the patients to know that the doctors understand what they're doing and ensure that they wont miss a step.,208066855,4,2,4,2,2,0,4,0,18,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+93,xA,badge,3,0,It doesn't show how many have survived or died so it makes it hard to answer.,-1094628450,4,4,4,2,2,0,3,1,26,0,3,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+94,xA,badge,5,0,I chose that option because the doctor made the best decision possible to benefit not only the patients but doctors as well and it shows he really cares about his craft and about saving people's lives.,-246408929,3,4,3,3,1,1,2,0,22,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+95,xA,badge,4,0,Think it is a very good offer. Trying to stop the infection and doing everything that they can to prevent infection.,602782975,5,4,2,4,2,0,3,1,35,1,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+96,xA,badge,5,0,Because the dr being identified that they are able and can provide the procedure would make a patient more comforted also the fact that they are odentified to cut down on infection makes total logical sense because if they were identified as such they would be competent in the procedure which in turn will cut down on the risk of infection,723911645,3,1,5,1,2,0,5,0,32,0,2,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+97,xA,badge,3,0,Because I'm not a Dr and can't make that call on to use one or not.,-71274378,3,3,3,3,2,0,2,0,34,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+98,xA,badge,5,0,If it saves a life its worth it,-301787159,5,5,3,3,1,1,3,1,45,1,3,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+99,xA,badge,3,0,Don't know if just reading about these procedure is any better than previous hands on treating,1977685167,5,5,2,4,2,0,3,1,55,1,2,0,3,0,14,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+100,xA,badge,4,0,So they can know what to do should an infection arise.,-1003736289,2,2,5,1,2,0,2,0,33,0,4,1,2,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+101,xA,badge,3,0,Because he can be wrong for doing what he's doing or he can be doing the right thing,597318231,4,3,4,2,2,0,3,1,20,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+102,xA,badge,3,0,Idk i just wanted to choose that one and disnt realize that we were gone do a part on to explain yourself. What am i back in school or something,1278905952,4,3,3,3,1,1,2,0,19,0,4,1,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+103,xA,badge,3,0,"I don't see a problem based on  the information, but would need more to really know.",-1934123208,1,1,5,1,1,1,3,1,34,1,6,1,7,1,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+104,xA,badge,3,0,I don't think it is right at all.,-1249405220,2,4,3,3,2,0,3,1,19,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+105,xA,badge,3,0,I really didn't understand what the question was trying to ask. It confused me.,267987283,4,3,4,2,2,0,3,1,25,0,3,0,3,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+106,xA,badge,3,0,I think it would be an extra warning or explanation about the safety of the procedure besides oral and written  instructions. It might be hard to read because of the size of the font and when the doctor moves.,1630501871,5,4,2,4,2,0,3,1,55,1,4,1,4,1,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+107,xA,badge,3,0,"I just don't care really, it's not relevant to me",2135548079,2,2,3,3,2,0,1,0,23,0,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+108,xA,badge,3,0,Don't know,-638309902,4,1,4,2,1,1,3,1,45,1,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+109,xA,badge,3,0,"I don't think having a card attached to ones clothing is going to change the way a person goes about ones business.  The tendency will be to forget the card is even there.  If they want to attach one, fine, no harm done.",-1494293856,4,3,4,2,1,1,3,1,55,1,3,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+110,xA,badge,3,0,As A person with a disability and having many infections in my lifetime in my opinion all doctors should know this procedure without an instruction card. I would not feel safe if a doctor was reviewing an instruction card during infusions.,1063514061,3,2,5,1,1,1,3,1,45,1,3,0,-1,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+111,xA,badge,3,0,Not right or wrong,1057704531,3,3,3,3,1,1,3,1,28,0,1,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+112,xA,badge,3,0,Dr need to discuss everything with all patients,483054316,1,2,4,2,1,1,3,1,21,0,2,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+113,xA,badge,3,0,Because i didn't know the question.,-2013740451,5,4,4,2,1,1,3,1,50,1,2,0,-1,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+114,xA,badge,4,0,It saves lives and medicine has gone far,1212621418,3,3,3,3,1,1,3,1,23,0,2,0,-1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+115,xA,badge,4,0,I have the same thing at my work for handling situations. It makes the patient feel better about what is going on,840776217,4,4,4,2,1,1,3,1,25,0,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+116,xA,badge,4,0,Because I believe it's appropriate to take extra precaution,1269039668,1,3,3,3,2,0,2,0,21,0,3,0,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+117,xA,badge,4,0,"Good for extra protection, but it's not comfortable for patients to wear the badge to firce/select doctor.",367786541,2,2,4,2,1,1,4,0,53,1,4,1,5,1,6,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+118,xA,badge,4,0,That would be unsanitary and could help cause infections.,-2114085775,3,1,5,1,2,0,3,1,23,0,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+119,xA,badge,4,0,the style and design of the features with it,-1752334172,5,4,2,4,1,1,3,1,33,0,2,0,3,0,13,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+120,xA,badge,4,0,I Feel That The Doctors Should Have These Steps Memorized. Reading On The Back Of The Badge Seems Like You Are Unsure Of What You Are Doing & Will Probably Scare The Patient.,-674824960,3,5,4,2,2,0,1,0,22,0,2,0,1,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+121,xA,badge,4,0,Becuz it's somewhat impossible to me and people have different opinions,423609327,3,3,3,3,2,0,3,1,25,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+122,xA,badge,4,0,"Seems like a good training g/reminder method, but ultimately will do only a small amount of good. Doctor's are always moving fast, trying to get from one patient to another as quickly as possible in most cases. I can't see any of them taking the time and care to make sure they follow the card any more so then they would without having it on them at all times. A good idea in theory, but impossible to keep track of who actually  uses it as a proper  reminder.",652182300,4,4,3,3,2,0,3,1,24,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+123,xA,badge,4,0,Having the correct information readily on your person while performing the procedure can only help this precaution can not do anything but help,214684764,3,3,4,2,2,0,-1,0,38,1,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+124,xA,badge,4,0,Because just depending on the sensitivity and understanding between the different patients would depend on the appropriateNess of it each patient is individually emotionally different,1891303059,5,5,3,3,2,0,3,1,42,1,1,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+125,xA,badge,4,0,Safety is important.,-241926637,5,5,2,4,1,1,2,0,39,1,1,0,1,0,14,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+126,xA,badge,4,0,It is important for doctors to easily identify medical conditions and avoid any procedures that may react badly with them.,-1714670014,3,3,4,2,2,0,3,1,19,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+127,xA,badge,4,0,They should put caution on back I agree,-1068707184,3,1,4,2,2,0,3,1,31,0,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+128,xA,badge,4,0,That way the patients know that this doc knows how to perform the procedure with upmost confidence,-769876696,3,4,4,2,1,1,3,1,50,1,3,0,4,1,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+129,xA,badge,4,0,Because it was the most valuable answer,825142386,1,2,2,4,2,0,5,0,23,0,3,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+130,xA,badge,4,0,Seems good for reminder's sake but I would hope the person performing this procedure pretty much has it memorized.,1847971269,2,2,5,1,1,1,5,0,23,0,4,1,2,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+131,xA,badge,4,0,sounds like vital informtion,1319739835,3,2,4,2,2,0,1,0,37,1,4,1,4,1,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+132,xA,badge,4,0,Because it feels right,-1933496363,3,3,2,4,2,0,2,0,41,1,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+133,xA,badge,4,0,"It makes sense why that would become a thing, but in reality the doctor could just verbally say the risks to the patient.",575160513,1,3,4,2,2,0,2,0,17,0,2,0,1,0,6,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+134,xA,badge,2,1,That's something that sounds be disused between doctor and patient. Not just hung on the wall.,-732736037,3,4,2,4,2,0,3,1,22,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+135,xA,badge,2,1,I rather live then die any day .,2065539354,4,4,3,3,1,1,1,0,31,0,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+136,xA,badge,2,1,People are not guina pigs,-747383365,2,4,4,2,2,0,3,1,51,1,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+137,xA,badge,2,1,It's ridiculous to think that it printed on the back of a badge means anything the drs should already know the procedure by heart,-1522434549,4,4,4,2,2,0,3,1,36,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+138,xA,badge,2,1,"Doctor's shouldn't refer to something on their name badge. That seems out of the ordinary. If they need to look something up or double check how a procedure is done, they should do it in their office. I would feel uncomfortable if a doctor was checking that right in front of me.",-1894983892,3,4,4,2,2,0,3,1,24,0,4,1,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+139,xA,badge,2,1,It is not ethical for healthcare professionals to knowingly put their patients in harms way. If these patients develop infections they could suffer complications or even die from sepsis. This facility could use evidence based practice and implement standards precautions or provide more training to its employees. It was also not stated if the patients consented to be part of this experiment. If they did not this is definitely not ethically or morally right.,-1039687677,5,2,5,1,2,0,3,1,24,0,3,0,2,0,8,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+140,xA,badge,2,1,I don't know what to say,1186854042,2,2,4,2,1,1,-1,0,18,0,1,0,-1,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+141,xA,badge,5,0,Buoy,798810913,4,2,4,2,1,1,5,0,24,0,4,1,7,1,8,1,1,SA&WC,1,0,0,1,0.00,HiToLo
+142,xA,badge,5,0,I would rather the doctor have the list in front of him .   Sometimes people can forget things . So I feel that it is appropriate to have the list in front of them .,2084287486,3,3,4,2,2,0,3,1,22,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+143,xA,badge,5,0,because they are they to run test to find out whats wrong and then its there place to decide what to do from that point.,1818128163,5,4,3,3,1,1,3,1,29,0,2,0,1,0,12,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+144,xA,badge,5,0,Anything to serve as a reminder to help save lives. Other professions have little cheat sheets as reminders as well.,1885045597,5,4,4,2,2,0,3,1,32,0,6,1,3,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+145,xA,badge,5,0,Not all procedures are 100 percent affective but with the proper training and guidelines most of the time things are affective and the outcome is great.,-1367211211,3,3,1,5,2,0,3,1,26,0,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+146,xA,badge,5,0,All health risk should be divulged.,-675649629,2,2,4,2,2,0,1,0,23,0,3,0,6,1,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+147,xA,badge,5,0,Because it's good to know what is needed when doing a procedure.,1152468643,5,3,4,2,2,0,3,1,35,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+148,xA,badge,5,0,Common knowledge kinda thing,1891457836,3,3,4,2,2,0,3,1,31,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+149,xA,badge,5,0,Safety info prevents infection,1493700991,4,2,3,3,1,1,3,1,37,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+150,xA,badge,5,0,Becos there always precautions in health care,-1572883917,3,3,4,2,1,1,3,1,27,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+151,xA,badge,5,0,Shows that they are being precautious,-933610399,5,4,4,2,2,0,5,0,31,0,4,1,2,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+152,xA,badge,5,0,"Because the director runs the show, without a director people wouldn't know Wich direction to go",-1420606406,4,4,4,2,1,1,3,1,31,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+153,xA,badge,5,0,Because he cares for the wellbeing of the patients by making sure the doctors are aware of the safety procedures and only them who have that badge can perform such injections.,-258055844,2,4,4,2,2,0,2,0,21,0,4,1,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+154,xA,badge,5,0,They will be able to see what not to do and be safe when doing the procedure,-1194561710,4,2,2,4,2,0,2,0,40,1,1,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+155,xA,badge,5,0,Because he makes the movie great!,1598996484,4,4,4,2,1,1,3,1,30,0,2,0,1,0,10,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+156,xA,badge,5,0,Because it makes sense. Sounds safer that way.,1535362430,3,3,3,3,2,0,-1,0,23,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+157,xA,badge,5,0,Safety is important there are a lot of mishaps when being treated in hospitals. Doctors stay awake for long periods and mistakes are made.,1324369887,3,1,5,1,1,1,2,0,34,1,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+158,xA,badge,5,0,Because that way they know what they are doing and just in case they forget they have their badge to guide them or remind them.,773758247,5,4,3,3,2,0,3,1,20,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+159,xA,badge,5,0,"Because as a doctor, their job is to do anything and everything that can help a person's health and well being.  Including taking every precaution they can take to ensure good health of the patient.",-1020362874,4,4,3,3,2,0,3,1,25,0,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+160,xA,badge,5,0,I choose this option because I needed rolls on my fucking game so I had to take a damn survey. Now please just give me the damn rollsÍ¾_Í_ÜÍ¾_Í_ÜÍ¾_Í_Ü,-218345230,4,4,4,2,2,0,1,0,18,0,2,0,7,1,10,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+161,xA,badge,5,0,Because I'd rather have someone with a reminder hanging around their neck.,201203541,5,5,4,2,2,0,3,1,33,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+162,xA,badge,5,0,The doctor oftens knows the best way of treatments.,1351519267,5,5,4,2,1,1,3,1,38,1,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+163,xA,badge,5,0,It let you know that the doctor is capable of treating you and have been trained in that field,-1964607366,2,4,4,2,2,0,1,0,52,1,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+164,xA,badge,5,0,I think it is important for patients to know what kind of care they are receiving,-963073353,5,2,4,2,2,0,3,1,21,0,2,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+165,xA,badge,5,0,More reassuring.,1979031221,1,1,3,3,2,0,5,0,52,1,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+166,xA,badge,5,0,It can serve as a constant reminder of patient safety,-1215303574,5,5,3,3,2,0,2,0,49,1,3,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+167,xA,badge,5,0,I think it's a good idea so that people can know what it is that is being done to them and how it can effect them,49335759,1,1,5,1,2,0,3,1,30,0,2,0,2,0,3,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+168,xA,badge,5,0,So there's no infections after procedures.,1632205107,4,3,3,3,2,0,2,0,23,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+169,xA,badge,5,0,Because they are specially trained to care for the patient if they catch an infection.,-613534493,5,4,2,4,1,1,1,0,28,0,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+170,xA,badge,5,0,"I chose that answer because people are crazy now & days, people kill people in hoapitals, have to have some kind of identification & a different sign to tell who does what & whe there you should trust them or not.",896056718,3,4,4,2,2,0,4,0,22,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+171,xA,badge,5,0,I just believe that his opinion matters and should be able to take part .,-510109514,3,4,3,3,2,0,2,0,37,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+172,xA,badge,5,0,I chose that answer because i think the director has good intentions and is trying to help somehow even though risks probably still run high.However the idea is not too bad and hopefully does prevent such occurences from hapenning.,565501702,4,4,2,4,2,0,2,0,24,0,2,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+173,xA,badge,5,0,Because it is the right choice for the doctors to do so that the procedure process is safer,1103667834,1,5,4,2,1,1,3,1,23,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+174,xA,badge,5,0,So I will know,-1678405413,4,5,4,2,1,1,4,0,45,1,3,0,4,1,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+175,xA,badge,5,0,"I want the best option for people, If it has to do with the safety of others I feel everyone has the right to know.",-1672355395,3,3,3,3,2,0,1,0,19,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+176,xA,badge,5,0,It shows the risks,492847219,3,2,4,2,1,1,1,0,17,0,1,0,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+177,xA,badge,5,0,Na,548163348,3,3,4,2,2,0,2,0,24,0,3,0,1,0,8,1,1,SA&WC,1,0,0,1,0.00,HiToLo
+178,xA,badge,5,0,I chose the option I chose because it's only fair that way.,-324211561,2,3,1,5,2,0,3,1,20,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+179,xA,badge,5,0,It was saying that it would be treatable and yet they were explains the health issues.,445403355,5,3,5,1,2,0,4,0,27,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+180,xA,badge,5,0,Its to help to keep from an infection,72350117,5,5,4,2,2,0,3,1,25,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+181,xA,badge,5,0,"It's a physical reminder of what the protocol is, and it's tangible - it can be seen by all.",-2031334356,4,3,5,1,2,0,3,1,20,0,4,1,3,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+182,xA,badge,5,0,good,1486115432,1,4,4,2,2,0,2,0,30,0,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+183,xA,badge,5,0,I think it was helpful and it always good to listen to your doctor,709803024,2,1,4,2,2,0,5,0,26,0,2,0,5,1,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+184,xA,badge,5,0,It's good to be sure that they do everything they can to prevent infection.,1385385139,3,1,3,3,2,0,3,1,22,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+185,xA,badge,5,0,Because it may help prevent illness.,-1081824475,3,2,4,2,2,0,3,1,21,0,3,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+186,xA,badge,5,0,I like to know what I am getting myself into,1581812498,1,1,5,1,2,0,2,0,27,0,2,0,1,0,3,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+187,xA,badge,5,0,Good to know the doctors are educated,-1438962465,5,5,4,2,1,1,3,1,32,0,4,1,5,1,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+188,xA,badge,5,0,Because so he could know what he is doing,-1042372780,2,4,4,2,1,1,1,0,16,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+189,xA,badge,5,0,Only doctors who are qualified for this procedure should be the ones allowed for it so this helps distinguish those are and aren't qualified.,278777764,4,4,4,2,1,1,4,0,33,0,4,1,4,1,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+190,xA,badge,5,0,Because following safety precautions is very important. Hospitals can be sued for giving a patient an infection that can kill them.,-971419302,5,5,5,1,2,0,1,0,25,0,3,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+191,xA,badge,5,0,That seems like a really excellent idea because then if they get a little confused they can always look at their card and they won't be so anxious all the time.,1456345895,5,4,4,2,2,0,3,1,22,0,4,1,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+192,xA,badge,5,0,Yes,1482772796,1,2,2,4,2,0,1,0,34,1,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+193,xA,badge,5,0,I don't know,1703261962,4,5,4,2,1,1,3,1,37,1,4,1,4,1,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+194,xA,badge,1,1,Should have been talking with Dr you want to do,-2084272841,5,5,5,1,2,0,3,1,45,1,2,0,1,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+195,xA,badge,1,1,It's lying,2136946230,5,5,3,3,1,1,3,1,21,0,4,1,1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+196,xA,badge,1,1,It's much safer and more practical with less risk to the patient,-1298687752,2,3,3,3,2,0,5,0,27,0,2,0,1,0,8,0,1,SA&WC,0,1,0,0,1.00,HiToLo
+197,xA,badge,1,1,I dont like the idea of it,1840490163,1,1,2,4,2,0,2,0,29,0,2,0,6,1,6,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+198,xA,badge,1,1,I choose it because it's deadly as it stated and not that but the doctors get a new id after it's not fair,1353973888,3,5,4,2,2,0,1,0,19,0,2,0,4,1,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+199,xA,badge,1,1,I dont think plastic should be in anyones body,1397011912,3,3,3,3,2,0,5,0,29,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+200,ABL,bp_long,3,0,I chose this option so I could get some free rolls,210926409,3,3,3,3,2,0,3,1,35,1,1,0,1,0,9,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+201,ABL,bp_long,3,0,Well because we all need to be in the best hands when we in need,-1301291989,1,2,2,4,1,1,2,0,31,0,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+202,ABL,bp_long,3,0,"I think it is appropriate because either way. You have to figure out what is the best way to do the procedures. I also think it's innopropiate because it is sad to test on humans, if it were to go wrong.",-965238051,5,4,4,2,2,0,3,1,20,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+203,ABL,bp_long,3,0,I think the patients should know they are in a test but either way the safety precautions are available to both set of doctors.,-237186520,3,5,4,2,2,0,5,0,23,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+204,ABL,bp_long,3,0,I chose the option because he has to do both in order to see which one works best.,1631827257,4,4,4,2,2,0,3,1,25,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+205,ABL,bp_long,3,0,I dont agree or disagree,-1429743666,1,5,1,5,2,0,3,1,27,0,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+206,ABL,bp_long,3,0,Idk I didnt understand the question so I just picked that one,-1903699028,3,5,5,1,2,0,2,0,24,0,1,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+207,ABL,bp_long,3,0,All depends on Dr 's,644490428,3,4,3,3,2,0,2,0,28,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+208,ABL,bp_long,3,0,Idk,-836257546,2,4,2,4,1,1,2,0,20,0,6,1,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+209,ABL,bp_long,3,0,Nothing would have been very fair.,-1129477566,4,3,3,3,2,0,3,1,24,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+210,ABL,bp_long,3,0,Because That's How I Feel.,1277585305,4,2,2,4,2,0,2,0,22,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+211,ABL,bp_long,3,0,"The Doctor still have the instuctions with every patient, either on the wall or on the badge.",1524339091,4,3,4,2,1,1,3,1,40,1,3,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+212,ABL,bp_long,3,0,Because it's a trial. There's no way to find things out without testing which leads to better ways,572801034,3,3,4,2,1,1,3,1,23,0,2,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+213,ABL,bp_long,3,0,"I feel people are making the best decision for themselves, even if it might not be appropriate for others it might for them.",1206321661,5,5,5,1,2,0,2,0,25,0,2,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+214,ABL,bp_long,3,0,I chose this option because everyone needs to try and experiment new things bit know that it could not go the way it will.,563753161,4,4,3,3,2,0,3,1,24,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+215,ABL,bp_long,3,0,He's valid because that's how it should work,418984424,1,3,3,3,2,0,3,1,36,1,3,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+216,ABL,bp_long,3,0,I am not sure about this...,-1984313838,5,4,4,2,2,0,2,0,35,1,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+217,ABL,bp_long,3,0,because im really not sure,21805384,3,2,4,2,2,0,3,1,50,1,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+218,ABL,bp_long,3,0,"as long as precautions are listed, don;t feel it matters where they are listed",996906532,5,5,3,3,2,0,3,1,55,1,4,1,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+219,ABL,bp_long,3,0,I do t agree,491995325,5,4,4,2,1,1,5,0,28,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+220,ABL,bp_long,3,0,Well I don't know much about medical treatmentds or how they usually decide what treatments to use so I don't know how to feel about the way he chose to go about it...,-1221918534,5,4,4,2,1,1,3,1,34,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+221,ABL,bp_long,3,0,I'm not for sure what it is.. But if it helps save someone why not do it.,1991663597,4,5,3,3,2,0,3,1,43,1,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+222,ABL,bp_long,3,0,Beacusr its whats right. Thats how I feel. Its the only explination.,245826701,3,4,2,4,2,0,2,0,26,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+223,ABL,bp_long,3,0,cause,-1346015969,3,3,3,3,2,0,5,0,27,0,3,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+224,ABL,bp_long,3,0,That's my opinion,1488815100,3,3,3,3,2,0,2,0,21,0,2,0,7,1,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+225,ABL,bp_long,3,0,"I don't see too much risk, but I don't see too much of the Dr trying to find ways to help.",-2121842499,3,2,4,2,2,0,3,1,33,0,4,1,4,1,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+226,ABL,bp_long,3,0,I think everyone is different and will handle it differently,194847763,4,4,5,1,2,0,3,1,36,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+227,ABL,bp_long,4,0,"I think this is a good way to determine which way will provide better results. Ultimately, the doctors will not be putting the patient in direct harm and they won't be putting them in any more danger than they are already in. The only reason it isn't completely appropriate is because there is is better way to find out which way will be more effective than a test like this that is so lengthy.",1399528048,5,5,3,3,2,0,2,0,22,0,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+228,ABL,bp_long,4,0,nothing just want it,1801633739,4,4,5,1,2,0,4,0,42,1,4,1,6,1,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+229,ABL,bp_long,4,0,The Patient and the Dr have the right to choose together,-1296895732,4,4,3,3,2,0,2,0,35,1,4,1,4,1,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+230,ABL,bp_long,4,0,I think it should be posted on wall so everyone can see it and use it. Not everyone can see it on back of doctor badge.,-1474731283,4,5,4,2,2,0,3,1,37,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+231,ABL,bp_long,4,0,I do believe that the environment has a lot to do with the paciente revery,86854746,4,3,3,3,1,1,2,0,24,0,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+232,ABL,bp_long,4,0,Because it would be for the best of the group. But the majority could also be only beat by a few patients where as it would not be a effective solution.,894996940,4,2,4,2,2,0,2,0,22,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+233,ABL,bp_long,4,0,I think it's a good idea. It's a good WY to test theorys.,-1867720175,4,4,4,2,2,0,3,1,32,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+234,ABL,bp_long,4,0,It's a very honest answer,508091965,4,4,5,1,2,0,3,1,23,0,4,1,4,1,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+235,ABL,bp_long,4,0,Could save lives,1794820032,3,4,3,3,1,1,3,1,53,1,2,0,5,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+236,ABL,bp_long,4,0,Appropriate because things to get tested in order to fix something or make it better,-2035461085,3,3,4,2,2,0,2,0,20,0,2,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+237,ABL,bp_long,4,0,"I kinda feel like it's a little messed up. Because he knows that one of the 2 options will kill people. But, at the same time, trial and error. So, it kinda needs to be done. To save more lives in the future.",180719701,3,3,3,3,1,1,3,1,35,1,1,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+238,ABL,bp_long,4,0,There is always anoher method. Only the future hold better ideas,63512412,3,3,3,3,1,1,-1,0,24,0,6,1,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+239,ABL,bp_long,4,0,Because makes sense,-967749940,5,4,4,2,1,1,3,1,40,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+240,ABL,bp_long,4,0,Because I felt like that would be a good choice.,1069989325,3,3,3,3,2,0,3,1,51,1,6,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+241,ABL,bp_long,4,0,I think its always a good idea to conztantly examine the best approach,-1700301427,4,2,4,2,1,1,3,1,38,1,4,1,6,1,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+242,ABL,bp_long,4,0,Because it made the most sense,-1112389,5,4,3,3,1,1,3,1,19,0,2,0,-1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+243,ABL,bp_long,4,0,How else are we supposed to learn if we don't experiment?,-1821842983,3,3,5,1,2,0,5,0,40,1,3,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+244,ABL,bp_long,4,0,Because it could or could not save a patient's life,458329066,1,5,2,4,2,0,3,1,38,1,4,1,3,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+245,ABL,bp_long,4,0,Happy,-436692240,5,4,2,4,2,0,2,0,28,0,2,0,1,0,13,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+246,ABL,bp_long,4,0,"I believe in order for doctors to control the chance of infections, they do need to run experiments, and a poster on the wall is a good idea so it can be read easier.",134358817,1,4,4,2,2,0,3,1,24,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+247,ABL,bp_long,4,0,Every situation is different. I don't know if I would be confident in the results in that period of time,983539181,4,4,3,3,2,0,3,1,36,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+248,ABL,bp_long,4,0,Because a doctor has the education to make a good decision. They also should know your health history in order to make that decision.,-967761324,3,3,4,2,2,0,3,1,30,0,4,1,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+249,ABL,bp_long,4,0,"I chose the answer that I did because after reading the passage, I concluded that the experiment would be somewhat appropriate.",86036162,5,4,3,3,2,0,3,1,20,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+250,ABL,bp_long,4,0,Medical advances require tests and experiments.,-1838884635,4,2,5,1,2,0,3,1,55,1,6,1,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+251,ABL,bp_long,4,0,Because I'm not sure.,-282382458,5,3,5,1,2,0,2,0,50,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+252,ABL,bp_long,4,0,They should all follow the same procedure,-1001514305,5,5,5,1,2,0,3,1,55,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+253,ABL,bp_long,4,0,No,-1538686805,2,2,1,5,2,0,3,1,19,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+254,ABL,bp_long,4,0,Not sure,-2054411911,3,3,4,2,2,0,3,1,24,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+255,ABL,bp_long,4,0,it is cruel but seems that it must be done,810864862,5,4,4,2,2,0,3,1,22,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+256,ABL,bp_long,4,0,Because anything  to save a life is worth the risk,-301787159,5,5,4,2,1,1,3,1,45,1,3,0,2,0,12,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+257,ABL,bp_long,2,1,Cuz  its confusing the patients,-1341964819,4,3,4,2,2,0,2,0,33,0,3,0,2,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+258,ABL,bp_long,2,1,Sure,1376250244,5,4,4,2,2,0,3,1,41,1,2,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+259,ABL,bp_long,2,1,I think it's kind of inappropriate because they should all have a poster on the wall with the precautions and stuff.,2084929009,5,5,4,2,2,0,3,1,21,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+260,ABL,bp_long,2,1,No doctor as no say so,-1679047152,3,4,2,4,2,0,1,0,50,1,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+261,ABL,bp_long,2,1,Plenty of risks either way,819566105,3,4,4,2,2,0,3,1,22,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+262,ABL,bp_long,2,1,It shouldn't be up to the doctor to test the safety of a procedure on patients without their knowledge.,-304495766,3,3,4,2,2,0,3,1,24,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+263,ABL,bp_long,2,1,It's saves lives. And less dangerous,413707464,5,5,2,4,1,1,3,1,18,0,2,0,-1,0,14,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+264,ABL,bp_long,2,1,Because it's not fair to put peoples health at risk . and I am scared of getting an infection,2145350110,3,2,4,2,2,0,2,0,19,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+265,ABL,bp_long,2,1,Because they can be doing a right thing or a bad thing for your life,239146909,3,4,3,3,2,0,2,0,24,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+266,ABL,bp_long,2,1,Because it sounds inappropriate. But atvtgecsame time worth the try.,1885099443,2,2,4,2,2,0,2,0,30,0,2,0,1,0,6,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+267,ABL,bp_long,2,1,Because he had a good decision,-2123526064,5,4,4,2,1,1,1,0,25,0,4,1,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+268,ABL,bp_long,2,1,I think he needa to be more specific on what he wants to do in order to see if his idea will actually work.,1951021469,2,4,4,2,2,0,2,0,22,0,3,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+269,ABL,bp_long,2,1,Because a doctor should know which precations to take,-1125683423,4,3,3,3,2,0,2,0,18,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+270,ABL,bp_long,2,1,"More needs to be considered, what the patients came in with,actual techniques used.",213102656,5,4,4,2,2,0,3,1,33,0,4,1,7,1,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+271,ABL,bp_long,2,1,Eehjrndndjdbrnrbrbrrhejrj. Uvuvucufyf7civiv8f7f.ivivuvuc7f,-1224774032,4,5,4,2,2,0,3,1,20,0,2,0,-1,0,11,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+272,ABL,bp_long,2,1,This is playing with their lives without their knowledge..it's not right. People should have the right to choose for themselves.,-871088092,4,3,3,3,2,0,2,0,38,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+273,ABL,bp_long,2,1,I just felt it's too much to wait for an year to know which method should be followed..,-1650771519,5,4,4,2,2,0,4,0,28,0,6,1,4,1,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+274,ABL,bp_long,2,1,Yucca gesv. Th.  K,-533519744,3,3,4,2,1,1,3,1,24,0,2,0,1,0,8,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+275,ABL,bp_long,2,1,Patients have to right to know proper SOPs,704297013,4,3,4,2,1,1,4,0,28,0,4,1,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+276,ABL,bp_long,2,1,all patients should be treated the same.,-709227094,5,5,2,4,2,0,3,1,53,1,2,0,3,0,14,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+277,ABL,bp_long,2,1,Terrible idea.,908047480,3,3,3,3,2,0,3,1,30,0,2,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+278,ABL,bp_long,2,1,Doctors need to tell you the precautions anyways instead of relying on people to read signs that they don't pay attention to.,-326425414,2,3,4,2,2,0,3,1,25,0,2,0,1,0,7,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+279,ABL,bp_long,5,0,Becuse it,798810913,5,5,5,1,1,1,5,0,24,0,4,1,7,1,11,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+280,ABL,bp_long,5,0,Because its is.,-199867747,5,5,4,2,2,0,3,1,23,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+281,ABL,bp_long,5,0,It's a clinical trial to find out which method is the most effective. It also informs the doctor which method of informing patients is the most effective for after care.,143225775,3,2,4,2,2,0,3,1,29,0,2,0,3,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+282,ABL,bp_long,5,0,Yes,-1907605930,4,4,4,2,2,0,3,1,27,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+283,ABL,bp_long,5,0,Patients are cared for,-579900896,5,5,5,1,2,0,3,1,26,0,2,0,1,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+284,ABL,bp_long,5,0,Because as a doctor their job is to do everything they can to ensure the we'll being of their patient. Such as taking every precautionary step they can take to ensure good health of the patient.,-1020362874,1,4,4,2,2,0,3,1,25,0,3,0,2,0,7,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+285,ABL,bp_long,5,0,I'm a premed student and I know the importance of trials. From these trials we learn the best way to treat or cure an illness. Without these trials there is no learning being done.,-1262002347,5,3,5,1,2,0,2,0,24,0,2,0,3,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+286,ABL,bp_long,5,0,It is worth risking a few lives to save the lives of many.,243246166,1,1,5,1,1,1,3,1,20,0,2,0,2,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+287,ABL,bp_long,5,0,I chose that option because it matters & is the very reason why more people are in better hands while in care in the hospital.,896056718,3,4,4,2,2,0,4,0,22,0,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+288,ABL,bp_long,5,0,It's appropriate because I will help determine which method is best,-1547908387,3,4,4,2,2,0,3,1,25,0,4,1,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+289,ABL,bp_long,5,0,Infection,72350117,5,5,5,1,2,0,3,1,25,0,2,0,1,0,11,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+290,ABL,bp_long,5,0,It's better to have more survivors.,2077228568,3,4,2,4,2,0,3,1,20,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+291,ABL,bp_long,5,0,Its interesting,-433316971,5,4,5,1,2,0,3,1,28,0,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+292,ABL,bp_long,5,0,A simple experiment thats not herting anyone and finding an anser to an issue is pretty convincing that hes doing somthing thats ok.,1434256629,1,1,5,1,2,0,3,1,29,0,2,0,2,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+293,ABL,bp_long,5,0,Because the way they handle there patients.,974709522,5,5,4,2,2,0,3,1,28,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+294,ABL,bp_long,5,0,Its very ok important on all medical reasons.,-1199800873,3,4,3,3,2,0,3,1,50,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+295,ABL,bp_long,5,0,"I believe it's appropriate because they will always have the precautions near them. Whenever they doubt something, they have where to refer to.",2106527892,5,4,4,2,2,0,2,0,19,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+296,ABL,bp_long,5,0,Same bad question,2079466789,1,1,5,1,1,1,3,1,39,1,4,1,5,1,3,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+297,ABL,bp_long,1,1,Because I think its very important,579042784,5,4,5,1,2,0,3,1,30,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+298,ABL,bp_long,1,1,He is deciding what to do without the patients knowledge.. so i think it's inappropriate how he is deciding on his own. The patients should know whats going on.,-648421961,4,4,3,3,2,0,2,0,19,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+299,ABL,bp_long,1,1,Because both sets of patients will know what is going on one will explain verbally and the other set will read to understand.,-2002992036,5,4,4,2,2,0,3,1,47,1,4,1,3,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+300,ABL,bp_long,1,1,Because the doctor usually does what's best,489663816,3,3,3,3,2,0,3,1,34,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+301,ABL,bp_long,1,1,It isn't right at all.it is very wrong.,-1249405220,5,5,4,2,2,0,3,1,19,0,2,0,-1,0,12,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+302,ABL,bp_long,1,1,The director is essentially using human subjects in an experiment and just throwing caution to the wind.,1787843073,1,2,5,1,2,0,3,1,20,0,2,0,2,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+303,ABL,bp_long,1,1,We are not test dummies we are humans,7948252,1,1,5,1,2,0,3,1,21,0,2,0,1,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+304,ABL,bp_long,1,1,Because it would be putting lives at risk,-1612503489,5,3,3,3,2,0,2,0,20,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+305,ABL,bp_long,1,1,The.safest way,-684618375,5,5,3,3,2,0,2,0,36,1,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+306,ABL,bp_long,1,1,They shouldnt test patients,747166268,5,5,2,4,2,0,3,1,28,0,2,0,1,0,14,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+307,ABL,bp_long,1,1,The patients are unaware that they are being test subjects. The doctor should have to go through the proper channels to perform a study of his hypothesis.,-1197667193,4,3,4,2,2,0,3,1,26,0,3,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+308,ABL,bp_long,1,1,I honestly don't think it's fair that human beings should go test subjects and that witch ever has the highest success rate be the ones who are treated,-466548383,3,3,4,2,2,0,3,1,25,0,2,0,-1,0,8,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+309,ABL,bp_long,1,1,Nothing to be a would that it,-809756840,4,4,4,2,1,1,3,1,29,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+310,ABL,bp_long,1,1,I don't think the doctor should have just chosen patients at random. If it can cause deadly infections then only the people who really need it should get it.,786735946,4,4,3,3,2,0,3,1,31,0,2,0,2,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+311,ABL,bp_long,1,1,I dont like the idea,1840490163,5,5,3,3,2,0,2,0,29,0,2,0,6,1,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+312,ABL,bp_long,1,1,He wants people to have the opportunity to be safeter,2118517469,5,5,2,4,2,0,2,0,19,0,1,0,-1,0,14,1,1,SA&WC,1,1,0,0,1.00,LoToHi
+313,ABL,bp_long,1,1,I see a lot of different ways this could go wrong. A doctor that feels this way should never be trusted.,-889179513,1,5,3,3,2,0,3,1,41,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+314,ABL,bp_long,1,1,This is not corrct,-809516210,3,3,3,3,2,0,3,1,35,1,2,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+315,ABL,bp_long,1,1,Hes not telling em what hes doing,1260555727,3,5,3,3,2,0,-1,0,24,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+316,ABL,bp_long,1,1,Both sets of patients should have the same essy access to the precautions given their treatment.,-646217605,4,2,4,2,2,0,-1,0,18,0,2,0,-1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+317,ABL,bp_long,1,1,Not fair. Playing god,-1472012549,4,3,4,2,2,0,3,1,26,0,4,1,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+318,ABL,bp_long,1,1,"Medical testing should be more controlled. The procedures the doctor wants to perform is highly experimental and complications will cause death, even in a procedure with a 90% success rate. Also, these general care procedures should be memorized and not at all written down, it will cause the caregivers to rely on instruction rather than studying and completely knowing what to do.",746855844,4,2,5,1,2,0,3,1,19,0,2,0,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+319,ABL,bp_long,1,1,I just think that this sounds absurd. That's many lives he is putting at risk for an experiment,-1210704383,5,5,2,4,2,0,3,1,30,0,4,1,1,0,14,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+320,ABL,bp_long,1,1,He should not have to test on a group of people because there is a chance some of them could die. The doctor should just take the past ratios of death rates to go off of.,-1343893390,2,2,5,1,2,0,3,1,22,0,2,0,3,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+321,ABL,bp_long,1,1,Because it's the doctor's choice. The patents have one too.,304471660,5,5,4,2,1,1,3,1,32,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+322,ABL,bp_long,1,1,Not soo healthy way,-922870087,5,4,5,1,2,0,-1,0,32,0,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+323,ABL,bp_long,1,1,I just choose it,342045135,5,5,5,1,2,0,3,1,30,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+324,ABL,bp_long,1,1,Humans are living creatures! We can't experiment on people!,-1825629079,3,3,5,1,1,1,3,1,21,0,6,1,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+325,ABL,bp_long,1,1,"I feel they should all do the procedure if it's written or on the wall just one way.  if best to have an experience dr. to help them out instead of reading it, just because the pressure can need your mind up",1498635596,3,5,4,2,2,0,-1,0,33,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+326,ABL,bp_long,1,1,I don't like the idea,-906249841,5,5,3,3,2,0,2,0,32,0,4,1,4,1,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+327,ABL,bp_long,1,1,Becose this is werth someones life on is the the line if  your do not do the tretme is vary inportent  that you do iean the people in the wating room redy for your pashont to be happy,-900850020,4,5,3,3,2,0,3,1,20,0,2,0,-1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+328,ABL,bp_long,1,1,Because risking a life matters more then the use of a unknown drug should take procedure before [tested] on a life,911733176,3,5,3,3,2,0,2,0,24,0,6,1,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+329,ABL,bp_long,1,1,I trust my doctor,2004714837,4,5,4,2,2,0,5,0,31,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+330,ABL,bp_long,1,1,If it saves lives its very important task to do,597611645,5,5,4,2,2,0,3,1,23,0,2,0,1,0,12,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+331,ABL,bp_long,1,1,because the doctor needs to discuss these options with each patient. It's not ethical or appropriate to make these decisions for the patient. The patients should be able to choose which one they they want done.,1025006285,3,3,2,4,2,0,1,0,32,0,4,1,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+332,ABL,bp_long,3,0,Because in one hand patients are being experimented on and on the other hand the procedure could save someone's life. But the only we could really know is if it was tested.,781094847,4,4,4,2,2,0,-1,0,26,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+333,ABL,bp_long,3,0,Idk,-398061811,4,3,4,2,1,1,3,1,20,0,4,1,5,1,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+334,ABL,bp_long,3,0,Depends on the situation.,-1314199673,3,3,5,1,2,0,3,1,27,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+335,ABL,bp_long,3,0,Idk. I just chose it.,-720440828,4,3,3,3,2,0,1,0,19,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+336,ABL,bp_long,3,0,Not sure. Would have to pray on it.,2067506943,5,5,3,3,2,0,3,1,54,1,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+337,ABL,bp_long,3,0,Im not sure the effectiveness of experiment. So im undecided,-2071001452,5,4,4,2,2,0,3,1,44,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+338,ABL,bp_long,3,0,Stop the madness trying to make all  this money and no cure,1906078084,5,5,2,4,1,1,1,0,41,1,2,0,1,0,14,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+339,ABL,bp_long,3,0,Because the answer was the most reasonable .,-8121479,4,4,4,2,2,0,2,0,21,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+340,ABL,bp_long,3,0,Basically sanitaion reasons,1605447576,4,4,4,2,1,1,2,0,55,1,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+341,ABL,bp_long,3,0,"Uhm, I don't even know?",-1236099158,4,4,5,1,2,0,3,1,24,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+342,ABL,bp_long,3,0,I don't understand it. It made no sense to me.,788747143,4,4,3,3,2,0,1,0,24,0,2,0,2,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+343,ABL,bp_long,3,0,Because there is no right or wrong answers.,592002891,3,3,3,3,2,0,3,1,34,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+344,ABL,bp_long,3,0,Because it testing to see what one will work in for both of them,-517096335,3,2,3,3,2,0,3,1,20,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+345,ABL,bp_long,3,0,The emphasis on location of procedure guidelines has no bearing on whether or not such a procedure is even relevant,-1532479047,4,3,4,2,2,0,3,1,48,1,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+346,ABL,bp_long,3,0,It doesn't seem like a good idea,737719713,4,4,4,2,2,0,5,0,37,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+347,ABL,bp_long,3,0,Yes,919824739,3,3,3,3,2,0,2,0,24,0,4,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+348,ABL,bp_long,3,0,Honestly because I don't know whether its a good choice or a bad one. Yes experiments are needed but the failure puts to many at risk.,-1070647955,4,4,2,4,2,0,3,1,32,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+349,ABL,bp_long,4,0,There were 2 different methods to test the theory leaving more options to see what would work.,1214743588,5,4,3,3,2,0,3,1,26,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+350,ABL,bp_long,4,0,Most of the the time doc is always right,-1475389850,4,5,2,4,2,0,2,0,28,0,3,0,3,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+351,ABL,bp_long,4,0,Because it could be beat by just a few people. That would not be a good assumption.,894996940,3,2,5,1,2,0,2,0,22,0,2,0,1,0,6,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+352,ABL,bp_long,4,0,All patients should be given the same care,-579900896,4,3,4,2,2,0,3,1,26,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+353,ABL,bp_long,4,0,Because,-786538851,5,1,3,3,1,1,-1,0,27,0,1,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+354,ABL,bp_long,4,0,He was just figuring the best way.  And he did.,-634403131,2,4,3,3,2,0,1,0,45,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+355,ABL,bp_long,4,0,"I Think You Should Discuss And Reassure The Actual Patients Instead Of Just Posting Pictures On The Wall, And On The Back Of Badges...",-674824960,3,5,4,2,2,0,1,0,22,0,2,0,1,0,10,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+356,ABL,bp_long,4,0,It's a great way to determine the safest way to not get an infection.,-2144420904,3,3,4,2,1,1,3,1,30,0,3,0,2,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+357,ABL,bp_long,4,0,Me,525521419,3,3,4,2,1,1,3,1,17,0,6,1,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+358,ABL,bp_long,4,0,I like that they will have it posted on wall it will be higher chance for the patient to read it but to do study can risk their lives is bad,191113571,5,3,5,1,2,0,2,0,23,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+359,ABL,bp_long,4,0,The people can die from the plastic tube. It can harm a lot of people. And why seperate the people?,-536383549,1,2,5,1,2,0,2,0,24,0,2,0,-1,0,4,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+360,ABL,bp_long,4,0,You have to test out different procedures.,-1821842983,3,3,4,2,2,0,5,0,40,1,3,0,2,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+361,ABL,bp_long,4,0,Because yes i do agree that experaments and studirs should be done but if the dangers could lead to death i dont think it sgould be at the risk of a persons life,-1947322777,4,2,4,2,2,0,3,1,26,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+362,ABL,bp_long,4,0,Idk,1560127203,4,4,2,4,2,0,3,1,19,0,2,0,5,1,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+363,ABL,bp_long,4,0,Because it could go either way depending on your beliefs,584498633,4,4,4,2,2,0,3,1,30,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+364,ABL,bp_long,4,0,"Science is developing so fast, hard too keep up with science",137135973,3,4,4,2,2,0,3,1,55,1,3,0,4,1,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+365,ABL,bp_long,4,0,There is nothing negative,-711900637,4,4,5,1,1,1,1,0,43,1,4,1,5,1,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+366,ABL,bp_long,4,0,Didnot understand,301429760,4,4,4,2,2,0,2,0,34,1,2,0,2,0,10,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+367,ABL,bp_long,2,1,He is dealing with peoples lives.  This experiment needs to be performed for a less risky procedure.,1825446040,5,4,3,3,2,0,3,1,26,0,2,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+368,ABL,bp_long,2,1,Because they all should be done by professionals. Nor just a sense of lack for the daviee,-532352747,2,4,2,4,2,0,2,0,23,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+369,ABL,bp_long,2,1,Because he can easily do both. He also needs classes. You can easily ignore something you see everyday. Remind people in many different ways.,-360498966,4,4,4,2,2,0,5,0,41,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+370,ABL,bp_long,2,1,Painful any uncomfortable,1195898611,4,4,3,3,2,0,4,0,32,0,6,1,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+371,ABL,bp_long,2,1,"When it comes to medical procedures, doctors should follow similar/same protocol. And unless someone is volunteering or aware that they're under these circumstances, which seems like test/experiment, I'm not sure it seems okay.",57737378,2,1,4,2,2,0,3,1,31,0,3,0,5,1,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+372,ABL,bp_long,2,1,That's like treating people like guinea pigs!..just as bad as testing on animals.,-871088092,4,3,3,3,2,0,2,0,38,1,3,0,2,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+373,ABL,bp_long,2,1,I don't believe that is safe considering the statement saying this can be very deadly to patients. There also isn't a control group present.,500256191,4,3,4,2,2,0,4,0,20,0,4,1,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+374,ABL,bp_long,2,1,Because some of the patients wouldn't be able to survive the decise,-422179225,4,4,4,2,1,1,2,0,19,0,3,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+375,ABL,bp_long,2,1,It is not ethical for healthcare professionals to knowingly put their patients in harms way. If these patients develop infections they could suffer complications or even die from sepsis. This facility could use evidence based practice and implement standards precautions or provide more training to its employees. It was also not stated if the patients consented to be part of this experiment. If they did not this is definitely not ethically or morally right.,-1039687677,5,1,5,1,2,0,3,1,24,0,3,0,2,0,7,1,0,SA&WC,4,0,0,0,0.00,HiToLo
+376,ABL,bp_long,2,1,Because I believe that it is a matter of like trial and error. Waste of time.,-1083927290,4,1,2,4,2,0,5,0,31,0,4,1,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+377,ABL,bp_long,2,1,I feel like they should take another route doing the treatments.,-1434665667,4,3,3,3,1,1,3,1,26,0,2,0,5,1,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+378,ABL,bp_long,2,1,I believe that if your not 100% sure it will cure then why risk peoples lives,1470595680,3,3,3,3,2,0,2,0,22,0,3,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+379,ABL,bp_long,2,1,Because people could get infected and then infection could be passed to other people because it hasn't been treated ..they should test it on themselves to see if it work and if it does work then we use it.,235884449,4,4,3,3,1,1,2,0,30,0,4,1,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+380,ABL,bp_long,2,1,"As the doctor's intention was to save lives, he needed legal permission from each patient to preform a different operation. The patient needs to agree to have treatment.",-534644540,3,3,3,3,2,0,5,0,19,0,2,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+381,ABL,bp_long,5,0,Medicine has come far so less chance of infection and it saves lives,1212621418,4,3,3,3,1,1,3,1,23,0,2,0,-1,0,10,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+382,ABL,bp_long,5,0,I believe it's important to know who is operating on you and that they are qualified.,1062609494,5,3,5,1,2,0,3,1,21,0,4,1,1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+383,ABL,bp_long,5,0,Right thing to do,-1809941729,3,3,5,1,2,0,-1,0,33,0,3,0,3,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+384,ABL,bp_long,5,0,He should have 3 study  on with everyone one with poster and the other with paper,-1620359843,1,1,1,5,2,0,3,1,21,0,3,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+385,ABL,bp_long,5,0,I chosen that answer cause if it saves lives then what ever the best way for the proseser is then do it that way if it saves lives they should also study to make sure it's a right thing to do first,1652697535,3,5,3,3,2,0,1,0,20,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+386,ABL,bp_long,5,0,A year long study should give accurate results.,-2138907328,3,1,5,1,1,1,2,0,37,1,2,0,-1,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+387,ABL,bp_long,5,0,He is saying that he will treat the patients with the best way that is safe for everyone. I think his decision is very appropriate.,940167663,5,5,5,1,1,1,3,1,54,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+388,ABL,bp_long,5,0,Just my opinion,-1193124090,5,4,2,4,2,0,3,1,41,1,2,0,-1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+389,ABL,bp_long,5,0,It's easy and convenient,1528728950,2,4,4,2,2,0,4,0,28,0,4,1,5,1,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+390,ABL,bp_long,5,0,It's important,1437529298,3,3,3,3,2,0,3,1,35,1,3,0,4,1,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+391,ABL,bp_long,5,0,Because we should be able to flip the badge over and see all of their standards and qualifications they have,-1702261315,4,5,4,2,2,0,3,1,55,1,2,0,3,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+392,ABL,bp_long,5,0,It's important to the doctors to find out what's wrong with you're health. It could save you're life.,1052118789,5,5,5,1,2,0,2,0,22,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+393,ABL,bp_long,5,0,Cause it's the best one,648239393,3,3,2,4,2,0,2,0,19,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+394,ABL,bp_long,5,0,I choose that answer because in the medical.field in order to succeed experiments shall be made. We need to do trial and error in order to achieve the desired success.,-1023275854,3,3,3,3,2,0,2,0,19,0,3,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+395,ABL,bp_long,5,0,Because it creates important information readily available to others.  It promotes safety.,1130443920,5,3,4,2,1,1,3,1,41,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+396,ABL,bp_long,5,0,No,-1893528933,1,1,3,3,2,0,3,1,28,0,4,1,3,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+397,ABL,bp_long,5,0,Because he's trying to make new ways and lots of possibilities to make people sick be safe.,2118517469,5,4,2,4,2,0,2,0,19,0,1,0,-1,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+398,ABL,bp_long,5,0,I tbink it was a responsible and impirtant desicion,-538401449,5,1,1,5,2,0,2,0,37,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+399,ABL,bp_long,5,0,So the patient doesn't die.,-1543446041,4,4,4,2,1,1,3,1,30,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+400,ABL,bp_long,5,0,It will comfort the patients to know that it has been experimented before and no places for risks when they do it.,995683356,3,4,4,2,2,0,5,0,20,0,2,0,-1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+401,ABL,bp_long,5,0,People are more comfortable knowing what a doctor is able to do to save someone's life.,-1126532998,1,1,4,2,2,0,3,1,38,1,2,0,1,0,4,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+402,ABL,bp_long,5,0,Because the doctor was simply testing to see which mode of getting information to patients worked the best. This is a good thing and does not affect the success of the procedure only whether or not the patient understands its risks.,-1818153784,5,3,4,2,2,0,3,1,27,0,6,1,3,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+403,ABL,bp_long,5,0,"it sounds like a double blind study, so that is what is needee to ensure quality control",1087443926,3,1,5,1,2,0,3,1,55,1,6,1,2,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+404,ABL,bp_long,5,0,It is just something I feel very strongly about since I was young,-2113247695,5,5,5,1,1,1,3,1,22,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+405,ABL,bp_long,5,0,"Ultimately in the end,  the key word is experiment. With this being the case,  the doctor was trying to gain knowledge.  As long as the patients gave consent to be part of the experiment and understood the risks,  there should be no issue.",1997467041,3,3,4,2,1,1,3,1,32,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+406,ABL,bp_long,5,0,Drs know best,-581393500,3,3,3,3,2,0,3,1,22,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+407,ABL,bp_long,5,0,Because doctors should take every precaution necessary,-313395618,5,5,5,1,2,0,2,0,27,0,4,1,5,1,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+408,ABL,bp_long,1,1,Just didn't sound appropriate to have someone bear the responsibility.,-201057867,5,1,4,2,2,0,-1,0,52,1,6,1,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+409,ABL,bp_long,1,1,I chose that it was very inappropriate because not only are they choosing people randomly without permission but they are not letting them know because they're claiming to give them the same set of precautions,721800404,5,4,3,3,2,0,3,1,19,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+410,ABL,bp_long,1,1,I don't think they should experiment on people like that.,-544376444,5,1,1,5,2,0,2,0,34,1,3,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+411,ABL,bp_long,1,1,The doctor does not have the right to make that decision.,1005975716,5,4,3,3,2,0,3,1,26,0,3,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+412,ABL,bp_long,1,1,Because he should follow the normal procedure instead of doing his own.,-1803779063,5,4,3,3,2,0,3,1,22,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+413,ABL,bp_long,1,1,At some point it's very unethical when doctors keep information from patients that trusted them in them having the best treatment,-43618689,4,4,3,3,2,0,2,0,20,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+414,ABL,bp_long,1,1,Is a good anwser,-2065159419,4,4,4,2,2,0,2,0,34,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+415,ABL,bp_long,1,1,Its very inappropriate for a hospital director to get involved there are risks with every procedure you have in a hospital or a doctor's office,-329168790,1,1,5,1,2,0,3,1,24,0,2,0,1,0,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+416,ABL,bp_long,1,1,You should always have a consultation and everything explain to you and ask questions,-616647305,3,4,5,1,1,1,3,1,55,1,3,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+417,ABL,bp_long,1,1,I strongly agree,-638309902,1,1,1,5,1,1,3,1,45,1,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+418,ABL,bp_long,1,1,Because everyone should receive the same treatment,-638708866,4,4,3,3,2,0,3,1,30,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+419,ABL,bp_long,1,1,Don't think it's fair to do this without informing the patients beforehand.doctir doesn't seem very trustworthy or honest.the situation doesn't seem very professional.,1890110136,4,4,3,3,2,0,3,1,28,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+420,ABL,bp_long,1,1,I believe the badge should tell everything and it should be listed on the wall at the same time,858213226,3,3,1,5,2,0,1,0,37,1,2,0,4,1,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+421,ABL,bp_long,1,1,It sounds stupid,1123311981,3,2,3,3,2,0,5,0,23,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+422,ABL,bp_long,1,1,People shouldn't be put at risk,1547383872,5,4,4,2,2,0,3,1,37,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+423,ABL,bp_long,1,1,I don't think it's right that a doctor do that. Put people's lives at risk by not informing patients verbally themselves.,-93037061,3,4,3,3,2,0,2,0,45,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+424,ABS,bp_short,1,1,Because health and safety precautions. Need to be followed in the medical field.,-2018396615,5,5,3,3,2,0,3,1,32,0,2,0,3,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+425,ABS,bp_short,1,1,It does not seem appropriate to expieremnt,1268095386,4,3,4,2,2,0,3,1,26,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+426,ABS,bp_short,1,1,Patients should have a choice and know the risks before anything,-1695242470,1,2,4,2,2,0,3,1,23,0,2,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+427,ABS,bp_short,1,1,It's highly inappropriate because his patients have not been given informed consent.  You can't just run medical experiments without the patient nit knowing the possible pros and cons,-1278543523,5,3,2,4,2,0,3,1,46,1,4,1,3,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+428,ABS,bp_short,1,1,"It did not state that the patients were being told about this experiment. It seems they were giving a new dr instructions on a piece of paper, not properly training him. It all very inappropriate.",135494524,2,2,5,1,2,0,3,1,19,0,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+429,ABS,bp_short,1,1,"I feel it's not very safe nor clean, the doctors should consider the lives of others",2135548079,2,2,3,3,2,0,1,0,23,0,2,0,1,0,7,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+430,ABS,bp_short,1,1,He did not receive any consent from the patients,-2046317393,3,3,5,1,1,1,5,0,22,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+431,ABS,bp_short,1,1,It seems like he is not experienced and could risk other people life,767013446,4,4,5,1,2,0,2,0,27,0,6,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+432,ABS,bp_short,1,1,Patients are guinea pigs to be tested on without permission,-521247808,1,1,5,1,2,0,5,0,23,0,3,0,3,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+433,ABS,bp_short,1,1,I feel it is a good precaution to take for the doctors and patients.,-176380667,3,3,4,2,2,0,3,1,19,0,2,0,-1,0,8,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+434,ABS,bp_short,1,1,We all need our meds and the hospital gets paid for it,-309466857,4,4,4,2,2,0,3,1,24,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+435,ABS,bp_short,1,1,The safer you are the better the results will be.,-1762146627,1,4,3,3,2,0,3,1,19,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+436,ABS,bp_short,1,1,Both patients need to be told the precautions. Not just have them on the wall. For what.? They probably don't read it and it's better if a doctor explains to them. That's how patients are aware of the situation.,-1620743358,1,3,3,3,2,0,2,0,20,0,6,1,1,0,7,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+437,ABS,bp_short,1,1,"highly experimental, can cause death in surgeries with 90% success rates, more risk than help, doctors will rely on reading instructions and care for patients instead of memorizing the procedure which should be well known to ensure optimum health",746855844,4,2,5,1,2,0,3,1,19,0,2,0,-1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+438,ABS,bp_short,1,1,"If some could be lethal, that's horrible.",-722091584,4,4,2,4,2,0,3,1,40,1,3,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+439,ABS,bp_short,1,1,A doctor knows best for the patient.  Also Is well trained and educated.,1523811268,2,2,2,4,2,0,3,1,35,1,3,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+440,ABS,bp_short,1,1,Because he can save lives but its deadly so what live is he saving since it can kill people anyways.,-1251192264,5,3,5,1,2,0,5,0,20,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+441,ABS,bp_short,1,1,I don't know,1917066638,4,4,3,3,2,0,3,1,46,1,2,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+442,ABS,bp_short,1,1,I have no idea,203377887,5,5,4,2,2,0,-1,0,27,0,3,0,-1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+443,ABS,bp_short,1,1,Because the Dr.s main job is to do what's best for your health.,732928412,5,5,5,1,1,1,3,1,45,1,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+444,ABS,bp_short,1,1,Why be treated differently,213626081,3,5,4,2,2,0,3,1,41,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+445,ABS,bp_short,1,1,I just don't agree humans are not just any type of experiments and humans deserve nothing but the good health and not suffer,651006306,4,4,4,2,2,0,2,0,26,0,3,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+446,ABS,bp_short,1,1,The Dr. Doesn't seem to be taking the right precautions to make sure the patients survive. The Dr. Doesn't seem to care if they die of a deadly disease or not.,-902663790,4,4,3,3,2,0,3,1,30,0,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+447,ABS,bp_short,1,1,Shouldn't kill people,1307345139,2,2,2,4,2,0,3,1,22,0,1,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+448,ABS,bp_short,5,0,Hey Rossy the weekend of the park in l 5dollar and the park in l l and of itself as well as a dejar salir and,-1520098149,1,1,2,4,2,0,2,0,23,0,6,1,-1,0,6,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+449,ABS,bp_short,5,0,"I think testing which way is most effective is good, however a little scary considering ramifications If those in the group with the less effective way gets more infections. But at least he is choosing to fix a problem rather than do nothing. Hopefully the better option will be apparent quickly and he can switch everyone to the same group.",1152468643,4,3,4,2,2,0,3,1,35,1,3,0,2,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+450,ABS,bp_short,5,0,"I think that if there are two possible ways to help, you have to try both options with a large enough group to determine your findings substantial.",2094062422,2,1,5,1,2,0,3,1,31,0,2,0,2,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+451,ABS,bp_short,5,0,Safety of patients nd staff is always important an medical laws an rules need to be taking seriously,-1429743666,5,5,5,1,2,0,3,1,27,0,2,0,-1,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+452,ABS,bp_short,5,0,Because it's their job to help whatever sickness you have,-1400349558,2,5,3,3,2,0,2,0,50,1,1,0,4,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+453,ABS,bp_short,5,0,It's teue,730335283,5,4,3,3,1,1,2,0,29,0,2,0,-1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+454,ABS,bp_short,5,0,So I know,-1678405413,4,5,5,1,1,1,4,0,45,1,3,0,4,1,10,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+455,ABS,bp_short,5,0,Because when he was explaining its he was explain of how the healthcare is.,445403355,5,5,5,1,2,0,4,0,27,0,2,0,1,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+456,ABS,bp_short,5,0,i just didb,-1952576496,4,4,3,3,2,0,3,1,25,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+457,ABS,bp_short,5,0,When my family were in the hospital and nurse put the tube into my family vein. They did it correctly and they just doing their job.,1973560108,4,4,3,3,2,0,3,1,19,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+458,ABS,bp_short,5,0,It's Doctors responsibility to display the instructions to the patients.,-1412767066,2,4,3,3,2,0,4,0,32,0,6,1,-1,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+459,ABS,bp_short,5,0,"simply in this difficult situation some heavy decision should be made,maybe e don't like but sill if it can save life why not",-1323711961,4,4,5,1,1,1,3,1,41,1,4,1,6,1,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+460,ABS,bp_short,5,0,Lives saved,849020046,2,2,5,1,2,0,2,0,47,1,2,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+461,ABS,bp_short,5,0,Because it will show if printing the instructions on a poster is more helpful than on the back of the badge. It also shows if the doctor really knows what hes doing.,-753266978,2,2,5,1,2,0,3,1,18,0,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+462,ABS,bp_short,5,0,No,85677795,4,4,4,2,2,0,2,0,32,0,3,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+463,ABS,bp_short,5,0,"Its just a Good idea over all to read the ids and know who's working on you,  verses not knowing.",1482772796,5,1,5,1,2,0,1,0,34,1,2,0,1,0,7,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+464,ABS,bp_short,5,0,"You are seeing what method will remind the tech of the safety procedures.  I just am not sure how you will evaluate your results of the experiment, but either way, you are trying to get the techs to follow safety protocol, which is always a good idea.",-1689129203,3,2,5,1,2,0,3,1,39,1,4,1,2,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+465,ABS,bp_short,2,1,"Everyone needs to know all the risks, but if both are just written down they may not be read. They need to be verbally given as well.",317783463,5,4,3,3,2,0,3,1,36,1,2,0,2,0,12,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+466,ABS,bp_short,2,1,Because i think the director should of chose some one with more expierience.,762644868,3,2,4,2,2,0,3,1,21,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+467,ABS,bp_short,2,1,The doctor should be trained specifically to do the procedure with practice.,1521719443,3,3,4,2,2,0,3,1,21,0,3,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+468,ABS,bp_short,2,1,Bc ok,1062803005,4,4,4,2,2,0,2,0,32,0,1,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+469,ABS,bp_short,2,1,Because he should do both,-1620359843,5,5,4,2,2,0,3,1,21,0,3,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+470,ABS,bp_short,2,1,I don't think it's fair to the patients that suffer,289187979,3,3,4,2,2,0,3,1,24,0,2,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+471,ABS,bp_short,2,1,It is a good way to find out which way works and gets followed.,-1229240415,5,5,3,3,2,0,3,1,46,1,2,0,1,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+472,ABS,bp_short,2,1,"Safety measure is not something to be taken lightly in a hospital setting, you don't use a poorly thought out experiment to develop standards like this",-602979025,2,2,3,3,2,0,3,1,33,0,4,1,3,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+473,ABS,bp_short,2,1,If it leads to infection and it is simply listed on a wall most won't read the wall and those that listen to the doctor would probably only listen to every other word,-1455888994,3,2,3,3,2,0,2,0,21,0,6,1,1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+474,ABS,bp_short,2,1,Because I think that you can help.but we don't know of your goin to get an infection,-836257546,3,4,1,5,1,1,2,0,20,0,6,1,1,0,12,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+475,ABS,bp_short,2,1,"Because no matter the color, age, whatever that everyone deserves and should be treated equally and all have the same opportunities to live!!",-1182807275,4,3,4,2,2,0,3,1,33,0,4,1,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+476,ABS,bp_short,2,1,"I feel as though all the patients should be able to see the precautions. If not all can see them, then not all will know if the doctors are taking all the precatious.",-506178596,5,3,4,2,2,0,3,1,18,0,2,0,1,0,10,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+477,ABS,bp_short,2,1,It just seems as though seeing either one of these things would make a patient feel uncomfortable. It might question a doctor's knowledge if seeing this. It also might raise concerns of infection in the patient's mind that they might not have given thought to or worried about before.,-793294783,2,4,3,3,1,1,3,1,35,1,3,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+478,ABS,bp_short,2,1,People are not guina pigs.,-747383365,2,4,5,1,2,0,3,1,51,1,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+479,ABS,bp_short,2,1,Patients should know the procedures,548163348,3,3,4,2,2,0,2,0,24,0,3,0,1,0,8,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+480,ABS,bp_short,2,1,Becauasevi don't feel it is tight,8508217,3,3,4,2,2,0,3,1,34,1,6,1,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+481,ABS,bp_short,2,1,Because why is it fair one group is treated differently.,-1432211149,5,3,3,3,2,0,3,1,19,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+482,ABS,bp_short,2,1,I chose this because it's kinda of inappropriate to me.,1860049817,3,3,4,2,2,0,5,0,36,1,4,1,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+483,ABS,bp_short,2,1,People's lives are at risk,1577262525,4,3,4,2,2,0,3,1,21,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+484,ABS,bp_short,2,1,I think it should be the same for all.,-1140651053,4,2,5,1,2,0,2,0,36,1,3,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+485,ABS,bp_short,2,1,I confused,232723093,3,5,5,1,2,0,2,0,24,0,4,1,5,1,9,1,1,SA&WC,1,0,1,0,0.00,LoToHi
+486,ABS,bp_short,2,1,I believe the doctor will take precaution as well by giving the instructions,-609069298,5,5,5,1,2,0,2,0,19,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+487,ABS,bp_short,2,1,Cause I could,-1857303336,5,5,5,1,1,1,5,0,20,0,6,1,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+488,ABS,bp_short,2,1,I just feel that it's not right.  I would never dio it knowing it could possibly kill me.  Use it on someone willing to try it. Don't hide the facts,-1978141334,2,2,3,3,2,0,3,1,24,0,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+489,ABS,bp_short,2,1,The patient will be able to see and read it.,-1021786404,5,1,4,2,2,0,1,0,48,1,3,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+490,ABS,bp_short,4,0,I think its a good way to find a better procedure,-1533181846,1,1,5,1,2,0,3,1,49,1,2,0,1,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+491,ABS,bp_short,4,0,"I can see where the dr is coming from, by hanging precautions on the wall the dr will know the patient is very aware of the hazards and will be more careful to prevent infections.",1915360640,3,4,4,2,2,0,3,1,20,0,3,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+492,ABS,bp_short,4,0,Because the majority could be beat by just a couple people and would not be a fair acknowledgement of the situation.,894996940,3,2,5,1,2,0,2,0,22,0,2,0,1,0,6,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+493,ABS,bp_short,4,0,because he see very confortable with his decision,1486115432,4,5,4,2,2,0,2,0,30,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+494,ABS,bp_short,4,0,The precautions are listed in one scenerio. It's good to have different approaches.,530446038,3,4,3,3,2,0,3,1,20,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+495,ABS,bp_short,4,0,Because the signs need to be in every room you never know where your going to be when you need to insert one,980613795,3,4,5,1,2,0,3,1,20,0,2,0,2,0,8,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+496,ABS,bp_short,4,0,it's appropriate because everyone needs to be safe and healthy,-745808986,4,4,4,2,2,0,2,0,20,0,2,0,4,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+497,ABS,bp_short,4,0,It is not ethical for healthcare professionals to knowingly put their patients in harms way. If these patients develop infections they could suffer complications or even die from sepsis. This facility could use evidence based practice and implement standards precautions or provide more training to its employees. It was also not stated if the patients consented to be part of this experiment. If they did not this is definitely not ethically or morally right.,-1039687677,5,1,5,1,2,0,3,1,24,0,3,0,2,0,7,1,0,SA&WC,3,0.00,0,0,0.00,LoToHi
+498,ABS,bp_short,4,0,Basically safety issues,1605447576,4,4,4,2,1,1,2,0,55,1,4,1,2,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+499,ABS,bp_short,4,0,I dont know,-720169116,4,4,5,1,2,0,3,1,25,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+500,ABS,bp_short,4,0,Doing everything they can to be safe and help others.,602782975,4,3,4,2,2,0,3,1,35,1,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+501,ABS,bp_short,3,0,I agree not disagree as I am unsure which would be the safest. It makes me think of these people as lab rats,1621351969,1,2,3,3,2,0,3,1,22,0,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+502,ABS,bp_short,3,0,I don't think of it as being positive or negative. I don't feel as it's appropriate or inappropriate. I think it is a good test to see what people pay attention to. I think it's a good study.,-371567921,3,4,4,2,2,0,3,1,22,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+503,ABS,bp_short,3,0,Either option works. As long as the doctors are trained correctly.,-1348853279,3,3,3,3,2,0,3,1,35,1,2,0,2,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+504,ABS,bp_short,3,0,Making a list on a badge Id and one on a wall has nothing to do with what the main subject,-1194561710,4,2,2,4,2,0,2,0,40,1,1,0,1,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+505,ABS,bp_short,3,0,Experimental testing needs to be done for medical progression.,-2022555009,4,3,5,1,2,0,2,0,31,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+506,ABS,bp_short,3,0,I really don't know,844655469,3,3,3,3,2,0,1,0,19,0,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+507,ABS,bp_short,3,0,I didnt think it was about anyone being inappropiate,-535029071,4,4,4,2,2,0,3,1,51,1,6,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+508,ABS,bp_short,3,0,either way people are at risks,-52671598,5,4,4,2,2,0,2,0,19,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+509,ABS,bp_short,3,0,Because he should make the decision but maybe with some peers,-394766620,5,4,4,2,2,0,3,1,31,0,4,1,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+510,ABS,bp_short,3,0,If the patient understands the risks of the treatment then it is not wrong.,-207092119,4,3,5,1,2,0,3,1,21,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+511,ABS,bp_short,3,0,It depend to the patience and the doctor decision.,-683897397,4,2,4,2,2,0,4,0,44,1,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+512,ABS,bp_short,3,0,Because he still told people the risk and was up to them to take precaution,173645417,4,2,4,2,2,0,2,0,22,0,3,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+513,ABS,bp_short,3,0,Because does it really need to be on humans first,-315409041,3,3,2,4,2,0,2,0,19,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+514,ABS,bp_short,3,0,I just told you why damn,-1041424098,2,3,5,1,2,0,5,0,18,0,2,0,-1,0,6,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+515,ABS,bp_short,3,0,it doesn't make sense to me,1720707131,3,5,3,3,2,0,2,0,49,1,2,0,2,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+516,ABS,bp_short,3,0,i think either way the infections should be discussed to the person who you are going to give an iv to and them to understand that things could go wrong,1395117443,3,5,5,1,1,1,1,0,39,1,3,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+517,ABS,bp_short,3,0,Because im not a big fan,363518017,3,4,4,2,2,0,3,1,21,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+518,ABS,bp_short,3,0,I would do it,-1340162772,3,3,3,3,2,0,3,1,55,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+519,ABS,bp_short,3,0,It depends the situation,1718588356,4,4,4,2,2,0,3,1,27,0,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+520,ABS,bp_short,3,0,Same results mo,-747927691,5,2,4,2,1,1,5,0,16,0,1,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+521,ABS,bp_short,3,0,The dr should have to explain any procedure done and the precautions etc,483054316,5,5,4,2,1,1,3,1,21,0,2,0,2,0,12,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+522,ABS,bp_short,3,0,As long as theres concent its okay,-57172443,2,4,3,3,2,0,2,0,18,0,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+523,ABS,bp_short,3,0,To each his own.some may like it others not,-2074712417,1,1,4,2,2,0,3,1,51,1,3,0,1,0,4,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+524,ABS,bp_short,3,0,IDK,-2084272841,1,1,1,5,2,0,3,1,45,1,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+525,ABS,bp_short,3,0,I chose this answer because neither seem inappropriate or appropriate because the patients can still read the precautions.,-591705392,4,5,4,2,2,0,3,1,23,0,2,0,1,0,11,1,1,SA&WC,1,0,1,0,0.00,HiToLo
+526,ABS,bp_short,3,0,Because it's the way I feel,-1056605997,4,4,4,2,2,0,3,1,23,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+527,ABS,bp_short,3,0,Both options have their pros and cons,1667105650,5,4,3,3,2,0,3,1,25,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+528,ABS,bp_short,3,0,I didn't think he was inappropriate or appropriate at all,68589235,5,4,3,3,2,0,2,0,23,0,2,0,-1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+529,ABS,bp_short,3,0,Depends on the situation.,-1314199673,3,2,5,1,2,0,3,1,27,0,2,0,1,0,6,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+530,ABS,bp_short,3,0,Well I pic that answers because all the doctors do that like went you are on a hospital you need to wait like In a room and if you're going to donate something like blood pressure o don't know you need to be in a room,-836257546,5,3,3,3,1,1,2,0,20,0,6,1,1,0,11,1,0,SA&WC,3,0,0,0,0.00,HiToLo
+531,ABS,bp_short,3,0,"Because I think making the doctor learn the precautions with another method other than just printing them in visible places should be put into action. While the badge would probably be more easily looked at, both options don't seem ideal",426723116,4,2,4,2,2,0,3,1,20,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+532,ABS,bp_short,3,0,Talk to patients let them decide,-413431968,5,4,3,3,2,0,2,0,25,0,2,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+533,ABS,bp_short,3,0,Doctors should be held to the same standards. All patients school be giving the same rules,590776591,5,3,3,3,2,0,3,1,26,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+534,ABS,bp_short,3,0,i think that its innapropriate to do such without explaining the causeses,1395117443,3,3,3,3,1,1,1,0,39,1,3,0,3,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+535,ABS,bp_short,3,0,"The prompt isn't explained clearly. I don't understand the differences. Are both groups being given the same procedure, but for one the doctor explains it and the other it is just on a wall to be read? I don't understand the significance of the ID and the poster.",1251629401,4,3,4,2,1,1,4,0,29,0,3,0,2,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+536,ABS,bp_short,3,0,I think it is ok to have the posters but I think they should still explain to everyone.,-1847231531,4,4,4,2,2,0,3,1,29,0,1,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+537,ABS,bp_short,3,0,Not quite sure,1604321955,4,4,4,2,2,0,3,1,44,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+538,ABS,bp_short,3,0,I dont feel that either option is good or bad or the answer to solving the problem. As ddocctors they should be aware of thes precautions without a poster or a name badge with instructions,-1099307278,3,4,3,3,2,0,3,1,55,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+539,ABS,bp_short,3,0,I don't know what this means.,1722102820,1,1,1,5,2,0,3,1,55,1,2,0,1,0,7,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+540,ABS,bp_short,4,0,"I chose this answer, because i agree that if it saves lives than it should be done. Medical technology has gone far in the past years and hospitals are becoming more sanitary therefore less infection.",1212621418,3,3,4,2,1,1,3,1,23,0,2,0,-1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+541,ABS,bp_short,4,0,Very uncomfortable with tubes,1556008736,5,4,4,2,1,1,4,0,30,0,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+542,ABS,bp_short,4,0,I think if the instruction are printed on a card with the dr the chances of not following them correctly are slim which will cause less chance of infection,687150773,4,4,4,2,2,0,3,1,53,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+543,ABS,bp_short,4,0,"Well the safety issues with a person injecting themselves with no prior knowledge only a poster of instructions, but on the other hand people do this on a daily basis by themselves. A diabetic patient can use syringes to inject insulin, also drug atticts. So it wouldn't be that bad. The results will definitely render a clear score.",-2144420904,3,3,4,2,1,1,3,1,30,0,3,0,2,0,8,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+544,ABS,bp_short,4,0,I think it's not that appropriate for a doctor to do that which it can lead to infections on patients,423609327,4,4,4,2,2,0,3,1,25,0,2,0,1,0,10,1,1,SA&WC,1,1,0,0,1.00,HiToLo
+545,ABS,bp_short,4,0,"I feel these kind of things would be common procedure, you should be able to trust.the information they provide whether it is from a doctor or a sign on the wall.",1723472269,3,4,5,1,1,1,3,1,30,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+546,ABS,bp_short,4,0,Because I think it's the right one,648239393,4,2,3,3,2,0,2,0,19,0,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+547,ABS,bp_short,4,0,It seems appropriate to see the difference in what works better visually or to have it on them.,1360656202,3,2,5,1,2,0,3,1,31,0,2,0,2,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+548,ABS,bp_short,4,0,Because if necessary to save someone's life then you should try even if it means that it might not turn out the way you want it,-466548383,4,4,3,3,2,0,3,1,25,0,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+549,ABS,bp_short,4,0,I just think that if real needed then need to,1478752104,2,3,4,2,2,0,4,0,19,0,2,0,3,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+550,ABS,bp_short,4,0,"As long as the information is available  and easy to follow, both have access.",-1107714197,2,1,3,3,2,0,3,1,55,1,6,1,1,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+551,ABS,bp_short,4,0,I think the patients should know how the procedure goes.,1464715904,3,3,2,4,1,1,5,0,17,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+552,ABS,bp_short,4,0,So the patient knows which doctor knows how to do the surgery and so the patient doesn't get any bacteria.,1394080989,5,4,4,2,2,0,2,0,39,1,1,0,-1,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+553,ABS,bp_short,4,0,Treatment by looking at the precautions hanged on the wall can post difficulties.,1468037649,5,5,4,2,1,1,1,0,32,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+554,ABS,bp_short,4,0,Becuase what is each pachent getting out of the tests. And each one should be treated the same way,1692477424,4,4,3,3,1,1,3,1,24,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+555,ABS,bp_short,4,0,Yes,-1933496363,2,5,3,3,2,0,2,0,41,1,4,1,2,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+556,ABS,bp_short,4,0,"Fhkmcq lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",1544657969,4,3,3,3,1,1,2,0,47,1,2,0,4,1,10,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+557,ABS,bp_short,4,0,You never know what could happen. Either option could work. With different people,729463449,3,3,3,3,2,0,3,1,28,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+558,ABS,bp_short,4,0,It's nice to have the information handy. Although it shouldn't be needed with an education in the medical field.,946100616,4,4,3,3,2,0,3,1,27,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+559,ABS,bp_short,2,1,"Well if the precautions are on the back, what if the patient never sees them. They should make the patients read the list before going through with the procedure.",-813168497,5,4,4,2,1,1,2,0,26,0,4,1,2,0,11,1,1,SA&WC,1,0,1,0,0.00,HiToLo
+560,ABS,bp_short,2,1,I chose this decision because there are much safer ways to go about this testing.,-126414117,4,4,5,1,-1,0,5,0,NA,1,-1,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+561,ABS,bp_short,2,1,I think they should patient consent,-1096291960,1,2,5,1,2,0,1,0,42,1,3,0,3,0,4,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+562,ABS,bp_short,2,1,It makes sense to me. Some rights aren't right.,1464698122,3,3,4,2,2,0,5,0,24,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+563,ABS,bp_short,2,1,Because I needed dice rolls XD and I really have no clue what any of this said I just skimmed through and it sounded dumb as hell tbh.. Lolol,404886948,2,4,4,2,2,0,3,1,25,0,2,0,1,0,8,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+564,ABS,bp_short,2,1,i thought it?was the best decision,-730037716,4,5,2,4,2,0,5,0,39,1,2,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+565,ABS,bp_short,2,1,Because they should have done all the procedures the same.,-89870685,4,4,3,3,2,0,2,0,28,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+566,ABS,bp_short,2,1,Because why would you do an experiment on why somebody has a condition when you could just test them one by one. So that way the patients have some sort of connection with you being the doctor.,-1041424098,4,3,5,1,2,0,5,0,18,0,2,0,-1,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+567,ABS,bp_short,2,1,"In the medical field, putting patients knowingly in harms way is not ethical. Also it was not explained whether the patients consented to being a part of this experiment as well. If they did not, this is not ethical or moral on the facility and doctors part.",-1039687677,5,2,5,1,2,0,3,1,24,0,3,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+568,ABS,bp_short,2,1,I don't like the infection risk,-1104739508,1,1,5,1,2,0,3,1,39,1,2,0,4,1,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+569,ABS,bp_short,2,1,I feel as if the doctor should have just taken past deaths and studies the results. I do not feel it is right to take healthy humans and put them in a situation where they could die...especially if it is known beforehand that they may die.,-1343893390,1,2,4,2,2,0,3,1,22,0,2,0,3,0,5,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+570,ABS,bp_short,2,1,Because I would not want to be lied to. Don't give a doctor a badge if he didn't earn it. Nor try things that course possibly kill me,-1978141334,3,2,3,3,2,0,3,1,24,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+571,ABS,bp_short,2,1,"Each patient should be told directly, not by a poster.",1225406064,5,4,4,2,2,0,3,1,34,1,4,1,1,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+572,ABS,bp_short,2,1,Both groups should have the sign were it can be easily read,-718546869,2,3,4,2,1,1,3,1,43,1,1,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+573,ABS,bp_short,2,1,I feel its not right but if neccisary then do it,1695700092,2,2,3,3,1,1,3,1,21,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+574,ABS,bp_short,5,0,It is designed to reduce infections. It will investigate the best way to inform doctors,938284954,1,4,4,2,1,1,3,1,55,1,4,1,4,1,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+575,ABS,bp_short,5,0,I choose that option because some people feel better not knowing and some feel better knowing I for one don't want to know all the bad that can happen in a procedure or testing unless it's a 55%+ chance of death.,1337665329,3,3,4,2,2,0,3,1,27,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+576,ABS,bp_short,5,0,Because it is fair that way,-1886694297,3,1,4,2,2,0,1,0,31,0,2,0,3,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+577,ABS,bp_short,5,0,"This will help prevent patients from getting an infection from the needle. If this occurs, more patients can be cured with a limited risk of infection.",1622772244,4,4,4,2,2,0,3,1,22,0,4,1,5,1,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+578,ABS,bp_short,5,0,All health risk should be divulged to patients.,-675649629,2,2,4,2,2,0,1,0,23,0,3,0,6,1,6,1,1,SA&WC,1,0,1,0,0.00,HiToLo
+579,ABS,bp_short,5,0,I would like to know every thing before a procedure,1966436677,3,3,4,2,2,0,3,1,26,0,2,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+580,ABS,bp_short,5,0,Common knowledge,1891457836,3,3,3,3,2,0,3,1,31,0,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+581,ABS,bp_short,5,0,This experiment does not pose any additional threat or risk of infection that did not already exist. I see no harm in he experiment.,-843699724,3,4,3,3,2,0,2,0,55,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+582,ABS,bp_short,5,0,It puts people at ease,-1026304368,5,4,5,1,2,0,2,0,27,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+583,ABS,bp_short,5,0,The doctor's are always very professional,1414804917,5,4,3,3,1,1,2,0,18,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+584,ABS,bp_short,5,0,Cause,1957975914,1,1,1,5,2,0,3,1,19,0,2,0,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+585,ABS,bp_short,5,0,Safetly first,-1429743666,5,5,5,1,2,0,3,1,27,0,2,0,-1,0,11,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+586,ABS,bp_short,5,0,Because part of the job I'd being a doctor is to do whatever you can to benefit the patient. Such as taking every precautionary step they can take to ensure good health in their patient.,-1020362874,5,5,4,2,2,0,3,1,25,0,3,0,2,0,12,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+587,ABS,bp_short,5,0,I'm a premed student and these trials are how we learn. The director needs to fine the best possible solution and this trial is needed for the best outcome.,-1262002347,5,3,5,1,2,0,2,0,24,0,2,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+588,ABS,bp_short,5,0,Its important to have things listed whether you think a person knows them or not.,896056718,2,4,4,2,2,0,4,0,22,0,2,0,1,0,8,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+589,ABS,bp_short,5,0,Because it is important for others to be able to see this information readily. It creates a more fuctional design.,1130443920,1,4,3,3,1,1,3,1,41,1,2,0,1,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+590,ABS,bp_short,5,0,"I assume the director will be going through a research integrity agency to approve research within the workplace among human subjects. Under those conditions, it's entirely appropriate.",-1137125854,3,4,2,4,1,1,3,1,25,0,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+591,ABS,bp_short,5,0,Because we are all human and oders have more ability to learn about precautions with neddles however does precautions should be learned and knowledgeable by memory of a doctor,-1125683423,3,4,3,3,2,0,2,0,18,0,2,0,-1,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+592,ABS,bp_short,5,0,Both situations allow people to obtain info about side effects.,522117598,3,4,4,2,2,0,3,1,24,0,2,0,3,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+593,ABS,bp_short,5,0,Life liberty and freedom of speech play a big roll in this act of speech.,-773031346,4,4,3,3,2,0,-1,0,25,0,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+594,ABS,bp_short,5,0,"Tests need to be unbiased, otherwise they cant be accurate.",2073001627,4,4,2,4,2,0,3,1,34,1,3,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+595,ABS,bp_short,5,0,B d cause,-1363143066,5,3,3,3,2,0,3,1,35,1,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+596,ABS,bp_short,5,0,It is very appropriate for doctors and hospitals to give every precaution available. It is your job as a patient to try to understand and read everything the doctor is doing.,-803285847,3,3,4,2,2,0,3,1,27,0,3,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+597,ABS,bp_short,5,0,why i chose this option is because of how it relates to the situation that was described,-1515347095,5,3,4,2,2,0,1,0,20,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+598,ABS,bp_short,5,0,"because it did not require a big surgery instead it is done with tube. cos effective, less painful and convenient solution",-794963259,3,2,5,1,1,1,3,1,40,1,1,0,5,1,6,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+599,ABS,bp_short,5,0,Na,-1410655728,3,3,3,3,2,0,3,1,32,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+600,ABS,bp_short,5,0,Safety is one number priority in hospitals settings.,-971419302,5,5,5,1,2,0,1,0,25,0,3,0,3,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+601,ABS,bp_short,5,0,Because there should always be precautions to take out in words so that way the doctor can't say he forgot because there either on his id or a poster,492949315,1,5,2,4,1,1,3,1,21,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+602,ABS,bp_short,5,0,It's good to be organized,474888233,5,1,3,3,1,1,2,0,30,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+603,ABS,bp_short,5,0,Nothing,-1091314887,3,3,3,3,2,0,2,0,36,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+604,ABS,bp_short,5,0,Because the doctor should have explained before hand,-861517316,1,1,5,1,1,1,3,1,25,0,4,1,2,0,3,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+605,ABS,bp_short,1,1,Bartle do.,2123020368,5,5,5,1,1,1,3,1,19,0,4,1,7,1,11,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+606,ABS,bp_short,1,1,He needs consent.,1481459783,3,3,4,2,2,0,5,0,34,1,4,1,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+607,ABS,bp_short,1,1,Having someone pretending to be a medical professional is very dangerous and not safe. They more than likely do not know what their doing.,771923773,1,3,4,2,2,0,3,1,23,0,2,0,1,0,6,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+608,ABS,bp_short,1,1,Why would he give a job to someone who just started makes no sense especially not knowing if it can cause more danger to his patients.. So the new doctor can be the blame for it oh noo noo noo..,1952080537,3,3,3,3,2,0,2,0,27,0,2,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+609,ABS,bp_short,1,1,I wouldn't risk the patient following the instructions,-1216396651,2,1,5,1,2,0,2,0,30,0,2,0,3,0,4,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+610,ABS,bp_short,1,1,They have no previous training in handling/inserting the item,791405673,2,2,4,2,2,0,-1,0,24,0,2,0,3,0,6,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+611,ABS,bp_short,1,1,He should treat all people with the best treatment we the people are not experiment s,1873171127,3,3,1,5,2,0,3,1,30,0,1,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+612,ABS,bp_short,1,1,It doesn't say that they are experience with the procedure.,1765564219,5,2,4,2,1,1,2,0,45,1,4,1,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+613,ABS,bp_short,1,1,Good,598611,5,5,4,2,1,1,5,0,26,0,6,1,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+614,ABS,bp_short,1,1,Each group should get the same information in the same way so they know what is going or may happen.,-1638170151,3,4,2,4,2,0,3,1,55,1,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+615,ABS,bp_short,1,1,it is unethical to use your patiants as test subjects,1782592812,1,1,5,1,1,1,3,1,28,0,2,0,2,0,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+616,ABS,bp_short,1,1,It seems as though this procedure is not being taken seriously enough based on the mentioned description.,753926186,5,4,5,1,2,0,3,1,40,1,2,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+617,ABS,bp_short,1,1,Because despite signing something bad may happen,394266983,5,4,4,2,1,1,3,1,26,0,6,1,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+618,ABS,bp_short,1,1,Because your risking someone's life and just using them as a test dummy,-382748480,5,4,5,1,2,0,1,0,18,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+619,ABS,bp_short,1,1,Go with the best,-1939830776,3,4,3,3,2,0,2,0,35,1,3,0,2,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+620,ABS,bp_short,1,1,People are chosen at random without consent,-57172443,2,3,1,5,2,0,2,0,18,0,2,0,2,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+621,ABS,bp_short,1,1,"When it comes to peoples lives, tests shouldnt be done in that manner without the patients consent.",-106383563,5,4,4,2,2,0,2,0,32,0,3,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+622,ABS,bp_short,1,1,It doesn't make sense to put procedure of something being done to a patient on their back how the hell are they supposed to know unless of course it's a Target and you just want to like shoot them or something out I'm not really sure,-678531327,1,1,5,1,2,0,3,1,36,1,3,0,2,0,3,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+623,xB,poster,3,0,I don't think its right,579042784,5,5,5,1,2,0,3,1,30,0,2,0,-1,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+624,xB,poster,3,0,"It could save lives, which is good, but it can also lead to infections, which is bad",-1352873550,4,3,3,3,2,0,2,0,20,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+625,xB,poster,3,0,I'm not too sure why I put that answer but I would thank that because he put up the sign to let patients know before he does the procedure therefore its not appropriate nor inappropriate.,-1090185792,2,3,3,3,2,0,5,0,19,0,2,0,-1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+626,xB,poster,3,0,"We never really know if something works until we try it. If you try and you fail, you could end someone's life. But if you succeed, then you could save someone's life. I mean, honestly it sucks because you have to take that risk. That's the only way you will find out what is affective and what is not.",781094847,4,4,3,3,2,0,-1,0,26,0,2,0,-1,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+627,xB,poster,3,0,Because we gotta just learn to get in the same  page as everyone...get along with everyone,-1301291989,1,2,3,3,1,1,2,0,31,0,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+628,xB,poster,3,0,Because you can not assume what will be appropriate for one client. What is appropriate for one may be inappropriate to another,-933610399,4,2,5,1,2,0,5,0,31,0,4,1,2,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+629,xB,poster,3,0,It just seemed right. I believed it is optional,-994133184,4,4,5,1,1,1,3,1,43,1,4,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+630,xB,poster,3,0,Because it would be sort of helpful,-2043004492,3,1,3,3,2,0,-1,0,22,0,2,0,7,1,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+631,xB,poster,3,0,It depends on the situation.,-1314199673,2,3,4,2,2,0,3,1,27,0,2,0,1,0,7,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+632,xB,poster,3,0,Idk,-836257546,4,1,2,4,1,1,2,0,20,0,6,1,1,0,9,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+633,xB,poster,3,0,Not sure why didn't understand,-1246547118,4,5,1,5,2,0,3,1,41,1,2,0,-1,0,14,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+634,xB,poster,3,0,"The sign might be reassuring to the patient, but at the same time scare the patient.",-1734965882,4,3,3,3,2,0,3,1,47,1,3,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+635,xB,poster,3,0,Because while it's good to inform the patient it's something that can make some people fearful and is something that should be discussed with a patient,-1764085350,1,4,3,3,2,0,3,1,48,1,3,0,-1,0,8,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+636,xB,poster,3,0,I don't believe the list on the wall will make it less dangerous. They are more aware and cautious of the outcomes which is good but it doesn't better the issue.,500256191,4,4,4,2,2,0,4,0,20,0,4,1,-1,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+637,xB,poster,3,0,Everyone is different and sometimes things don't go as planned,1128799486,3,3,3,3,2,0,3,1,27,0,1,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+638,xB,poster,3,0,"i'd have to see the poster, but it sounds like it might be vital information",1319739835,3,2,4,2,2,0,1,0,37,1,4,1,4,1,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+639,xB,poster,3,0,Shouldn't the doctor explain this himself,-2051530792,4,4,3,3,2,0,3,1,28,0,2,0,1,0,11,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+640,xB,poster,3,0,I really did not havve a reason to why I chose this option,1396739205,2,3,3,3,1,1,3,1,29,0,2,0,1,0,8,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+641,xB,poster,3,0,As long as theres consent its okay,-57172443,4,2,3,3,2,0,2,0,18,0,2,0,2,0,9,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+642,xB,poster,4,0,Sometimes it has to be down,-1060238223,5,4,4,2,2,0,2,0,34,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+643,xB,poster,4,0,Because it's a good idea. But he also needs to explain to his patients further in detail.,-1741542250,3,3,5,1,2,0,3,1,21,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+644,xB,poster,4,0,I feel like this would be appropriate because it would be a visual reminder to the staff to follow all procedures correctly. I also feel like it would be appropriate because patients would be able to look at it and make sure the staff was doing it correctly.,1380702278,4,3,3,3,2,0,3,1,32,0,4,1,2,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+645,xB,poster,4,0,Reminds staff of precautions and makes patients more aware of what to expect.,401987727,3,3,3,3,2,0,3,1,55,1,4,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+646,xB,poster,4,0,Because medical treatment is very important,-1137512149,5,5,4,2,2,0,3,1,24,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+647,xB,poster,4,0,Because the director is assuring the patient the hospital is doing every step it can to keep the patient safe.,-1754191528,4,3,4,2,2,0,3,1,44,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+648,xB,poster,4,0,Because i can see it saving life in a fast matter.,1906029711,5,1,1,5,2,0,2,0,27,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+649,xB,poster,4,0,All treatment should be read and followed direction from doctor and patients,767013446,4,4,4,2,2,0,2,0,27,0,6,1,1,0,10,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+650,xB,poster,4,0,Good to know information,23638035,3,4,2,4,2,0,2,0,55,1,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+651,xB,poster,4,0,It's somewhat appropriate to post the procedure in every room. It can scare patients who really need the tubes inserted into a vein. Life over death situation.,-149600672,2,5,4,2,2,0,3,1,20,0,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+652,xB,poster,4,0,Because I would want all the information I could have and want my dr to know it to,-1766993405,3,3,4,2,2,0,3,1,26,0,2,0,2,0,8,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+653,xB,poster,4,0,I feel as long as there info put up in place where you can see you know the danger of this procedure.,552684946,4,4,3,3,2,0,2,0,36,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+654,xB,poster,2,1,Training should be done away from the eyes of patients. not a sing on the wall to scare them.,813064291,1,1,5,1,1,1,3,1,36,1,4,1,3,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+655,xB,poster,2,1,Very uncomfortable,1556008736,5,4,4,2,1,1,4,0,30,0,4,1,2,0,11,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+656,xB,poster,2,1,I wouldn't like it.  it's uncomfortable.,617361560,5,4,4,2,2,0,5,0,28,0,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+657,xB,poster,2,1,Hi,-1426591519,1,4,4,2,1,1,2,0,26,0,2,0,2,0,7,0,1,SA&WC,0,0,0,1,0.00,LoToHi
+658,xB,poster,2,1,There finding new ways to cure a disase,-684594224,3,3,4,2,2,0,2,0,22,0,1,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+659,xB,poster,2,1,Could mean life or death infection,137135973,3,4,3,3,2,0,3,1,55,1,3,0,4,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+660,xB,poster,2,1,Some infections cant be treated,394266983,5,3,5,1,1,1,3,1,26,0,6,1,1,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+661,xB,poster,2,1,I feel it's not r ight. It could kill you,-1978141334,2,2,2,4,2,0,3,1,24,0,2,0,1,0,8,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+662,xB,poster,2,1,Because the doctor should have explained the procedure beforehand,-861517316,1,1,4,2,1,1,3,1,25,0,4,1,2,0,4,1,1,SA&WC,1,0,1,0,0.00,LoToHi
+663,xB,poster,5,0,So the pricedure is visable at all times to anyone involved with them. This will cut down on possible mishaps.,1523104992,3,4,5,1,2,0,2,0,32,0,3,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+664,xB,poster,5,0,Because my dad died do to staff. If we knew how to prevent it we could helped,1943935203,4,4,5,1,1,1,3,1,40,1,1,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+665,xB,poster,5,0,The decision has no harmful side effects and could only make things safer. Also it would be good for the patients to see the correct procedures so they could notice if there was a problem,1956017725,3,3,4,2,2,0,3,1,26,0,2,0,4,1,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+666,xB,poster,5,0,Already answered this survey,-1367211211,3,3,5,1,2,0,3,1,26,0,3,0,2,0,7,1,1,SA&WC,1,0,0,1,0.00,LoToHi
+667,xB,poster,5,0,Because if it's a life saving procedure I don't see why anyone would be against it. I agree with having the procedure done if needed.,33976727,5,4,3,3,2,0,2,0,38,1,3,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+668,xB,poster,5,0,No additional harm or threat would be imposed on either patients.,-843699724,3,4,3,3,2,0,2,0,55,1,2,0,2,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+669,xB,poster,5,0,It's a much safer and practical method and less risk to the patient,-1298687752,2,3,3,3,2,0,5,0,27,0,2,0,1,0,8,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+670,xB,poster,5,0,Patients have the right to know why they are receiving the treatment they are given.,-1348853279,3,2,4,2,2,0,3,1,35,1,2,0,2,0,7,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+671,xB,poster,5,0,I think he's right for letting people know up front what the consequences are that way they have a choice,124662506,4,3,4,2,2,0,1,0,51,1,2,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+672,xB,poster,5,0,I feel as if a person should beaded fully aware of any side affects/problems that could arise when having work done by a doctor.,-732736037,5,2,4,2,2,0,3,1,22,0,2,0,1,0,9,1,1,SA&WC,1,0,1,0,0.00,LoToHi
+673,xB,poster,5,0,Following proper hygiene should be a requirement and proper standards.,1384590547,1,1,5,1,2,0,3,1,26,0,3,0,3,0,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+674,xB,poster,5,0,Giving patients the information they need in the room they are being treated is always a good idea,-1016370599,5,5,3,3,2,0,3,1,27,0,3,0,1,0,13,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+675,xB,poster,5,0,They're looking out for the patients best interest,2094076772,5,5,5,1,2,0,3,1,34,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+676,xB,poster,5,0,Helps patients know what to expect during the procedure and reminds nurses what the correct procedure is and this will hopefully reduce infections,-432567537,5,1,5,1,2,0,3,1,29,0,3,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+677,xB,poster,5,0,We have the right to know the risks of any procedure being done to our bodies.  We deserve the right to choose whether or not to proceed.,604830076,4,3,5,1,2,0,3,1,45,1,4,1,4,1,8,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+678,xB,poster,5,0,"Informed consent. The more information all parties know, the better.",1774744933,3,2,4,2,1,1,3,1,32,0,1,0,2,0,7,0,0,SA&WC,0,0,0,0,1.00,LoToHi
+679,xB,poster,5,0,I think not is very important for anyone and everyone who is having that kind of a procedure done to know the risks that can effect their body afterwards and to beware and know how to take precautionary measures,765887457,5,4,3,3,2,0,3,1,28,0,3,0,4,1,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+680,xB,poster,5,0,Patients should be aware of all risks of all procedures. So should medical staff. Prevention is often born of fear.,-78129031,2,1,4,2,2,0,3,1,21,0,2,0,5,1,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+681,xB,poster,5,0,So your patient can know what to expect and you can refer to chart if needed.,-28670457,5,5,5,1,2,0,3,1,54,1,3,0,5,1,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+682,xB,poster,5,0,I think it is very appropriate of the dr to post these safelty precautions on the wall so that both patient & nurse are well informed of procedure.,-731198202,2,2,4,2,2,0,2,0,21,0,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+683,xB,poster,5,0,"Every person treated should know the risks and the way the treatment will be done, therefore the posters are very appropriate",-1423232981,4,5,3,3,2,0,2,0,20,0,3,0,1,0,12,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+684,xB,poster,5,0,So you know what can de done so you dont get an infection,72350117,5,5,4,2,2,0,3,1,25,0,2,0,1,0,12,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+685,xB,poster,5,0,I changed my mind and want to click inappropriate. I have been in a ton of hospitals and staring at a poster like that would scare me and cause unnessecary stress. That's vital since a lot of my medical issues are exacerbated by stress. I do think the doctor should inform the patient and sign a consent that has this information.,429514268,5,5,3,3,2,0,3,1,36,1,2,0,1,0,13,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+686,xB,poster,5,0,Because people should know all pros and cons of any procedure they are getting dons,1599445630,5,5,3,3,2,0,3,1,32,0,2,0,1,0,13,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+687,xB,poster,5,0,It's good so all patients can be aware of all precautions,1385385139,3,2,4,2,2,0,3,1,22,0,2,0,2,0,7,1,1,SA&WC,1,0,1,0,0.00,LoToHi
+688,xB,poster,5,0,This way the patients know what is going on and what to expect. It might also make the person doing the procedure stop and think about what they are doing.,1840305902,5,4,3,3,2,0,3,1,44,1,2,0,4,1,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+689,xB,poster,5,0,Because he's having guidelines to reduce deadly diseases. So their for only doing it in rooms that have posters make it very easy. He should put them in all rooms though,980613795,3,4,5,1,2,0,3,1,20,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+690,xB,poster,5,0,I chose very appropriate because the patients need to know about what they are doing,1780756737,4,4,4,2,2,0,1,0,18,0,2,0,2,0,10,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+691,xB,poster,5,0,Because patients need to know about the risk of infection and how to take  preventive measures to avoid infection,-1679611050,5,4,3,3,2,0,3,1,28,0,2,0,-1,0,12,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+692,xB,poster,5,0,Because it could help prevent illness.,-1081824475,3,2,4,2,2,0,3,1,21,0,3,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+693,xB,poster,5,0,Patient awareness,1556700245,5,4,5,1,2,0,-1,0,42,1,3,0,3,0,10,0,1,SA&WC,0,0,1,0,0.00,LoToHi
+694,xB,poster,5,0,It is important for patients to know they are being safely treated. It is also a good reminder for those providing the treatment.,246992844,2,2,4,2,2,0,5,0,33,0,4,1,2,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+695,xB,poster,5,0,I chose this because I think it's important to know the risks of iv,-1300182977,5,5,5,1,2,0,2,0,28,0,4,1,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+696,xB,poster,5,0,It's is worth the risk to save someone's life,-366565700,2,2,4,2,1,1,3,1,29,0,6,1,1,0,6,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+697,xB,poster,5,0,"Cause just letting the people that they are stymtmpo, to look out  for as a sought",-366929018,5,5,5,1,2,0,2,0,29,0,4,1,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+698,xB,poster,5,0,Doctors tend to have good ideas,-1434665667,1,1,5,1,1,1,3,1,26,0,2,0,5,1,3,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+699,xB,poster,5,0,Patients need to know every precaution is taken to ensure their safety and health,1604321955,4,4,4,2,2,0,3,1,44,1,3,0,2,0,10,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+700,xB,poster,5,0,"Because the more you know,the more you be able to help yourself",-2021643223,5,5,5,1,2,0,2,0,38,1,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+701,xB,poster,5,0,Safety comes first. You are trained to co your best in getting patients well not giving them infections.,-971419302,5,5,5,1,2,0,1,0,25,0,3,0,3,0,11,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+702,xB,poster,5,0,I just feel that procedures should be posted so no one can say I did not know,-91583480,3,5,3,3,2,0,3,1,45,1,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+703,xB,poster,5,0,It's easy to forget procedure in a rushed situation.  Being able to read exactly what to do might be the difference in saving a life.  There should be no shame in checking the procedure just before actually doing it.  It's better than doing something wrong and ending up with a dead person and their family.,-1275682496,4,4,4,2,2,0,3,1,55,1,4,1,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+704,xB,poster,5,0,Because they posted a sign informing the precautions that's are needed,-1351160174,5,3,3,3,2,0,3,1,26,0,3,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+705,xB,poster,5,0,It very good,-2088199040,5,3,3,3,1,1,3,1,24,0,2,0,2,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+706,xB,poster,5,0,It's only right that he be safe while saving lives. That is all.,-1564300186,3,5,4,2,2,0,3,1,37,1,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+707,xB,poster,5,0,"Unfortunately most people don't read posters, but it makes sense for liability issues and whatnot to at least have the information posted.",-812812450,4,2,4,2,2,0,3,1,24,0,2,0,3,0,8,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+708,xB,poster,5,0,Idk,-1482010004,4,2,2,4,2,0,2,0,26,0,2,0,7,1,10,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+709,xB,poster,5,0,I chose appropriate because it is always best to make sure patients are informed of all risks in procedures.  It's our lives so we have the right to know.  It is their responsibility to make sure that we do.,-556946385,3,1,5,1,2,0,3,1,50,1,3,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+710,xB,poster,5,0,Idk,-535003166,4,2,5,1,1,1,5,0,22,0,4,1,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+711,xB,poster,1,1,When it comes to my health I would like to know all that I can do to prevent any harm/infection.,-813168497,4,3,4,2,1,1,2,0,26,0,4,1,2,0,9,0,1,SA&WC,0,1,0,0,1.00,LoToHi
+712,xB,poster,1,1,It's lying,2136946230,5,5,3,3,1,1,3,1,21,0,4,1,1,0,13,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+713,xB,poster,1,1,A reminder can be beneficial and patients can help remind stag as staff,1885045597,5,5,3,3,2,0,3,1,32,0,6,1,3,0,13,1,1,SA&WC,1,1,0,0,1.00,LoToHi
+714,xB,poster,1,1,"If the posters are in the rooms where the patients are being treated, they can ensure the doctors will follow these instructions and the spread of infection will be limited.",1622772244,3,4,4,2,2,0,3,1,22,0,4,1,5,1,9,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+715,xB,poster,1,1,Because,-591705392,5,5,4,2,2,0,3,1,23,0,2,0,1,0,12,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+716,xB,poster,1,1,I believe a patient should no all the risk on any procedure. And what to prevent to stay healthy.,325790995,5,3,3,3,2,0,3,1,44,1,3,0,3,0,11,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+717,xB,poster,1,1,Because he's a doctor and he knows what he's talking about,-18564471,4,4,5,1,2,0,2,0,26,0,3,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+718,xB,poster,1,1,I don't think this,648239393,4,5,2,4,2,0,2,0,19,0,2,0,1,0,13,1,0,SA&WC,2,0,0,0,0.00,LoToHi
+719,xB,poster,1,1,Constant reminder for staff to follow each step of protocol is appropriate,-417642601,5,4,3,3,2,0,2,0,30,0,2,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+720,xB,poster,1,1,This sounds like a dangerous procedure putting patients lives at risk,-1210704383,5,5,3,3,2,0,3,1,30,0,4,1,1,0,13,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+721,xB,poster,1,1,Because he's growing the infection and it's a possibility the person can die from it,-382748480,5,1,5,1,2,0,1,0,18,0,2,0,1,0,7,1,0,SA&WC,1,0,0,0,0.00,LoToHi
+722,xB,poster,1,1,It's obvious. All things considered,-2126657510,5,5,3,3,1,1,-1,0,34,1,3,0,2,0,13,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+723,xB,poster,1,1,Bc think they safe life in everyone,-986464305,3,4,4,2,2,0,1,0,34,1,2,0,-1,0,9,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+724,xB,poster,1,1,It isn't fair,-1300074074,5,5,4,2,2,0,1,0,24,0,3,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,LoToHi
+725,xB,poster,4,0,He's the director I guess he knows his movie better than anyone,-143285811,3,3,3,3,2,0,3,1,29,0,3,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+726,xB,poster,5,0,The posters would inform the patients of the safety procedures to keep infection at bay.,-671509654,1,3,5,1,2,0,3,1,27,0,4,1,2,0,5,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+727,xB,poster,5,0,Patients know what to expect,667018640,1,3,3,3,2,0,-1,0,22,0,2,0,-1,0,7,1,1,SA&WC,1,0,1,0,0.00,HiToLo
+728,xB,poster,5,0,"I feel it is appropriate because the doctor is informing the patients. If the doctor didn't do this, it would be wrong.",1026762906,5,5,3,3,2,0,1,0,28,0,2,0,1,0,13,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+729,xB,poster,5,0,He's informing you of what he will be proceeding to do,-1086399908,2,3,3,3,2,0,3,1,25,0,2,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+730,xB,poster,5,0,"I Choose this option because Its important to let the patient know what will be happening, and what the outcome will / might be.",-360500313,3,3,4,2,2,0,3,1,19,0,2,0,1,0,8,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+731,xB,poster,5,0,the doctor is being honest and putting all the info right out in the open for the patients to see. the doctor isn't hiding anything and make known the problems and side effects up front,-680090130,5,5,4,2,2,0,3,1,26,0,2,0,2,0,12,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+732,xB,poster,5,0,Because it gives the patient a chance to read over the precautions.. That way they can know what to do to stay healthy and also can make sure they want to have it done.,-2047087877,5,5,5,1,2,0,3,1,36,1,2,0,1,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+733,xB,poster,5,0,Let's patients know the risks.,-1742617421,4,3,4,2,2,0,3,1,19,0,2,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+734,xB,poster,5,0,I chose this because patients should be told what risks are involved woth any medical procedure and how they can reduce risk of harm durong and after.,-955514528,2,2,5,1,2,0,3,1,27,0,4,1,1,0,5,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+735,xB,poster,5,0,"If the patients know the risks and what they can do to help, it woukd imorove the problem.  The doctor made the right decision to put the sign up.",1976178359,3,3,4,2,2,0,3,1,21,0,3,0,2,0,8,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+736,xB,poster,5,0,Because we need more doctors who don't try to sugar coat stuff. I rather know the truth about my health then be led on or lied to.,1507878088,3,3,5,1,2,0,2,0,31,0,2,0,3,0,7,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+737,xB,poster,5,0,"I assume that the director will get appropriate approvals through research agencies for human subjects. Therefore, it's appropriate.",-1137125854,3,4,2,4,1,1,3,1,25,0,4,1,2,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+738,xB,poster,5,0,The doctor is making sure the patients are aware of the risks associated with the procedure.,-1543422667,4,3,4,2,2,0,3,1,24,0,3,0,1,0,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+739,xB,poster,5,0,The patient has the right to have everything explained to them including the benefits and the risk. Sometimes patients don't fully understand and are afraid to ask questions so having it readily available to where the patient can read it before the procedue makes the patient more aware and can deny if need be.,-893933174,3,3,1,5,2,0,3,1,26,0,3,0,2,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+740,xB,poster,5,0,Everyone should know the risks before a procedure. Having them their in the open for a patient to read is a great idea. Also very educational.,-1834136588,3,3,4,2,2,0,3,1,28,0,3,0,3,0,8,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+741,xB,poster,5,0,It's always appropriate to be sure the patient knows everthing they can about any procedure they have done. It gives them complete insight on whatto expect.,370330147,1,2,5,1,2,0,3,1,24,0,2,0,2,0,4,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+742,xB,poster,5,0,Doctor needs to talk before hand! How many times do I have to do this surbet6 before I get the points for it????,-861517316,1,1,5,1,1,1,3,1,25,0,4,1,2,0,3,1,1,SA&WC,2,0,1,1,0.00,HiToLo
+743,xB,poster,1,1,No ones should know the procedure the patient is getting besides the medical staff helping them,717999154,5,5,5,1,2,0,3,1,22,0,4,1,1,0,11,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+744,xB,poster,1,1,First of all most people aren't gonna read the poster. It the doctor job to ensure that the patients understand procedures and side affect,-1948957933,4,3,4,2,2,0,5,0,44,1,4,1,4,1,9,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+745,xB,poster,3,0,Well because they chose to go through with it so I don't see it bad or not bad,1900862448,2,4,4,2,2,0,2,0,27,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+746,xB,poster,3,0,What is appropriate for one may be inappropriate to another,-933610399,3,3,5,1,2,0,5,0,31,0,4,1,2,0,7,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+747,xB,poster,3,0,Because it saves people and kills people,-582595265,1,4,3,3,2,0,2,0,17,0,1,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+748,xB,poster,3,0,They should do appt more research first,1652697535,4,5,5,1,2,0,1,0,20,0,2,0,1,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+749,xB,poster,3,0,Because they is 50/50. Chance this could save your life or you could lose it you're beening use experiment to cure,1906078084,4,5,3,3,1,1,1,0,41,1,2,0,1,0,12,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+750,xB,poster,3,0,Just don't no,1038280518,3,3,3,3,1,1,2,0,38,1,2,0,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+751,xB,poster,3,0,I honestly don't know cause no matter what I say it's not going through,-1126532998,3,4,5,1,2,0,3,1,38,1,2,0,1,0,8,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+752,xB,poster,3,0,I am the one that weighs a ton dont need a gun,-410779957,2,2,2,4,1,1,1,0,22,0,3,0,7,1,8,0,1,SA&WC,0,0,0,1,0.00,HiToLo
+753,xB,poster,4,0,I chose the option because it saves lives,1794462332,4,4,3,3,1,1,3,1,23,0,2,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+754,xB,poster,4,0,"Because it's good for the doctors to be reminded on what procedure to do, but it can also be bad for the patients to know what's going on. Due to the fact that some patients become extremely nervous by just stepping into a hospital.",-1349597182,5,3,4,2,2,0,2,0,20,0,3,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+755,xB,poster,4,0,because the doctor needs the final decision,972178508,4,3,4,2,1,1,3,1,26,0,4,1,4,1,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+756,xB,poster,4,0,Because you need medical help,-1459896242,4,4,4,2,1,1,5,0,20,0,6,1,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+757,xB,poster,4,0,I don't think it's fair to those that suffer,289187979,3,2,4,2,2,0,3,1,24,0,2,0,3,0,7,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+758,xB,poster,4,0,It's just a good idea to keep people in the know.,627836824,5,2,4,2,1,1,3,1,50,1,2,0,2,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+759,xB,poster,4,0,Because I don't know,-593155335,5,4,2,4,1,1,2,0,33,0,6,1,3,0,13,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+760,xB,poster,4,0,I Think That Posting About The Precaution Is Okay But Having An Actual Conversation With Actual Research Will Make The Patient Feel More Secure.,-674824960,3,5,4,2,2,0,1,0,22,0,2,0,1,0,10,1,0,SA&WC,3,0,0,0,0.00,HiToLo
+761,xB,poster,4,0,Theres always another way . Only the future holds the answer.,63512412,3,4,3,3,1,1,-1,0,24,0,6,1,-1,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+762,xB,poster,4,0,People have a right to know if they are at risk for an infection or not,149663640,5,5,3,3,2,0,3,1,34,1,4,1,1,0,13,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+763,xB,poster,4,0,Not always 100 percent accurate,2058820301,3,3,4,2,2,0,2,0,29,0,3,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+764,xB,poster,4,0,Needs more details,-480467282,4,4,3,3,1,1,-1,0,22,0,6,1,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+765,xB,poster,4,0,Because everyone should be informed,-1766993405,3,3,3,3,2,0,3,1,26,0,2,0,2,0,9,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+766,xB,poster,4,0,"It's a good reminder of the policies and guidelines, but professionals should already know said information and it's best not to worry the patient unnecessarily",376396635,1,2,4,2,2,0,3,1,19,0,2,0,2,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+767,xB,poster,4,0,Because I felt it was somewhat appropriate. The doctor did what thought best.,286545563,1,1,5,1,1,1,3,1,31,0,3,0,4,1,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+768,xB,poster,4,0,Because i wanted to know,997024869,2,2,4,2,2,0,1,0,25,0,2,0,2,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+769,xB,poster,4,0,It seems that either way you could get sick.,-396385137,2,3,4,2,2,0,3,1,21,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+770,xB,poster,4,0,I don't think it would work,-1903729569,4,4,2,4,2,0,3,1,45,1,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+771,xB,poster,4,0,It is also a reminder for everyone not just only for patients,1698187493,4,3,3,3,1,1,4,0,40,1,3,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+772,xB,poster,2,1,Ghgd cache defences,798810913,1,5,5,1,1,1,5,0,24,0,4,1,7,1,7,1,1,SA&WC,3,0,0,1,0.00,HiToLo
+773,xB,poster,2,1,I think everyone has their own views but needs to keep people's privacy unknown,-1854477300,4,4,2,4,2,0,3,1,30,0,2,0,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+774,xB,poster,2,1,Not all people read the signs on the walls,-1039230467,1,4,4,2,2,0,2,0,20,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+775,xB,poster,2,1,Because I think everyone deserves to be equal,-371562839,2,4,2,4,2,0,3,1,23,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+776,xB,poster,2,1,I chose that option cuz how I feel kinda having mixed feelings bout this one,1861431402,4,4,2,4,2,0,2,0,31,0,2,0,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+777,xB,poster,2,1,Not everyone wants to participate.,-1482347198,3,4,5,1,2,0,4,0,21,0,2,0,2,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+778,xB,poster,2,1,More details are needed to why this procedure needs to be used,755509816,5,4,3,3,2,0,3,1,55,1,3,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+779,xB,poster,5,0,Because I feel it is important. They have an essential view point.,-976894699,1,4,4,2,2,0,3,1,38,1,4,1,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+780,xB,poster,5,0,It would remind them to do their job correctly. I think safety posters are always useful,1385186836,1,1,5,1,2,0,3,1,29,0,3,0,4,1,3,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+781,xB,poster,5,0,Because it's helpful,-749332046,3,5,3,3,2,0,1,0,24,0,2,0,-1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+782,xB,poster,5,0,because he thought about it.,1708184125,1,5,4,2,2,0,3,1,21,0,2,0,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+783,xB,poster,5,0,I would like to know every precaution if it could be life threatening. Sometimes the dr might forgot 1 or 2. But the list will have them all,1966436677,3,3,4,2,2,0,3,1,26,0,2,0,3,0,8,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+784,xB,poster,5,0,I don't know,972687151,5,5,1,5,2,0,2,0,42,1,2,0,2,0,15,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+785,xB,poster,5,0,It does matter that the patient and Dr should take precautions,-1572883917,3,4,4,2,1,1,3,1,27,0,2,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+786,xB,poster,5,0,Si more safe for all,-74312708,4,4,4,2,2,0,2,0,27,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+787,xB,poster,5,0,Because it's the right thing to go in order to do their job safety,1528938819,2,5,2,4,2,0,2,0,25,0,3,0,1,0,11,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+788,xB,poster,5,0,The doctor should explain what is happening to the pt. They should be able to reference it later as well,1205734420,1,2,4,2,2,0,3,1,22,0,2,0,1,0,5,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+789,xB,poster,5,0,As medics they are tired and tend to forget things or just need reassurance to not just do things too quickly. Having that up there as a reminder is helpful especially for new doctors,1899826940,3,3,3,3,2,0,2,0,21,0,4,1,1,0,9,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+790,xB,poster,5,0,The safer the better. Can't imagine who would oppose this.,-247525064,3,3,4,2,2,0,3,1,50,1,3,0,5,1,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+791,xB,poster,5,0,It's  more soothing knowing what exactly needs to be dun  and how it will be dun.,112434618,2,3,4,2,2,0,3,1,32,0,1,0,-1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+792,xB,poster,5,0,because fair is fair,1159608118,3,4,5,1,2,0,3,1,29,0,2,0,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+793,xB,poster,5,0,People will be aware of the risks,2054775224,4,4,4,2,2,0,4,0,28,0,2,0,-1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+794,xB,poster,5,0,so i will know,258359788,5,5,4,2,1,1,4,0,45,1,3,0,3,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+795,xB,poster,5,0,It's important to know how to properly test the patient to avoid tragedy,-2124385050,4,3,5,1,1,1,3,1,32,0,4,1,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+796,xB,poster,5,0,Accurate enough,562411959,4,4,4,2,1,1,2,0,36,1,3,0,3,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+797,xB,poster,5,0,Because of necessary to save someone's life you should always try even if it doesn't turn out the way you want it,-466548383,4,4,3,3,2,0,3,1,25,0,2,0,-1,0,11,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+798,xB,poster,5,0,Because it works,1035433167,1,1,1,5,2,0,3,1,46,1,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+799,xB,poster,5,0,I chose very appropriate because we have the right of freedom of speech and he's trying to get his word across in the form of a image. Which is appropriate for a individual to do.,-773031346,4,4,3,3,2,0,-1,0,25,0,2,0,-1,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+800,xB,poster,5,0,Because i agree with it,181481313,5,1,5,1,1,1,3,1,26,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+801,xB,poster,5,0,So people can be aware of the precautions they must take and be better informed,1169529789,1,1,4,2,2,0,3,1,24,0,3,0,4,1,4,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+802,xB,poster,5,0,To keep down infections.,-472748831,1,1,1,5,2,0,3,1,55,1,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+803,xB,poster,5,0,Because everyone should no the risk,-370529568,5,3,4,2,2,0,1,0,25,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+804,xB,poster,5,0,Because it will help surgeons understand how to make surgery safer,480673607,3,3,5,1,2,0,3,1,25,0,2,0,2,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+805,xB,poster,5,0,Very cool,-1861586881,1,4,4,2,1,1,2,0,24,0,2,0,1,0,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+806,xB,poster,5,0,"According to the first few sentences, inserting plastic tubes to save lives that carry a risk, should have posters in every room that performs this procedure to help others understand what it is and what they use and what to expect.",-149600672,3,5,4,2,2,0,3,1,20,0,2,0,1,0,10,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+807,xB,poster,5,0,I just think the safer you are the better.,-1762146627,5,4,3,3,2,0,3,1,19,0,2,0,1,0,12,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+808,xB,poster,5,0,Because I think we don't know what best for us. Sometimes it's time have help,755354842,1,5,2,4,2,0,3,1,29,0,2,0,3,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+809,xB,poster,5,0,because it carefully outlines the steps of the procedure so that the procedure is done the exact same way each time. obviously this is verycrucial to the experiment,1087443926,3,1,5,1,2,0,3,1,55,1,6,1,2,0,5,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+810,xB,poster,5,0,The director wants to help the patients by reminding hospital staff how to keep patients safe.  It is a good standard procedure to follow.,-324119640,4,5,3,3,2,0,3,1,38,1,4,1,1,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+811,xB,poster,5,0,Cause its really valuable for me.,-747369387,4,1,3,3,1,1,3,1,26,0,4,1,2,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+812,xB,poster,5,0,The doctor is doing a service by making this easily accessible to others,-2023465311,3,2,3,3,2,0,5,0,55,1,4,1,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+813,xB,poster,5,0,Its nice as a patient to be well informed of all risks associated with a particular procedure.,118063800,4,4,4,2,1,1,3,1,47,1,4,1,3,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+814,xB,poster,5,0,Because it makes sense,1084380142,1,2,3,3,1,1,3,1,18,0,2,0,1,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+815,xB,poster,5,0,A doctor knows best and is properly trained and educated.,1523811268,3,2,2,4,2,0,3,1,35,1,3,0,1,0,9,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+816,xB,poster,5,0,Whoever performing this procedure should be aware of how to prevent infections.  Patients should be allowed to read this and make sure the doctor is treating them properly.,-1247034296,3,2,5,1,2,0,3,1,29,0,2,0,2,0,6,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+817,xB,poster,5,0,Nothing,1804127930,4,4,4,2,2,0,2,0,24,0,2,0,1,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+818,xB,poster,5,0,I think every employee and paitent needs to be educated on the procedure,-183678795,4,4,4,2,2,0,3,1,38,1,3,0,3,0,10,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+819,xB,poster,5,0,It would be great to know what procedures the doctor is qualified for.,-1329026575,5,5,4,2,2,0,3,1,25,0,4,1,2,0,12,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+820,xB,poster,5,0,Because it should be on wall so people know what the procedure is before it is done,74106299,4,4,4,2,1,1,2,0,27,0,2,0,1,0,10,0,1,SA&WC,0,0,1,0,0.00,HiToLo
+821,xB,poster,1,1,It's not right,1268095386,2,2,4,2,2,0,3,1,26,0,2,0,1,0,6,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+822,xB,poster,1,1,I like,799009358,1,4,4,2,2,0,1,0,37,1,4,1,4,1,7,0,0,SA&WC,0,0,0,0,0.00,HiToLo
+823,xB,poster,1,1,Painful with tubes,1195898611,5,4,4,2,2,0,4,0,32,0,6,1,1,0,11,1,0,SA&WC,1,0,0,0,0.00,HiToLo
+824,xB,poster,1,1,Disagree very strongly about this,1840490163,1,1,3,3,2,0,2,0,29,0,2,0,6,1,5,1,0,SA&WC,2,0,0,0,0.00,HiToLo
+825,xB,poster,1,1,Becouse i like it that way,-1832346762,3,4,5,1,2,0,1,0,25,0,6,1,1,0,8,0,0,SA&WC,0,0,0,0,0.00,HiToLo

@@ -1,0 +1,721 @@
+,ID,Time Started,Time Finished,dv,free_response,condition,raw_condition,polarity,Gender,Race,Age,Education,Income,duration,numerical_dv
+0,-1711551790,5/2/18 17:58,5/2/18 17:59,Very appropriate,Because it seems like he would do what's in his patients best interest,a,a,reverse,female,white,25 - 34,vocational_technical_college,lower_i,23,5
+1,-200162575,5/2/18 18:02,5/2/18 18:02,Very appropriate,It seems like dr. Jones cares about his patients with high blood pressure and the treatment they receive for it.,a,a,reverse,female,latino,25 - 34,postgraduate,middle_i,26,5
+2,150165022,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,it might be effective. if it’s approved,a,a,reverse,female,asian,25 - 34,university,lower_ii,40,4
+3,-1841783706,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,It sounds like bother medications are simular so it doesn't matter which is given. It is dr. Choice if he wants to use a he will because a and b are almost or are identical.,a,a,reverse,female,white,35 - 44,university,lower_ii,78,4
+4,581819893,5/2/18 18:04,5/2/18 18:05,Very appropriate,Because more medicines need to be approved for the Americans.,a,a,reverse,male,white,25 - 34,university,high_i,26,5
+5,-401101727,5/2/18 18:00,5/2/18 18:01,Very appropriate,He is trying to provide thw best care he can. It sounds like both drugs are equally effective and safe.,a,a,reverse,female,white,35 - 44,university,high_i,32,5
+6,825373983,5/2/18 18:03,5/2/18 18:03,Somewhat inappropriate,Cdtko bc d sch have fg jdc I don't now i am praying i love it,a,a,reverse,female,white,25 - 34,high_school,prefer_not_to_say,14,2
+7,-1306359931,5/2/18 18:03,5/2/18 18:04,Very appropriate,He has the right to say what he wants and how he feels. No one should tell him what he should and shouldn’t say,a,a,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,29,5
+8,-1268173348,5/2/18 18:05,5/2/18 18:05,Very appropriate,Important,a,a,reverse,male,arab,45 - 54,postgraduate,prefer_not_to_say,29,5
+9,-1962509191,5/2/18 18:16,5/2/18 18:16,Very appropriate,I chose the the option I chose because if it’s a approved that mean it’s appropriate,a,a,reverse,male,black,18 - 24,university,lower_i,44,5
+10,2111303223,5/2/18 18:00,5/2/18 18:00,Neither inappropriate nor appropriate,Na,a,a,reverse,male,hispanic,25 - 34,high_school,lower_ii,5,3
+11,1455637329,5/2/18 18:01,5/2/18 18:01,Very appropriate,Because it sounds like me,a,a,reverse,female,white,18 - 24,high_school,lower_i,18,5
+12,-2102955237,5/2/18 18:03,5/2/18 18:03,Very appropriate,Excited,a,a,reverse,female,white,25 - 34,high_school,lower_i,5,5
+13,227899559,5/2/18 18:00,5/2/18 18:01,Very inappropriate,Because we keep that shit  close,a,a,reverse,male,arab,35 - 44,postgraduate,high_ii,27,1
+14,-875716684,5/2/18 18:12,5/2/18 18:13,Somewhat appropriate,Because both drugs are affordable and minimal side effect. Dr. Jones has a choice if he thinks he’s providing the best service,a,a,reverse,male,black,35 - 44,vocational_technical_college,middle_i,76,4
+15,1800844517,5/2/18 18:00,5/2/18 18:00,Neither inappropriate nor appropriate,I know nothing abput this,a,a,reverse,female,white,45 - 54,high_school,lower_ii,14,3
+16,2133029147,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,Bc why not,a,a,reverse,male,white,18 - 24,vocational_technical_college,lower_i,13,4
+17,-586663696,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,Because he is deciding to treat his patients with the drug he prefers,a,a,reverse,female,white,25 - 34,high_school,lower_i,75,4
+18,626169657,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,Because I chose it. Also it's a good idea.,a,a,reverse,female,hispanic,25 - 34,vocational_technical_college,prefer_not_to_say,88,4
+19,1189129239,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,"There's not enough information in the example to give a good response. A doctor should give options but since it seems other patients can manage it, it's not a bad option. Just not enough information.",a,a,reverse,female,white,25 - 34,high_school,lower_i,53,3
+20,207606079,5/2/18 18:01,5/2/18 18:03,Somewhat inappropriate,"I feel the patients should stay on the same medication they've been taking, not depending on who they see.",a,a,reverse,female,white,45 - 54,high_school,lower_i,102,2
+21,-858481236,5/2/18 18:04,5/2/18 18:04,Very appropriate,He seemed concerned about the patients wellbeing,a,a,reverse,female,white,35 - 44,university,high_ii,18,5
+22,1981379659,5/2/18 18:00,5/2/18 18:00,Somewhat appropriate,Because he chose a drug that was affordable with little effects.,a,a,reverse,female,white,18 - 24,university,lower_i,21,4
+23,-823138836,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,If they can stand the side effects it's fine.,a,a,reverse,male,hispanic,18 - 24,university,lower_i,44,4
+24,1864764670,5/2/18 18:15,5/2/18 18:15,Neither inappropriate nor appropriate,I'm not sure,a,a,reverse,male,other,35 - 44,high_school,lower_ii,12,3
+25,1617153362,5/2/18 18:04,5/2/18 18:05,Very appropriate,The doctor thinks that treatment A is best even thought they both help the patient with high blood pressure,a,a,reverse,male,prefer_not_to_say,18 - 24,high_school,prefer_not_to_say,69,5
+26,1107754860,5/2/18 17:57,5/2/18 17:58,Very appropriate,Because it relates to me,a,a,reverse,female,hispanic,18 - 24,high_school,lower_ii,55,5
+27,-1871439069,5/2/18 18:08,5/2/18 18:09,Somewhat appropriate,I think it's ok too a certain degree,a,a,reverse,male,white,45 - 54,vocational_technical_college,lower_ii,16,4
+28,-1822245257,5/2/18 18:12,5/2/18 18:13,Very inappropriate,Blood pressure problems have causes that prescription drugs do not solve.,a,a,reverse,male,white,25 - 34,vocational_technical_college,lower_i,55,1
+29,824982942,5/2/18 18:00,5/2/18 18:01,Very appropriate,It sounds like a better solution and better way,a,a,reverse,female,white,25 - 34,university,middle_ii,37,5
+30,1513773129,5/2/18 18:03,5/2/18 18:03,Very appropriate,Afford and providing patient care.,a,a,reverse,female,white,25 - 34,vocational_technical_college,high_i,16,5
+31,1308110099,5/2/18 18:06,5/2/18 18:06,Very appropriate,Awesome,a,a,reverse,male,white,45 - 54,high_school,lower_i,5,5
+32,306999074,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,They worked the same.,a,a,reverse,female,prefer_not_to_say,35 - 44,high_school,lower_i,25,3
+33,972852246,5/2/18 18:03,5/2/18 18:04,Very appropriate,"Save money buy buying more of type a meds and none of type b.  Also,  would be easier to script out as everyone would be on the same meds.",a,a,reverse,female,white,35 - 44,high_school,middle_i,62,5
+34,951234742,5/2/18 18:06,5/2/18 18:06,Very appropriate,Because he relates to the topic at hand,a,a,reverse,male,black,25 - 34,postgraduate,high_i,11,5
+35,-1078473952,5/2/18 18:03,5/2/18 18:03,Very appropriate,Because it sounded appropriate,a,a,reverse,female,white,18 - 24,high_school,middle_i,7,5
+36,53519964,5/2/18 18:08,5/2/18 18:09,Somewhat appropriate,Unless an allergic reaction occurs option a is totally viable,a,a,reverse,male,white,18 - 24,high_school,middle_i,32,4
+37,-134741155,5/2/18 17:58,5/2/18 17:58,Very appropriate,I'm not sure,a,a,reverse,female,white,18 - 24,vocational_technical_college,lower_ii,4,5
+38,-232463155,5/2/18 18:01,5/2/18 18:01,Very appropriate,Patient can tolerate it,a,a,reverse,female,white,25 - 34,postgraduate,lower_ii,16,5
+39,-802201043,5/2/18 18:06,5/2/18 18:06,Very appropriate,more rolls,a,a,reverse,male,white,25 - 34,high_school,lower_i,16,5
+40,1324616633,5/2/18 18:00,5/2/18 18:00,Very appropriate,I just choose it,a,a,reverse,female,multiracial,18 - 24,university,lower_ii,12,5
+41,-1907522826,5/2/18 18:14,5/2/18 18:16,Neither inappropriate nor appropriate,It depends on the patient. The doc should tailor the med for each person.,a,a,reverse,male,white,18 - 24,high_school,prefer_not_to_say,140,3
+42,805631664,5/2/18 18:15,5/2/18 18:15,Somewhat appropriate,It will benefit many,a,a,reverse,male,other,18 - 24,middle_school,lower_ii,13,4
+43,2029168844,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,I depends on all the other things that is wrong and the other meds the person may be on,a,a,reverse,female,white,35 - 44,high_school,lower_i,59,3
+44,-488634350,5/2/18 18:01,5/2/18 18:02,Very appropriate,Because it was the right thing to do. Because it was the right thing to do.,a,a,reverse,female,multiracial,25 - 34,high_school,lower_i,38,5
+45,-1095107033,5/2/18 18:06,5/2/18 18:07,Very appropriate,Good,a,a,reverse,male,white,35 - 44,high_school,lower_ii,10,5
+46,2054775224,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,The sentence states true I formation and I agree with it based on the Tex and contex it represents,a,a,reverse,female,asian,25 - 34,high_school,prefer_not_to_say,28,4
+47,992275562,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,"He didn’t make a wrong choice. Both drugs are FDA approved, affordable, and have the same range of side effects.",a,a,reverse,female,white,18 - 24,middle_school,high_iii,30,4
+48,-1700282598,5/2/18 17:58,5/2/18 18:00,Neither inappropriate nor appropriate,"From the information provided, the drugs sound like the same thing with no difference. It doesn't tell any differences. However, i believe the patients should be able to make the decision which drug they want to take",a,a,reverse,female,white,25 - 34,high_school,high_i,76,3
+49,-1157992141,5/2/18 17:59,5/2/18 18:00,Very appropriate,Cuz drug testing should always be an option,a,a,reverse,female,hispanic,25 - 34,high_school,lower_i,18,5
+50,-1238699343,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,It shows that he recommended based on how comfortable he feels with the medication and understands his patients needs.,a,a,reverse,female,black,25 - 34,university,lower_ii,47,4
+51,-1307279209,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,I’m so happy that I am in love,a,a,reverse,female,white,18 - 24,vocational_technical_college,middle_i,16,4
+52,-221167448,5/2/18 18:00,5/2/18 18:02,Very appropriate,Both medications work well and the doctor wants what is best for his patients.,a,a,reverse,male,white,35 - 44,high_school,lower_ii,78,5
+53,-600036583,5/2/18 18:01,5/2/18 18:02,Somewhat inappropriate,Because of how the clinic is set you he would not always see the same patient and might alter the outcome,a,a,reverse,female,white,35 - 44,university,middle_i,50,2
+54,-176722963,5/2/18 18:09,5/2/18 18:09,Somewhat appropriate,Because I felt it was right but wrong at the same time,a,a,reverse,male,white,25 - 34,high_school,middle_i,50,4
+55,-753994396,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,Because I can,a,a,reverse,female,white,25 - 34,university,middle_i,8,4
+56,994472986,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,I agreed with his assessment.,a,a,reverse,male,white,35 - 44,high_school,high_iii,18,4
+57,1031712794,5/2/18 18:04,5/2/18 18:05,Very appropriate,Because drug A works. Dr. Jones is properly treating his patients,a,a,reverse,male,hispanic,35 - 44,postgraduate,high_i,63,5
+58,1566142475,5/2/18 18:04,5/2/18 18:04,Very appropriate,I dont know,a,a,reverse,female,hispanic,18 - 24,vocational_technical_college,lower_i,13,5
+59,-179981911,5/2/18 17:59,5/2/18 17:59,Somewhat appropriate,I think its all abiut the patient ans their ligestyle,a,a,reverse,female,other,25 - 34,high_school,lower_i,19,4
+60,-2006048396,5/2/18 18:02,5/2/18 18:03,Very appropriate,Because it’s good to get the drugs,a,a,reverse,female,hispanic,18 - 24,university,lower_i,16,5
+61,-947257146,5/2/18 18:12,5/2/18 18:12,Very appropriate,Because people need that,a,a,reverse,male,white,25 - 34,high_school,prefer_not_to_say,6,5
+62,-1567479988,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,"I think if the doctor knows that both are fairly equal, he should be able to chose either. Sometimes, he may need to use the other. Hopefully he is open to that.",a,a,reverse,female,white,25 - 34,university,lower_ii,42,4
+63,-635084175,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,Because both options are sufficient,a,a,reverse,female,white,35 - 44,postgraduate,prefer_not_to_say,14,3
+64,1053746244,5/2/18 17:58,5/2/18 17:59,Somewhat inappropriate,"while drug A may work for some or a majority, it will not work for every one needing the medication. Drug B may work for the ones that drug A does not work for",a,a,reverse,female,white,25 - 34,university,lower_i,53,2
+65,1891396190,5/2/18 18:04,5/2/18 18:05,Very appropriate,I chose that answer because both of the drugs can be used to threat high blood pressure. If the doctor thinks that drug A is better than drug B than that is his choice.,a,a,reverse,male,hispanic,> 54,vocational_technical_college,middle_i,91,5
+66,1321561557,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,Cause either medicine will work,a,a,reverse,male,white,18 - 24,high_school,lower_i,25,3
+67,1559169628,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,Both medicines are affordable and they can tolerate the side affects.,a,a,reverse,female,prefer_not_to_say,25 - 34,high_school,prefer_not_to_say,42,4
+68,1504788199,5/2/18 18:16,5/2/18 18:17,Very appropriate,"The medication is for high blood pressure, the patients have high blood pressure, so the obvious thing to do is give them that. Of course there is the chance that one is better than the other, but that was never stated.",a,a,reverse,male,hispanic,18 - 24,university,middle_ii,67,5
+69,1605408587,5/2/18 18:02,5/2/18 18:03,Very appropriate,"If both options are affordable and give the patient what s/he needs, then the Dr. can decide which he believes will work best for the patient",a,a,reverse,female,white,25 - 34,university,lower_ii,79,5
+70,-901176080,5/2/18 18:00,5/2/18 18:01,Somewhat appropriate,If both prescriptions are considerably even then I don’t see why he should have to switch between prescribing both.,a,a,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,28,4
+71,-2070730867,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,Good,a,a,reverse,female,asian,18 - 24,postgraduate,prefer_not_to_say,4,4
+72,-15821167,5/2/18 18:12,5/2/18 18:12,Somewhat appropriate,"It is healthy and the effects are similar. He has not done anything wrong. However, he could give them both options.",a,a,reverse,male,white,25 - 34,postgraduate,high_ii,25,4
+73,1897191387,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,"It is a 50/50 choice. Some doctors feel A works, and some feel B works. There was no proof one works better then the other, and if the patient can tolerate it; A is a good choice.",a,a,reverse,female,white,18 - 24,high_school,lower_i,66,4
+74,-407430800,5/2/18 18:02,5/2/18 18:03,Somewhat inappropriate,You can't just choose one medicine for all patients..every person is different,a,a,reverse,female,white,25 - 34,high_school,lower_ii,27,2
+75,467516434,5/2/18 18:01,5/2/18 18:02,Very appropriate,Because it’s comparable to the other medication and the side effects are tolerable,a,a,reverse,female,hispanic,25 - 34,postgraduate,middle_ii,14,5
+76,1850653350,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,Each case is different and should be treated that wayb,a,a,reverse,female,white,35 - 44,high_school,high_iii,21,3
+77,1409891910,5/2/18 18:06,5/2/18 18:08,Neither inappropriate nor appropriate,I couldn’t tell the difference between drug A and drug B. There for without more information they are the same to me.,a,a,reverse,male,white,25 - 34,high_school,prefer_not_to_say,89,3
+78,1933939760,5/2/18 18:03,5/2/18 18:03,Very appropriate,I didn’t choose it the doctor did,a,a,reverse,female,white,25 - 34,high_school,lower_i,12,5
+79,-623590814,5/2/18 18:01,5/2/18 18:03,Somewhat appropriate,Dr. Jones is attempting to help his patients with the best drugs that are available to him at his clinic. He is working with the tools that are at his disposal.,a,a,reverse,male,white,35 - 44,university,lower_ii,92,4
+80,-398814815,5/2/18 18:15,5/2/18 18:15,Somewhat inappropriate,its the patients choice,a,a,reverse,male,white,35 - 44,vocational_technical_college,lower_ii,17,2
+81,-237810353,5/2/18 17:57,5/2/18 17:57,Neither inappropriate nor appropriate,eh,a,a,reverse,female,white,18 - 24,high_school,lower_ii,7,3
+82,1489668794,5/2/18 18:13,5/2/18 18:13,Very appropriate,Both are about the same so it's ok to choose either,a,a,reverse,male,white,> 54,university,high_iii,22,5
+83,-1687521192,5/2/18 18:01,5/2/18 18:02,Very appropriate,he is trying to help his pasients so they feel better,a,a,reverse,female,white,> 54,high_school,middle_ii,35,5
+84,-602297813,5/2/18 17:59,5/2/18 18:00,Very appropriate,The doctor is allowed to go by their own personal experience as long as he is not being paid by the manufacturer and the drug is safe and effective.,a,a,reverse,male,white,35 - 44,university,middle_ii,54,5
+85,-1645966309,5/2/18 18:02,5/2/18 18:02,Very appropriate,its excellent,a,a,reverse,female,hispanic,35 - 44,vocational_technical_college,middle_i,13,5
+86,419988776,5/2/18 18:04,5/2/18 18:04,Very appropriate,"Some doctors choose A, others B, so it is appropriate for this doctor to decide on either drug.",a,a,reverse,female,white,> 54,high_school,high_i,34,5
+87,307876402,5/2/18 17:59,5/2/18 17:59,Very inappropriate,If this is being done without patients consent this is wrong.  It doesn't sound like an actual study.,a,a,reverse,female,white,> 54,vocational_technical_college,middle_ii,38,1
+88,1277142618,5/2/18 18:08,5/2/18 18:09,Very appropriate,"the idea is similiar to what it is now, there is no different.",a,a,reverse,male,black,> 54,high_school,middle_i,38,5
+89,-1636960179,5/2/18 18:02,5/2/18 18:02,Very appropriate,very good,a,a,reverse,male,latino,18 - 24,high_school,lower_i,6,5
+90,-840054327,5/2/18 18:03,5/2/18 18:03,Very appropriate,Both drugs are approved and acceptable treatments.,a,a,reverse,male,white,35 - 44,high_school,middle_ii,22,5
+91,-2116748893,5/2/18 18:11,5/2/18 18:11,Neither inappropriate nor appropriate,Yes,a,a,reverse,male,hispanic,35 - 44,high_school,lower_ii,4,3
+92,1926683566,5/2/18 18:12,5/2/18 18:13,Very appropriate,Excited,a,a,reverse,male,white,25 - 34,high_school,high_iii,5,5
+93,1577089329,5/2/18 18:02,5/2/18 18:03,Somewhat inappropriate,It doesn't say which drug is better,a,a,reverse,male,white,45 - 54,high_school,middle_ii,39,2
+94,606853904,5/2/18 18:00,5/2/18 18:01,Very appropriate,Each doctor has their own opinion on what works better as long as it betters the patient,a,a,reverse,male,white,25 - 34,high_school,lower_ii,58,5
+95,-2146019008,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,Because Dr Jones seems to have a Handel on what he is prescribing and  is the Dr so he knows best on what's to be prescribed,a,a,reverse,male,white,35 - 44,postgraduate,lower_ii,65,4
+96,-1359144075,5/2/18 17:58,5/2/18 17:58,Very appropriate,I dont know,a,a,reverse,male,hispanic,18 - 24,high_school,lower_ii,11,5
+97,-1747459376,5/2/18 18:16,5/2/18 18:17,Very appropriate,Because my family select,a,a,reverse,male,multiracial,18 - 24,middle_school,lower_i,27,5
+98,-962852514,5/2/18 18:16,5/2/18 18:16,Somewhat appropriate,No idea,a,a,reverse,male,prefer_not_to_say,25 - 34,vocational_technical_college,lower_i,27,4
+99,314377472,5/2/18 18:12,5/2/18 18:12,Very appropriate,Idk,a,a,reverse,male,white,35 - 44,high_school,middle_i,5,5
+100,1526213073,5/2/18 18:03,5/2/18 18:04,Very appropriate,As long as they work and can be afforded  then why not,a,a,reverse,female,other,35 - 44,university,middle_i,32,5
+101,1391842474,5/2/18 18:00,5/2/18 18:00,Very appropriate,Unknown,a,a,reverse,female,white,25 - 34,high_school,lower_i,13,5
+102,422403831,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,"Because both medications provide assistance to control high blood pressure, the side effects are equal on both rx A and rx B. And both are affordable for the patient",a,a,reverse,female,white,35 - 44,vocational_technical_college,prefer_not_to_say,75,4
+103,440784167,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,Because it will make them feel better,a,a,reverse,female,white,25 - 34,university,lower_i,32,4
+104,280662236,5/2/18 17:59,5/2/18 18:01,Somewhat appropriate,If both are affordable and little side affects it would be hard to choose.  Especially if they are similar I guess just picking one is your only option,a,a,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,103,4
+105,-668698344,5/2/18 18:00,5/2/18 18:00,Very appropriate,Good,a,a,reverse,female,white,35 - 44,middle_school,prefer_not_to_say,5,5
+106,1076775513,5/2/18 18:03,5/2/18 18:03,Very appropriate,Very good,a,a,reverse,male,white,35 - 44,vocational_technical_college,lower_i,17,5
+107,231240008,5/2/18 17:59,5/2/18 17:59,Neither inappropriate nor appropriate,Both of the drugs are affordable and treat the same thing.,a,a,reverse,female,white,25 - 34,middle_school,prefer_not_to_say,46,3
+108,167885860,5/2/18 18:05,5/2/18 18:05,Very appropriate,Field correct,a,a,reverse,male,other,45 - 54,high_school,lower_i,16,5
+109,1120063213,5/2/18 18:00,5/2/18 18:01,Very appropriate,I think that this is the best for me,a,a,reverse,male,black,18 - 24,university,lower_i,67,5
+110,-1916022235,5/2/18 17:59,5/2/18 18:00,Neither inappropriate nor appropriate,It says both a and b are pretty much the same.,a,a,reverse,female,white,18 - 24,high_school,lower_ii,24,3
+111,1722102820,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,I'm not sure,a,a,reverse,female,white,> 54,high_school,lower_i,19,4
+112,345225983,5/2/18 18:16,5/2/18 18:17,Very appropriate,It's an approved acceptable affordable medication,a,a,reverse,male,hispanic,35 - 44,postgraduate,high_i,29,5
+113,-2061624729,5/2/18 17:59,5/2/18 18:00,Very appropriate,He gave him medicine for high blood pressure,a,a,reverse,female,hispanic,45 - 54,vocational_technical_college,lower_i,29,5
+114,592246531,5/2/18 18:09,5/2/18 18:10,Somewhat inappropriate,Every person is different therefore everyone needs to be medicated differently,a,a,reverse,male,white,> 54,high_school,lower_i,43,2
+115,2101160880,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,"He should base which medicine on the patient,  not a general decision",a,a,reverse,female,white,35 - 44,high_school,lower_i,34,4
+116,226871867,5/2/18 18:05,5/2/18 18:05,Very appropriate,Seems like the right drug,a,a,reverse,male,hispanic,45 - 54,high_school,high_i,18,5
+117,2042342635,5/2/18 18:12,5/2/18 18:12,Very appropriate,They both require the drug for hbp,a,a,reverse,male,white,35 - 44,vocational_technical_college,lower_i,29,5
+118,-651645327,5/2/18 18:10,5/2/18 18:11,Very appropriate,Because is the right decision,a,a,reverse,male,hispanic,45 - 54,vocational_technical_college,lower_i,18,5
+119,1936327575,5/2/18 18:00,5/2/18 18:03,Very appropriate,Dr.jones chose to give his patients drug A for there blood pressure which is the better decision i think thst he is choosing whsts best for the patients an not whst drug will bring in the most money.,a,a,reverse,female,white,35 - 44,vocational_technical_college,lower_ii,155,5
+0,-2010188236,5/2/18 18:01,5/2/18 18:01,Very appropriate,Because he now can see which works better,ab,ab,reverse,female,white,25 - 34,vocational_technical_college,middle_ii,39,5
+1,-634163452,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,I don't c what would b good or bad about it,ab,ab,reverse,female,white,18 - 24,high_school,middle_i,65,3
+2,1341431117,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,I wasn’t too sure,ab,ab,reverse,female,hispanic,35 - 44,university,high_i,32,4
+3,871592601,5/2/18 17:58,5/2/18 17:58,Very appropriate,Best logical one,ab,ab,reverse,female,hispanic,35 - 44,high_school,lower_i,14,5
+4,643204128,5/2/18 18:11,5/2/18 18:12,Somewhat appropriate,Seems like th docter is intellegent to make a decision like that. Had research to back up his opinion.,ab,ab,reverse,male,white,25 - 34,vocational_technical_college,lower_ii,62,4
+5,1427385519,5/2/18 18:06,5/2/18 18:06,Very appropriate,Because both medicines work and are affordable.,ab,ab,reverse,male,white,25 - 34,high_school,lower_i,24,5
+6,-1111454183,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,The choice factor and the believe,ab,ab,reverse,male,black,25 - 34,university,lower_ii,15,4
+7,1987597678,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,Cause it's good choose so his decision,ab,ab,reverse,female,white,25 - 34,high_school,middle_i,17,3
+8,1298612663,5/2/18 18:17,5/2/18 18:18,Somewhat inappropriate,He using people as an experiment. We are not lab rats.,ab,ab,reverse,male,black,35 - 44,high_school,lower_i,69,2
+9,1553078022,5/2/18 18:14,5/2/18 18:15,Somewhat appropriate,I feel like they're should be more information as to the side effects of each drug to the better outcome. The side effects could be far worse than the better improvements.,ab,ab,reverse,male,white,25 - 34,vocational_technical_college,lower_ii,96,4
+10,-1713931072,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,They have to figure out a way to test to see which drug works best . so I guess that was a good way to test it.,ab,ab,reverse,female,white,> 54,high_school,lower_ii,63,4
+11,-2116943267,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,Because when you use drugs for medicinal treatment has to be a good choice.,ab,ab,reverse,female,hispanic,35 - 44,vocational_technical_college,lower_i,33,4
+12,-1907589587,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,Testing is a good way to discover the best treatment.,ab,ab,reverse,male,white,> 54,postgraduate,lower_i,33,4
+13,1173291020,5/2/18 18:02,5/2/18 18:02,Very appropriate,Because he will prescribe whichever has the least side effects,ab,ab,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,24,5
+14,1493700991,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Not sure,ab,ab,reverse,male,white,35 - 44,high_school,lower_i,41,3
+15,-1166566914,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,The doctor is taking risks with other people's health issues. If they are willing to try it i don't see why not.,ab,ab,reverse,female,white,25 - 34,high_school,lower_ii,78,3
+16,360017147,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,I don't know sorry,ab,ab,reverse,male,prefer_not_to_say,25 - 34,high_school,lower_i,13,4
+17,1960477299,5/2/18 18:05,5/2/18 18:05,Very inappropriate,He is essentially running an experiment without anyone's consent.,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,25,1
+18,-6040586,5/2/18 18:02,5/2/18 18:03,Very appropriate,Because it is the best way to find out which is the best option.,ab,ab,reverse,female,white,25 - 34,vocational_technical_college,lower_i,33,5
+19,1895456558,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,I have no idea,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,14,3
+20,-1322800655,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,A walk in clinic is not an appropriate place to perform medical testing. There are too many variables that could influence the test results.,ab,ab,reverse,female,white,25 - 34,university,lower_ii,73,2
+21,1529158098,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,I have no idea,ab,ab,reverse,male,white,25 - 34,high_school,lower_i,17,3
+22,-196642661,5/2/18 18:13,5/2/18 18:13,Somewhat appropriate,It's good for new things,ab,ab,reverse,male,asian,25 - 34,high_school,lower_ii,16,4
+23,1334682932,5/2/18 18:05,5/2/18 18:06,Very appropriate,He's choosing the drug with the best outcome instead of just taking a kickback from the highest bidder.,ab,ab,reverse,male,white,25 - 34,high_school,lower_ii,58,5
+24,-2120615814,5/2/18 18:06,5/2/18 18:06,Very appropriate,They should prescribe the medicine that works best of both price points are the same,ab,ab,reverse,female,multiracial,25 - 34,high_school,middle_i,0,5
+25,-718270883,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,No clue.. it seems fair,ab,ab,reverse,male,white,25 - 34,high_school,lower_ii,12,3
+26,642278007,5/2/18 18:11,5/2/18 18:12,Very appropriate,The healthiest option is good,ab,ab,reverse,male,other,45 - 54,high_school,lower_ii,44,5
+27,2030267479,5/2/18 18:05,5/2/18 18:06,Very appropriate,Because they both have the same effects and side effects then I think this is a great way to see which is a better medication.,ab,ab,reverse,female,white,35 - 44,university,middle_ii,36,5
+28,217121860,5/2/18 18:03,5/2/18 18:04,Somewhat inappropriate,I think he should offered both to the patients and let them decide,ab,ab,reverse,female,white,25 - 34,university,middle_i,15,2
+29,-2111116106,5/2/18 18:06,5/2/18 18:06,Very appropriate,Nice,ab,ab,reverse,female,white,18 - 24,high_school,lower_ii,5,5
+30,-2053768439,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,Ok,ab,ab,reverse,male,black,18 - 24,high_school,prefer_not_to_say,4,4
+31,1945332417,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,Experimental,ab,ab,reverse,male,white,25 - 34,university,middle_i,6,3
+32,-1782263080,5/2/18 18:05,5/2/18 18:05,Very appropriate,Great,ab,ab,reverse,female,asian,25 - 34,university,prefer_not_to_say,4,5
+33,138856195,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,I'm torn. He shouldn't be experimenting on people but it could have good outcomes in a year for new patients.,ab,ab,reverse,female,white,18 - 24,high_school,middle_i,36,4
+34,613782639,5/2/18 18:03,5/2/18 18:06,Somewhat inappropriate,While the experiment doesn't sound dangerous and the doctor is prescribing appropriate medication it is more ethical for him to tell his patients about the experiment and let them decide a.) if they want to participate and b.) if they want to decide whether they are prescribed drug a or b.,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,139,2
+35,-2042425411,5/2/18 18:02,5/2/18 18:02,Very inappropriate,He's not looking at the benefits or how this may affect the random people he's picking,ab,ab,reverse,female,white,25 - 34,university,middle_ii,24,1
+36,-61774964,5/2/18 18:16,5/2/18 18:18,Neither inappropriate nor appropriate,The results are the only thing that counts.,ab,ab,reverse,male,white,45 - 54,high_school,lower_i,77,3
+37,744740222,5/2/18 17:59,5/2/18 18:00,Very appropriate,Because we need that in our life it's helpful,ab,ab,reverse,male,white,18 - 24,high_school,lower_ii,19,5
+38,-1604548081,5/2/18 18:14,5/2/18 18:14,Somewhat appropriate,I like it,ab,ab,reverse,male,white,35 - 44,high_school,high_ii,10,4
+39,-1240415920,5/2/18 17:58,5/2/18 17:59,Very appropriate,I consider my self a successful person,ab,ab,reverse,female,prefer_not_to_say,25 - 34,high_school,lower_i,35,5
+40,-1475410013,5/2/18 18:09,5/2/18 18:09,Very appropriate,Because it's the right one,ab,ab,reverse,male,white,45 - 54,high_school,lower_i,20,5
+41,-9731898,5/2/18 18:06,5/2/18 18:06,Very appropriate,He have the knowledge on what he's doing and he's particular of what he gave his patient,ab,ab,reverse,male,black,35 - 44,vocational_technical_college,lower_ii,47,5
+42,-468225634,5/2/18 18:02,5/2/18 18:03,Very appropriate,We should know what we are eating and drinking...not be poisoned by our own food and drinks,ab,ab,reverse,female,black,25 - 34,high_school,lower_i,85,5
+43,1397915303,5/2/18 18:00,5/2/18 18:01,Somewhat appropriate,It doesn't say if the patients are aware of what he is doing. If they are then I would say it's appropriate.,ab,ab,reverse,female,white,25 - 34,high_school,lower_ii,54,4
+44,-1562328164,5/2/18 18:00,5/2/18 18:01,Somewhat inappropriate,The doctor is not a pharmaceutical company in the research and development department. He has no right to test on patients.,ab,ab,reverse,female,white,25 - 34,high_school,lower_ii,76,2
+45,1765677559,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,because in a way i can relate and see why this is a good idea.,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,23,4
+46,891002909,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,To see how each drugs work,ab,ab,reverse,female,white,45 - 54,high_school,lower_ii,24,4
+47,-1569965891,5/2/18 18:01,5/2/18 18:02,Neither inappropriate nor appropriate,Not all drugs work the same for every person,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,27,3
+48,-234973890,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,Na,ab,ab,reverse,female,white,25 - 34,university,lower_ii,7,4
+49,1919478457,5/2/18 18:06,5/2/18 18:06,Neither inappropriate nor appropriate,Cause,ab,ab,reverse,female,white,18 - 24,high_school,lower_i,5,3
+50,775954522,5/2/18 18:01,5/2/18 18:01,Very appropriate,They’re both effective treatments,ab,ab,reverse,female,white,25 - 34,university,lower_ii,13,5
+51,-1762738591,5/2/18 18:01,5/2/18 18:01,Very inappropriate,He isn’t considering the people just the results,ab,ab,reverse,male,white,25 - 34,university,middle_ii,20,1
+52,1295682514,5/2/18 18:03,5/2/18 18:03,Very appropriate,Cause they pills help out alot,ab,ab,reverse,female,hispanic,25 - 34,high_school,lower_i,18,5
+53,1187473073,5/2/18 18:06,5/2/18 18:06,Very appropriate,Sounds like a good dr,ab,ab,reverse,female,white,> 54,postgraduate,lower_ii,37,5
+54,986981442,5/2/18 18:02,5/2/18 18:02,Very appropriate,If it will help people i think he should do that,ab,ab,reverse,female,white,25 - 34,vocational_technical_college,prefer_not_to_say,14,5
+55,1559884853,5/2/18 18:08,5/2/18 18:08,Neither inappropriate nor appropriate,Because I chose the option,ab,ab,reverse,male,white,35 - 44,high_school,lower_i,15,3
+56,1199076293,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,I don't approve or dis approve of medicine. I personally don't approve of the medicine.,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,50,3
+57,-1477468143,5/2/18 18:13,5/2/18 18:13,Very inappropriate,Because it needed an answer,ab,ab,reverse,male,white,> 54,vocational_technical_college,lower_i,25,1
+58,-678762623,5/2/18 18:17,5/2/18 18:17,Neither inappropriate nor appropriate,I don't know,ab,ab,reverse,male,asian,45 - 54,vocational_technical_college,lower_i,14,3
+59,53266904,5/2/18 17:58,5/2/18 18:00,Somewhat appropriate,Because  I. Agree with it,ab,ab,reverse,female,black,45 - 54,postgraduate,lower_ii,92,4
+60,325435631,5/2/18 18:15,5/2/18 18:15,Somewhat inappropriate,Thanks so there is no way I will have a great day at school didn't get to know each round and add a little.,ab,ab,reverse,male,white,25 - 34,university,lower_i,10,2
+61,-448504554,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,I'm not sure I just feel it,ab,ab,reverse,female,hispanic,35 - 44,high_school,lower_ii,12,4
+62,2098461227,5/2/18 18:03,5/2/18 18:05,Somewhat appropriate,It makes sense to prescribe the medicine that works best on the long one for the most people if side effects are the same. My only concern Is that if the patient doesn't respond he is willing to try and change or if the patient specifically requests another drug that is appropriate he would prescribe as long as the patient didn't have medical issues that could cause problem if taken.,ab,ab,reverse,female,white,25 - 34,high_school,middle_ii,135,4
+63,-223640766,5/2/18 18:05,5/2/18 18:06,Somewhat inappropriate,He’s doing the experiment unbeknownst to the patients. They should at least be aware.,ab,ab,reverse,male,hispanic,45 - 54,university,high_i,32,2
+64,436531219,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,if doctor thinks it's best that way I think its ok,ab,ab,reverse,male,hispanic,35 - 44,high_school,lower_i,32,4
+65,810064409,5/2/18 17:59,5/2/18 18:00,Very appropriate,Because drs. Are always right,ab,ab,reverse,female,white,18 - 24,high_school,lower_i,28,5
+66,1558234701,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,If he does the experiment with customers knowledge and it proves one is better than the other then thats great if it is proven to actually help,ab,ab,reverse,female,multiracial,35 - 44,high_school,lower_ii,52,4
+67,1180930889,5/2/18 18:17,5/2/18 18:18,Very appropriate,He is experimenting,ab,ab,reverse,male,hispanic,25 - 34,high_school,lower_ii,13,5
+68,-513315620,5/2/18 18:00,5/2/18 18:01,Very appropriate,By doing it that way more studies can be done on which drug helps a person better,ab,ab,reverse,female,white,18 - 24,high_school,lower_i,39,5
+69,-46167507,5/2/18 18:10,5/2/18 18:10,Somewhat appropriate,Very good,ab,ab,reverse,male,white,25 - 34,postgraduate,high_i,10,4
+70,479704731,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,Both helped patients and doctor isn’t harming patients,ab,ab,reverse,female,asian,18 - 24,high_school,lower_i,21,4
+71,-996991342,5/2/18 18:04,5/2/18 18:04,Very appropriate,Because it seems like a good idea,ab,ab,reverse,female,white,25 - 34,university,middle_i,14,5
+72,-32781128,5/2/18 18:13,5/2/18 18:13,Somewhat appropriate,Honestly I dont know if this is something that doctors are allowed to do. I think if there is an option than that should be discussed with the patients,ab,ab,reverse,male,hispanic,35 - 44,high_school,middle_i,28,4
+73,431065112,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,well I feel it's often scary when dealing with meds as I have two special needs children who are on very high dosages of very strong meds,ab,ab,reverse,female,white,45 - 54,vocational_technical_college,middle_i,46,4
+74,-875973499,5/2/18 18:11,5/2/18 18:11,Somewhat inappropriate,"he should offer his patients a choice and make a recommendation, not choose for them",ab,ab,reverse,male,white,35 - 44,university,high_iii,20,2
+75,206210545,5/2/18 18:18,5/2/18 18:18,Neither inappropriate nor appropriate,Drugs,ab,ab,reverse,male,prefer_not_to_say,25 - 34,university,prefer_not_to_say,10,3
+76,576552808,5/2/18 18:07,5/2/18 18:08,Very appropriate,It's a  experiment.  The best drug wins.,ab,ab,reverse,male,white,35 - 44,high_school,lower_i,56,5
+77,611510566,5/2/18 18:00,5/2/18 18:01,Very appropriate,I just think it's fine cause I think he wants to make sure he prescibes only the most trusted drug type to his patients. Im sure he knows what he's doing and will make the right decision(s).,ab,ab,reverse,male,white,25 - 34,postgraduate,lower_ii,45,5
+78,-1491362282,5/2/18 18:08,5/2/18 18:08,Somewhat inappropriate,you're running a test on peoples lives. It would be appropriate only if they were aware and willing to participate.,ab,ab,reverse,male,white,18 - 24,university,high_iii,28,2
+79,319547718,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,"Because it is a great idea to figure out which medication works the best, but not all medications will work the same for everyone.",ab,ab,reverse,female,white,35 - 44,university,lower_ii,13,4
+80,-1528475618,5/2/18 18:06,5/2/18 18:06,Somewhat appropriate,it help that healthy food comes out,ab,ab,reverse,male,white,25 - 34,university,lower_ii,12,4
+81,794211584,5/2/18 18:02,5/2/18 18:02,Very appropriate,love it,ab,ab,reverse,female,white,25 - 34,university,high_ii,1,5
+82,-500408832,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,I think drug trials are good. But that is as long as the patients are aware and agree to it.,ab,ab,reverse,female,white,> 54,vocational_technical_college,high_iii,38,4
+83,-196681651,5/2/18 18:07,5/2/18 18:08,Somewhat appropriate,"Good to see which drug is more successful, but care must be shown to possible adverse reactions",ab,ab,reverse,male,white,> 54,postgraduate,high_i,44,4
+84,-1058840027,5/2/18 18:02,5/2/18 18:02,Very appropriate,I know i can trist them.,ab,ab,reverse,female,hispanic,18 - 24,high_school,lower_ii,19,5
+85,1526093923,5/2/18 18:11,5/2/18 18:12,Very appropriate,Because anyone would rather use an effective drug over one that doesnt work as well.,ab,ab,reverse,male,white,35 - 44,vocational_technical_college,middle_i,42,5
+86,1376723380,5/2/18 18:06,5/2/18 18:06,Somewhat appropriate,If they both work and one is cheaper,ab,ab,reverse,female,white,35 - 44,high_school,middle_i,34,4
+87,946912738,5/2/18 17:59,5/2/18 18:01,Neither inappropriate nor appropriate,There is not enough info,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,68,3
+88,1609809503,5/2/18 18:17,5/2/18 18:17,Very appropriate,Best different meds has its own side effects,ab,ab,reverse,male,white,25 - 34,high_school,lower_i,26,5
+89,-486044103,5/2/18 18:00,5/2/18 18:01,Somewhat appropriate,If both medications are already being prescribed I don't see the harm.,ab,ab,reverse,female,white,25 - 34,high_school,lower_ii,38,4
+90,-43197690,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,I agreed with him.,ab,ab,reverse,male,white,> 54,vocational_technical_college,high_iii,32,4
+91,-148560293,5/2/18 18:10,5/2/18 18:11,Somewhat appropriate,This way your getting 2 different results...and can figure the best of the 2,ab,ab,reverse,male,white,35 - 44,high_school,lower_ii,50,4
+92,536416188,5/2/18 18:01,5/2/18 18:02,Very appropriate,Because he studying the medicine,ab,ab,reverse,male,white,45 - 54,vocational_technical_college,middle_ii,49,5
+93,-130794659,5/2/18 18:12,5/2/18 18:13,Neither inappropriate nor appropriate,Different stroke for different . Folk,ab,ab,reverse,male,white,> 54,university,lower_i,22,3
+94,1909780885,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,He is the doctor so he should  no what he is doing,ab,ab,reverse,male,white,45 - 54,middle_school,lower_i,49,3
+95,-857612913,5/2/18 18:05,5/2/18 18:06,Very appropriate,The doctor is going to go with the one drug that works better and get rid of the other drug that isn't doing its job correctly,ab,ab,reverse,female,white,35 - 44,high_school,lower_ii,65,5
+96,1794710425,5/2/18 18:01,5/2/18 18:03,Neither inappropriate nor appropriate,It's some what like a hit or miss..especially since it involves using people to test effects. I don't necessarily think it's a bad thing because it helps determine which medications are effective.,ab,ab,reverse,female,black,25 - 34,university,lower_ii,121,3
+97,-511355009,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,He is putting patients into unsafe conditions without them knowing it. This does not seem right and very dangerous too.,ab,ab,reverse,female,asian,25 - 34,university,lower_ii,45,2
+98,585456010,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,Because sometimes people can't afford to pay for medication,ab,ab,reverse,female,white,> 54,high_school,lower_i,67,4
+99,-868453197,5/2/18 18:03,5/2/18 18:03,Very appropriate,I chose that option because that's the best way to find out out of A and B which one will do better,ab,ab,reverse,female,other,18 - 24,high_school,lower_i,26,5
+100,441075185,5/2/18 18:10,5/2/18 18:11,Somewhat appropriate,The experimento is stable and can be monitored but he has to take into accont about other factors. Such as thier diet or them being active,ab,ab,reverse,male,hispanic,14 - 17,high_school,prefer_not_to_say,96,4
+101,-1979475017,5/2/18 18:05,5/2/18 18:05,Very appropriate,very good,ab,ab,reverse,female,hispanic,25 - 34,high_school,lower_ii,8,5
+102,-39143424,5/2/18 18:06,5/2/18 18:07,Very appropriate,He is doing his own test study based off clients in his community. Looks like he's trying to better serve his patients.,ab,ab,reverse,female,white,35 - 44,postgraduate,lower_ii,63,5
+103,-904480351,5/2/18 18:03,5/2/18 18:03,Very appropriate,It is very appropriate because both drugs are affordable and effective and could become a solution for the patients,ab,ab,reverse,female,white,18 - 24,high_school,lower_i,37,5
+104,683712046,5/2/18 17:59,5/2/18 17:59,Somewhat appropriate,We have a lot of time to get a new phone and I will be there,ab,ab,reverse,male,white,25 - 34,vocational_technical_college,middle_ii,4,4
+105,765844996,5/2/18 18:12,5/2/18 18:12,Very inappropriate,Because it easy,ab,ab,reverse,male,black,25 - 34,postgraduate,lower_ii,32,1
+106,-351047474,5/2/18 18:05,5/2/18 18:05,Very inappropriate,People are not to be tested on,ab,ab,reverse,female,white,35 - 44,vocational_technical_college,middle_ii,25,1
+107,-1722446053,5/2/18 18:05,5/2/18 18:05,Very appropriate,We need more safe medicine,ab,ab,reverse,female,white,45 - 54,vocational_technical_college,middle_i,34,5
+108,-31137914,5/2/18 18:05,5/2/18 18:06,Very appropriate,He is trying to find out what is best for the paitence,ab,ab,reverse,female,white,25 - 34,high_school,lower_i,30,5
+109,1933593572,5/2/18 18:06,5/2/18 18:06,Neither inappropriate nor appropriate,I don't know,ab,ab,reverse,female,hispanic,> 54,vocational_technical_college,lower_i,22,3
+110,1330692493,5/2/18 18:01,5/2/18 18:04,Very appropriate,"Because both of the drugs were tested and both were approved that they had worked and had good outcomes. All of the doctors are using the drugs and prescribing them to the patients. This Doctor is going the extra mile to make sure which one works the best and after he finds out in a year which one works the best, he will use only that one. I think this is a good plan.",ab,ab,reverse,female,white,35 - 44,high_school,lower_ii,148,5
+111,512015978,5/2/18 18:11,5/2/18 18:12,Very appropriate,If there is no other guidance and both are considered equivalent then it makes sense to see which one in practice might provide better results.,ab,ab,reverse,male,white,25 - 34,university,high_i,65,5
+112,1861721429,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,Because it my opinion,ab,ab,reverse,female,hispanic,35 - 44,vocational_technical_college,lower_i,14,3
+113,-1092952478,5/2/18 18:01,5/2/18 18:02,Somewhat inappropriate,I believe humans should be prescribed to the right medicine not just any option.,ab,ab,reverse,female,latino,25 - 34,high_school,lower_ii,44,2
+114,-1098281903,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,You should trust your doctors choice,ab,ab,reverse,male,white,45 - 54,high_school,lower_i,43,4
+115,-803387864,5/2/18 18:15,5/2/18 18:17,Neither inappropriate nor appropriate,Cause he should not be using humans as Guinea pigs without them knowing it,ab,ab,reverse,male,white,> 54,high_school,middle_i,115,3
+116,-695174294,5/2/18 18:03,5/2/18 18:04,Very appropriate,Because he is taking time to find a new way,ab,ab,reverse,female,hispanic,25 - 34,high_school,lower_i,46,5
+117,1884545387,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,She was yelling at me earlier for not feeding her fast enough for the office and a new carseat because she is getting too big for the one she has now Danny's going to try to hurt you too I 66m have to do what's,ab,ab,reverse,female,white,25 - 34,high_school,lower_ii,12,3
+118,1681434069,5/2/18 18:13,5/2/18 18:14,Very inappropriate,Inappropriate can not use for human the test,ab,ab,reverse,male,hispanic,35 - 44,high_school,lower_ii,60,1
+119,909108925,5/2/18 18:10,5/2/18 18:11,Very appropriate,"Medicine is based upon trial and error, so this kind of experimentation is needed.",ab,ab,reverse,male,white,35 - 44,high_school,lower_i,30,5
+0,678244981,5/2/18 17:59,5/2/18 18:00,Neither inappropriate nor appropriate,Because it differs between person to person,abfixed,ab,fixed,male,white,25 - 34,vocational_technical_college,lower_i,38,3
+1,2094269371,5/2/18 18:04,5/2/18 18:05,Very appropriate,"Because both are equal in terms of being affordable, approved by the FDA, etc. his method of prescribing these meds to find out which works better and using that for his patients makes a lot of sense.",abfixed,ab,fixed,female,white,25 - 34,university,lower_ii,56,5
+2,938793978,5/2/18 18:09,5/2/18 18:09,Very appropriate,Because it is,abfixed,ab,fixed,male,other,25 - 34,high_school,lower_i,15,5
+3,-1317455330,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,Because,abfixed,ab,fixed,female,hispanic,25 - 34,high_school,lower_i,25,4
+4,-1435405019,5/2/18 18:00,5/2/18 18:00,Neither inappropriate nor appropriate,Patients are not experiments,abfixed,ab,fixed,female,asian,25 - 34,vocational_technical_college,middle_i,24,3
+5,856555528,5/2/18 18:05,5/2/18 18:05,Somewhat inappropriate,Because the people that end up with the bad pills are going to suffer,abfixed,ab,fixed,female,hispanic,25 - 34,high_school,middle_i,37,2
+6,-850901489,5/2/18 18:00,5/2/18 18:00,Somewhat inappropriate,I just don’t feel he made the right decision,abfixed,ab,fixed,female,white,35 - 44,university,middle_i,9,2
+7,-302587027,5/2/18 18:04,5/2/18 18:04,Neither inappropriate nor appropriate,Yes good,abfixed,ab,fixed,female,hispanic,25 - 34,middle_school,prefer_not_to_say,8,3
+8,-757721234,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,They both will work the same so why not just prescribe one only,abfixed,ab,fixed,female,hispanic,25 - 34,high_school,lower_ii,37,4
+9,-1162893774,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,It is unclear if his pashents  know what he's doing,abfixed,ab,fixed,female,white,35 - 44,vocational_technical_college,lower_ii,66,4
+10,-2060726635,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,"If both medications work and have minimal side effects, this seems reasonable.",abfixed,ab,fixed,female,white,25 - 34,university,middle_i,27,4
+11,-707880681,5/2/18 18:00,5/2/18 18:01,Somewhat inappropriate,It is somewhat important,abfixed,ab,fixed,female,white,18 - 24,vocational_technical_college,lower_i,33,2
+12,835761956,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,He is figuring out which one works best and will use the best one from then on.,abfixed,ab,fixed,female,white,35 - 44,university,middle_ii,21,4
+13,-465136064,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Drugs are bad that is all,abfixed,ab,fixed,female,asian,35 - 44,high_school,lower_i,19,3
+14,271997165,5/2/18 18:02,5/2/18 18:03,Very inappropriate,Bc not everyone’s body can tolerate the same medication. Some may have reactions too the chemicals within the drug,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,23,1
+15,-288103992,5/2/18 18:00,5/2/18 18:01,Very appropriate,Because it is awesome,abfixed,ab,fixed,female,asian,25 - 34,postgraduate,middle_i,25,5
+16,1909440361,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,I don't know. I feel it's not my job to judge people.,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_ii,50,3
+17,328788559,5/2/18 18:08,5/2/18 18:10,Very inappropriate,"If the effect of drugs is being studied and drugs are being randomly applied, patients need to be informed and their consent taken.",abfixed,ab,fixed,male,asian,35 - 44,postgraduate,middle_ii,80,1
+18,-201383434,5/2/18 18:06,5/2/18 18:06,Somewhat appropriate,They have already been tested on.,abfixed,ab,fixed,female,white,25 - 34,university,middle_ii,24,4
+19,1026101354,5/2/18 18:03,5/2/18 18:03,Somewhat inappropriate,Not for me,abfixed,ab,fixed,male,white,45 - 54,university,high_iii,10,2
+20,1404986502,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,By BMI m. B nhvgbubhh jh jh n,abfixed,ab,fixed,female,white,25 - 34,university,middle_i,7,4
+21,-1332426029,5/2/18 17:59,5/2/18 18:04,Very inappropriate,Always a good choi6,abfixed,ab,fixed,male,white,35 - 44,vocational_technical_college,middle_ii,274,1
+22,-1418413331,5/2/18 18:04,5/2/18 18:04,Very appropriate,i think its the right choice,abfixed,ab,fixed,male,latino,35 - 44,high_school,lower_ii,32,5
+23,-1195045090,5/2/18 18:04,5/2/18 18:04,Very inappropriate,People react differently to different medications. There should be more than one option available to his patients.,abfixed,ab,fixed,female,white,25 - 34,university,lower_ii,35,1
+24,-1652444525,5/2/18 18:08,5/2/18 18:09,Very inappropriate,Offering only two medications while monitoring which works best with the least harmful side effects seems to be the safest and most effective way to try new drugs for patients.,abfixed,ab,fixed,male,hispanic,25 - 34,high_school,lower_ii,83,1
+25,291572610,5/2/18 18:15,5/2/18 18:16,Very inappropriate,Because you don't make people take something they don't need,abfixed,ab,fixed,male,white,25 - 34,middle_school,prefer_not_to_say,73,1
+26,-2036268422,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,I dont understand what would b good or bad about it,abfixed,ab,fixed,female,white,18 - 24,high_school,middle_i,47,3
+27,2042889682,5/2/18 18:06,5/2/18 18:06,Very inappropriate,He know what he talk a bout,abfixed,ab,fixed,female,white,45 - 54,high_school,lower_i,22,1
+28,387904670,5/2/18 17:59,5/2/18 18:00,Very appropriate,I think it must be appropriate because the doctor will be seeing which medicine work better with the patients.,abfixed,ab,fixed,female,hispanic,18 - 24,high_school,prefer_not_to_say,67,5
+29,-2098248978,5/2/18 18:06,5/2/18 18:06,Somewhat appropriate,None,abfixed,ab,fixed,female,hispanic,25 - 34,university,prefer_not_to_say,9,4
+30,78170150,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,I don't see that anything is wrong with it because they are both used to treat the same thing. I do think the doctor should care more about the patients individually and not just use them for a experiment. After the year is up a person might need to use a and he decided to only prescribe b.,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,92,4
+31,322574786,5/2/18 18:03,5/2/18 18:05,Somewhat appropriate,What is better for some might be worse for others,abfixed,ab,fixed,male,white,> 54,high_school,high_i,86,4
+32,-1064243437,5/2/18 18:03,5/2/18 18:03,Very appropriate,There bad for organs,abfixed,ab,fixed,female,hispanic,45 - 54,university,middle_ii,26,5
+33,327603634,5/2/18 18:05,5/2/18 18:06,Very appropriate,I think that's as a good way y to see what medicines work the best without having to put a patient on a bunch to find out,abfixed,ab,fixed,female,white,35 - 44,high_school,lower_ii,38,5
+34,-735594436,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,Because i see that everyone has there own opinions and beliefs in for certain medicines. So we cannot totally disagree or agree. I am mutual with her answer.,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,85,3
+35,-664652346,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,Is god and bad at the same time because help for high blood preassure bad had side effects,abfixed,ab,fixed,female,hispanic,18 - 24,high_school,prefer_not_to_say,46,2
+36,504271169,5/2/18 18:06,5/2/18 18:06,Very inappropriate,Its suitable with statement,abfixed,ab,fixed,female,asian,25 - 34,university,lower_ii,19,1
+37,843233456,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Not sure,abfixed,ab,fixed,male,white,18 - 24,middle_school,high_i,17,3
+38,945308613,5/2/18 18:16,5/2/18 18:17,Very appropriate,Hes trying to figure out what the best medicine is,abfixed,ab,fixed,male,hispanic,35 - 44,postgraduate,middle_ii,18,5
+39,2036887194,5/2/18 18:00,5/2/18 18:00,Very inappropriate,So he can see what drug is better,abfixed,ab,fixed,male,white,45 - 54,vocational_technical_college,lower_ii,42,1
+40,-968927834,5/2/18 18:09,5/2/18 18:10,Somewhat inappropriate,As long as the medication is safe,abfixed,ab,fixed,male,hispanic,> 54,vocational_technical_college,lower_ii,34,2
+41,1045473700,5/2/18 18:05,5/2/18 18:06,Very appropriate,He is trying to come to the conclusion based on his research and will proceed only with the best amongst the 2 medicines.,abfixed,ab,fixed,male,asian,25 - 34,university,middle_ii,69,5
+42,1524716210,5/2/18 18:02,5/2/18 18:03,Very appropriate,The best way to see which is better,abfixed,ab,fixed,female,white,45 - 54,high_school,lower_i,19,5
+43,1468881218,5/2/18 18:01,5/2/18 18:01,Somewhat inappropriate,Because you should have more studies on a medication before giving it out to patients,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,27,2
+44,-1160579506,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,I chose that option because he's testing the medication to see what one has the best results.  He wants to make sure it doesn't have bad side effects and helps the pati2nts,abfixed,ab,fixed,female,white,25 - 34,vocational_technical_college,middle_i,40,4
+45,-941630018,5/2/18 18:13,5/2/18 18:13,Very appropriate,He is trying to get the best results for his patients,abfixed,ab,fixed,male,white,35 - 44,university,middle_ii,22,5
+46,463151669,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,"I believe it's best to use the one with the best outcome , but not everyone is the same and can handle the drug the same as the next person",abfixed,ab,fixed,female,white,35 - 44,high_school,middle_i,52,4
+47,-1963304788,5/2/18 18:14,5/2/18 18:15,Very inappropriate,Because he is using people to test a drug and the people are not being told . That's not the way to test a drug,abfixed,ab,fixed,male,latino,25 - 34,high_school,middle_i,79,1
+48,-1097286222,5/2/18 17:59,5/2/18 17:59,Somewhat appropriate,Seems the same as the way they run other trials for medication,abfixed,ab,fixed,female,white,25 - 34,high_school,middle_i,19,4
+49,366005478,5/2/18 18:04,5/2/18 18:05,Very appropriate,Tests are necessary to find truth,abfixed,ab,fixed,male,hispanic,18 - 24,university,middle_i,21,5
+50,196661244,5/2/18 18:03,5/2/18 18:03,Very inappropriate,Excited,abfixed,ab,fixed,male,white,25 - 34,high_school,high_iii,6,1
+51,1014717462,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,I did,abfixed,ab,fixed,male,hispanic,25 - 34,vocational_technical_college,lower_i,16,4
+52,-820229081,5/2/18 18:03,5/2/18 18:03,Very inappropriate,Good,abfixed,ab,fixed,female,asian,25 - 34,middle_school,middle_ii,9,1
+53,1930841100,5/2/18 18:16,5/2/18 18:16,Somewhat inappropriate,Because I don’t,abfixed,ab,fixed,male,asian,35 - 44,university,lower_i,14,2
+54,1904073909,5/2/18 18:02,5/2/18 18:02,Very appropriate,Bc doctor's help people,abfixed,ab,fixed,female,white,18 - 24,high_school,middle_i,13,5
+55,1567543888,5/2/18 18:05,5/2/18 18:06,Very appropriate,I chose this option because it ant pin potting Anny drug,abfixed,ab,fixed,female,white,45 - 54,high_school,middle_i,63,5
+56,-1772528184,5/2/18 18:03,5/2/18 18:03,Very appropriate,Idk,abfixed,ab,fixed,female,white,18 - 24,high_school,lower_i,2,5
+57,639406311,5/2/18 18:02,5/2/18 18:04,Somewhat appropriate,I don't think he's doing anything bad or unethical. He's doing an experiment to see which medicine is better and then using that information to hopefully be able to help future patients better.,abfixed,ab,fixed,female,white,18 - 24,high_school,prefer_not_to_say,95,4
+58,1954685851,5/2/18 18:01,5/2/18 18:02,Neither inappropriate nor appropriate,Because sometimes the Doctor wants the patient to try their way before they prescribed medicine to their patient.,abfixed,ab,fixed,female,white,45 - 54,high_school,lower_i,91,3
+59,1205495814,5/2/18 18:16,5/2/18 18:17,Somewhat appropriate,It's for a good reason I guess,abfixed,ab,fixed,male,white,25 - 34,high_school,lower_ii,27,4
+60,-949540400,5/2/18 18:03,5/2/18 18:08,Very inappropriate,Medication should be prescribed on an individual basis. People react to medications differently so there is no one size fits all.,abfixed,ab,fixed,male,white,35 - 44,vocational_technical_college,lower_ii,284,1
+61,1446137975,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,"I think there are definitely two sides to the story and he made the best, most ethical, decision given the circumstances.",abfixed,ab,fixed,male,white,35 - 44,university,middle_i,47,3
+62,455910721,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,None,abfixed,ab,fixed,female,asian,25 - 34,university,lower_i,8,3
+63,1151606358,5/2/18 18:10,5/2/18 18:10,Somewhat appropriate,This could be good for patients,abfixed,ab,fixed,male,hispanic,25 - 34,high_school,high_ii,33,4
+64,-599329996,5/2/18 18:01,5/2/18 18:02,Very appropriate,Because he isn't hurting anyone.,abfixed,ab,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,32,5
+65,411336245,5/2/18 18:00,5/2/18 18:01,Somewhat inappropriate,I don't think it's the right thing,abfixed,ab,fixed,female,white,35 - 44,high_school,middle_i,32,2
+66,-24326704,5/2/18 18:06,5/2/18 18:06,Very inappropriate,I do t know,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,11,1
+67,509454978,5/2/18 18:00,5/2/18 18:00,Very appropriate,Because he is able to find out which medication is better for the patients,abfixed,ab,fixed,male,black,45 - 54,high_school,lower_i,24,5
+68,1517431386,5/2/18 17:59,5/2/18 18:00,Very inappropriate,It takes real world trials to find out what chemicals works best with a large group of test subjects.,abfixed,ab,fixed,female,white,35 - 44,high_school,lower_i,57,1
+69,-763626589,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,Not sure its a logical way to presribe medication seeing as how each person is different,abfixed,ab,fixed,female,white,45 - 54,high_school,lower_i,63,3
+70,-444757682,5/2/18 17:59,5/2/18 18:00,Neither inappropriate nor appropriate,Unknown,abfixed,ab,fixed,male,white,45 - 54,high_school,lower_i,29,3
+71,-124810307,5/2/18 18:02,5/2/18 18:03,Somewhat inappropriate,Drugs are bad,abfixed,ab,fixed,female,hispanic,45 - 54,middle_school,lower_ii,23,2
+72,180176017,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,If his patients have a better result long term with one drug over the other then it would be wise to only prescribe that drug.,abfixed,ab,fixed,female,white,35 - 44,vocational_technical_college,middle_i,53,4
+73,19938973,5/2/18 18:05,5/2/18 18:07,Somewhat appropriate,"It's hard to agree or disagree fully, it's a study being done on humans but without these kind of studies doctors wouldn't be able to do their jobs effectively",abfixed,ab,fixed,female,white,35 - 44,high_school,lower_i,69,4
+74,1739817629,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,Some people would do better on one drug rather than the other. He should look at the individual and decide what to prescribe.,abfixed,ab,fixed,female,white,35 - 44,high_school,lower_ii,45,4
+75,137925433,5/2/18 18:11,5/2/18 18:11,Very appropriate,Logical,abfixed,ab,fixed,male,hispanic,45 - 54,vocational_technical_college,lower_ii,16,5
+76,439473998,5/2/18 18:02,5/2/18 18:02,Very appropriate,It sounds like a good idea.,abfixed,ab,fixed,female,white,35 - 44,high_school,prefer_not_to_say,10,5
+77,-1200359623,5/2/18 18:03,5/2/18 18:03,Somewhat inappropriate,That should be only for new patients.,abfixed,ab,fixed,female,hispanic,35 - 44,vocational_technical_college,lower_i,24,2
+78,1317335935,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,I don’t,abfixed,ab,fixed,female,asian,25 - 34,high_school,prefer_not_to_say,3,3
+79,557472966,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,Because he makes since and is trying to make things better for consumers,abfixed,ab,fixed,female,white,25 - 34,vocational_technical_college,middle_i,19,4
+80,-2015990271,5/2/18 18:06,5/2/18 18:06,Neither inappropriate nor appropriate,Not sure,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,4,3
+81,1013263074,5/2/18 18:07,5/2/18 18:07,Very appropriate,Because it shows he cares for the outcome of his patients and just won’t give them crap. He wants to make sure they get the best treatment,abfixed,ab,fixed,male,white,18 - 24,high_school,prefer_not_to_say,34,5
+82,854003995,5/2/18 18:14,5/2/18 18:15,Very appropriate,Drugs are bad if they are not monitored appropriately but when a caring doctor is monitoring and tracking down your progress medication can work wonderfully,abfixed,ab,fixed,male,hispanic,25 - 34,postgraduate,high_i,48,5
+83,-1305979857,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,If both have the same side effects and target the same thing I do not foresee this being a problem. But if people’s bodies can respond different ways then perhaps it is not the BEST idea to only prescribe one option after the year.,abfixed,ab,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,55,4
+84,1165810594,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,"It could benefit so worth trials, but also not a calculated method",abfixed,ab,fixed,female,white,25 - 34,vocational_technical_college,middle_i,27,3
+85,1279908282,5/2/18 18:13,5/2/18 18:14,Very inappropriate,"Sample size not nearly large enough. Not enough factors taken into account. Age, health, etc",abfixed,ab,fixed,male,white,25 - 34,university,middle_ii,34,1
+86,599278975,5/2/18 18:14,5/2/18 18:14,Neither inappropriate nor appropriate,I don’t know,abfixed,ab,fixed,male,white,> 54,high_school,prefer_not_to_say,12,3
+87,1869077846,5/2/18 18:01,5/2/18 18:02,Very appropriate,He makes the right decision.It is very good for victims,abfixed,ab,fixed,male,asian,25 - 34,vocational_technical_college,lower_ii,30,5
+88,1531074050,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,"The side effects seem to be minimal on both, and both are affordable-it seems that it is ok to do that",abfixed,ab,fixed,female,white,35 - 44,university,middle_ii,45,4
+89,1471921808,5/2/18 18:04,5/2/18 18:05,Very inappropriate,because it is a professionally responsible opinion,abfixed,ab,fixed,male,white,35 - 44,university,lower_ii,109,1
+90,-1845131262,5/2/18 17:58,5/2/18 17:58,Very inappropriate,because the ones that are getting the more ineffective drug weren't given a choice.,abfixed,ab,fixed,female,white,35 - 44,postgraduate,high_iii,16,1
+91,-1505740543,5/2/18 18:14,5/2/18 18:15,Somewhat appropriate,Dr Jones seems to be putting his patients first by wanting to give them the best medication. Since either A or B is considered effective why not run a trial to see the difference?,abfixed,ab,fixed,male,white,> 54,university,lower_ii,74,4
+92,909818311,5/2/18 18:05,5/2/18 18:06,Very inappropriate,"i dont think it is fair to the patient that i not getting pill they think they are getting, he needs to ask the patient first if they want to participatel",abfixed,ab,fixed,female,white,> 54,high_school,lower_ii,51,1
+93,1217517194,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,As long as the patients agree to the plan I think it's ok,abfixed,ab,fixed,female,white,45 - 54,university,middle_i,50,4
+94,-1665759392,5/2/18 18:00,5/2/18 18:00,Somewhat appropriate,I don't know,abfixed,ab,fixed,male,prefer_not_to_say,14 - 17,high_school,lower_i,13,4
+95,-1942626346,5/2/18 18:04,5/2/18 18:04,Very inappropriate,Because he needs to ask for consent first.,abfixed,ab,fixed,female,asian,18 - 24,university,high_ii,9,1
+96,1421271365,5/2/18 18:14,5/2/18 18:15,Very appropriate,because it says the awareness that's required to be safe and be more conscious regarding our everyday life,abfixed,ab,fixed,male,white,45 - 54,university,high_ii,85,5
+97,-2096732019,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,I think it's ok as long as he informs his patients what he is doing.,abfixed,ab,fixed,female,white,45 - 54,university,middle_i,33,4
+98,1798671042,5/2/18 18:06,5/2/18 18:07,Somewhat inappropriate,That is a pretty random way to test medication. IT would be important for patients to know that they were being used as a test,abfixed,ab,fixed,male,white,45 - 54,university,middle_ii,39,2
+99,836299021,5/2/18 18:02,5/2/18 18:02,Somewhat inappropriate,He's using real patients to experiment without their consent our knowledge.,abfixed,ab,fixed,male,multiracial,35 - 44,postgraduate,high_iii,34,2
+100,173099390,5/2/18 18:00,5/2/18 18:01,Somewhat inappropriate,The doctor should not experiment with his paitents,abfixed,ab,fixed,female,white,45 - 54,high_school,lower_i,49,2
+101,-1468364430,5/2/18 18:08,5/2/18 18:09,Somewhat inappropriate,Because he shouldn't use his patients to be test subjects. He should have called other Dr's and ask their opinion before doing that,abfixed,ab,fixed,male,white,25 - 34,high_school,lower_ii,62,2
+102,738227200,5/2/18 18:08,5/2/18 18:13,Very inappropriate,"My thought is if a patents medication is working (medication A), then another Doctor at a clinic should prescribe the medication regard less of other brand or generics available. Also if a Doctor was to iniate a random study, patients should be advised of  or given the opportunity opt in/out  a random study. Especially since their medication therapy will change.",abfixed,ab,fixed,male,white,45 - 54,vocational_technical_college,lower_i,320,1
+103,590549788,5/2/18 18:06,5/2/18 18:07,Somewhat appropriate,"Although, it will ultimately benefit the patients, it's unethical to experiment on patients directly without their known consent",abfixed,ab,fixed,male,hispanic,25 - 34,vocational_technical_college,middle_i,77,4
+104,-130542840,5/2/18 17:58,5/2/18 17:59,Somewhat appropriate,Because if there is another way to control it other then pills that would be great,abfixed,ab,fixed,female,white,45 - 54,high_school,middle_i,31,4
+105,-554465511,5/2/18 17:59,5/2/18 18:00,Somewhat inappropriate,That's no way to deal with blood pressure issues. It appears like this doctor uses patients as lab rats,abfixed,ab,fixed,female,white,45 - 54,vocational_technical_college,middle_ii,51,2
+106,908617461,5/2/18 18:07,5/2/18 18:07,Somewhat appropriate,because i use marihuana,abfixed,ab,fixed,male,hispanic,35 - 44,high_school,middle_ii,25,4
+107,1635957429,5/2/18 18:14,5/2/18 18:14,Neither inappropriate nor appropriate,Like,abfixed,ab,fixed,male,hispanic,45 - 54,middle_school,lower_i,0,3
+108,-135630274,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,No,abfixed,ab,fixed,female,hispanic,35 - 44,middle_school,lower_i,5,3
+109,622132615,5/2/18 18:02,5/2/18 18:03,Somewhat inappropriate,"It is inappropriate if the patients are not consenting to his research, and should be made aware of all treatment options available to them.",abfixed,ab,fixed,female,white,25 - 34,university,middle_i,46,2
+110,-701974396,5/2/18 18:12,5/2/18 18:13,Neither inappropriate nor appropriate,Dunno. I just don't know,abfixed,ab,fixed,male,prefer_not_to_say,> 54,vocational_technical_college,lower_i,27,3
+111,947128877,5/2/18 18:09,5/2/18 18:10,Somewhat appropriate,Im not big on that stuff,abfixed,ab,fixed,male,white,35 - 44,high_school,lower_i,26,4
+112,795189914,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,"To see which works best, that's a good test to see. However, everybody is different and should be given the drugs that wok best for them.",abfixed,ab,fixed,female,white,35 - 44,university,middle_i,47,4
+113,583280829,5/2/18 18:10,5/2/18 18:10,Neither inappropriate nor appropriate,Seems right,abfixed,ab,fixed,male,black,35 - 44,high_school,lower_i,8,3
+114,-1757085453,5/2/18 18:05,5/2/18 18:05,Somewhat inappropriate,Bc idk,abfixed,ab,fixed,female,white,18 - 24,high_school,lower_ii,5,2
+115,10250940,5/2/18 18:13,5/2/18 18:14,Somewhat appropriate,I think it's a good idea. Just ask for volunters first. That way he can use the most effective medicine.,abfixed,ab,fixed,male,hispanic,35 - 44,high_school,lower_ii,112,4
+116,691516889,5/2/18 18:03,5/2/18 18:04,Very inappropriate,He makes sense to me,abfixed,ab,fixed,female,black,25 - 34,university,lower_ii,9,1
+117,-704894994,5/2/18 17:58,5/2/18 17:59,Somewhat appropriate,Because he used random assignment to figure out which treatment works on each patient. And having randomly selected these individuals.,abfixed,ab,fixed,female,white,18 - 24,university,lower_ii,36,4
+118,-1811592094,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,Bc he is crazy,abfixed,ab,fixed,female,white,25 - 34,high_school,lower_i,14,2
+119,617614572,5/2/18 18:00,5/2/18 18:00,Somewhat inappropriate,Doesnt seem right,abfixed,ab,fixed,male,white,35 - 44,university,high_i,10,2
+0,-867635904,5/2/18 18:01,5/2/18 18:03,Very inappropriate,"I choose that the Doctors choice is very inappropriate. I choose that because it isn't fair that he, one single being, decides how I should be treated, with medicine, by my tolerance level.",afixed,a,fixed,female,black,18 - 24,university,lower_ii,105,1
+1,1570874951,5/2/18 18:01,5/2/18 18:01,Very appropriate,Good dictor,afixed,a,fixed,female,hispanic,25 - 34,high_school,lower_i,17,5
+2,798810913,5/2/18 18:16,5/2/18 18:16,Very inappropriate,Because it's true,afixed,a,fixed,male,arab,25 - 34,university,high_iii,16,1
+3,-1101418475,5/2/18 18:04,5/2/18 18:04,Very inappropriate,I love it,afixed,a,fixed,male,white,35 - 44,high_school,prefer_not_to_say,10,1
+4,-1060552394,5/2/18 18:04,5/2/18 18:06,Very appropriate,He wants to use one medication for his patients to ensure safety.I think its a great idea,afixed,a,fixed,female,white,25 - 34,high_school,middle_i,88,5
+5,924982527,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,Because it says either drug is fine,afixed,a,fixed,female,white,45 - 54,high_school,middle_ii,13,3
+6,-127793094,5/2/18 18:00,5/2/18 18:01,Neither inappropriate nor appropriate,It’s all trial and error for each person,afixed,a,fixed,female,white,25 - 34,university,middle_ii,22,3
+7,-88475795,5/2/18 18:03,5/2/18 18:03,Somewhat appropriate,He has 2 options,afixed,a,fixed,female,asian,25 - 34,university,prefer_not_to_say,11,4
+8,801642010,5/2/18 18:01,5/2/18 18:03,Neither inappropriate nor appropriate,I mean if both the medicine helps and and showing no side affects and both affordable. Why would it be in appropriate,afixed,a,fixed,male,white,25 - 34,vocational_technical_college,lower_ii,106,3
+9,1559787467,5/2/18 17:57,5/2/18 17:57,Very inappropriate,Because he's very important,afixed,a,fixed,female,prefer_not_to_say,18 - 24,high_school,prefer_not_to_say,12,1
+10,-2037010495,5/2/18 18:01,5/2/18 18:02,Somewhat inappropriate,Because I don't,afixed,a,fixed,female,white,25 - 34,vocational_technical_college,middle_i,21,2
+11,852418032,5/2/18 18:11,5/2/18 18:12,Somewhat appropriate,Since both meds are tolerable and work it seems appropriate. However some should get  B to provide diversity,afixed,a,fixed,male,white,> 54,university,high_ii,86,4
+12,-366988091,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Not sure,afixed,a,fixed,female,prefer_not_to_say,35 - 44,vocational_technical_college,lower_ii,42,3
+13,-843699724,5/2/18 18:03,5/2/18 18:05,Very appropriate,"It both drugs are affordable, equally effective, and approved by the FDA, then I think it is appropriate for any medical doctor to use his/her discretion for which drug they choose to prescribe.",afixed,a,fixed,female,latino,> 54,high_school,lower_ii,75,5
+14,-1529959669,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,Na,afixed,a,fixed,female,prefer_not_to_say,18 - 24,university,lower_ii,3,3
+15,2072808273,5/2/18 18:04,5/2/18 18:04,Very inappropriate,I don't know,afixed,a,fixed,female,black,25 - 34,high_school,lower_i,3,1
+16,-1472385212,5/2/18 17:59,5/2/18 17:59,Very inappropriate,Medications are bad,afixed,a,fixed,female,black,25 - 34,high_school,lower_ii,14,1
+17,834026781,5/2/18 18:03,5/2/18 18:04,Somewhat inappropriate,I feel like one doctor's opinion shouldn't outweigh the others. Is he the most qualified in his office to make said decision?,afixed,a,fixed,female,other,25 - 34,high_school,lower_ii,44,2
+18,-852520123,5/2/18 18:12,5/2/18 18:13,Somewhat inappropriate,Comparable drugs both both unexensive most tolerable side effects flip a coin makes no difference which you use.,afixed,a,fixed,male,white,> 54,university,middle_ii,75,2
+19,1130697693,5/2/18 17:58,5/2/18 17:58,Neither inappropriate nor appropriate,He’s the doctor. He knows what his patients can and can’t handle.,afixed,a,fixed,female,white,18 - 24,high_school,lower_ii,16,3
+20,1215883433,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,I think it’s appropriate because it’s the doctors job to do what they think is best for the patient. Is the other doctor wrong for using the other drug? No. They both just have their own preferences.,afixed,a,fixed,female,white,18 - 24,high_school,prefer_not_to_say,33,4
+21,1715646179,5/2/18 18:03,5/2/18 18:04,Very appropriate,If he thinks this medicine is helpful then why not prescribe it,afixed,a,fixed,female,white,45 - 54,university,high_i,28,5
+22,-1606655667,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,It's either a good or bad thing. Nothing is appropriate,afixed,a,fixed,male,white,25 - 34,university,lower_ii,25,3
+23,-1155458110,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,I'm not too imformed on the subject,afixed,a,fixed,female,hispanic,25 - 34,high_school,prefer_not_to_say,37,3
+24,2136842467,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,Because none of it made sense. The drugs are supposed to be the same but try say they are different.,afixed,a,fixed,female,white,25 - 34,university,lower_i,50,3
+25,161298970,5/2/18 18:04,5/2/18 18:04,Neither inappropriate nor appropriate,Each Dr. Has his on opinion.,afixed,a,fixed,female,white,> 54,university,lower_i,39,3
+26,-1785896981,5/2/18 18:01,5/2/18 18:01,Very inappropriate,I choose this option because it makes since. I see nothing wrong with what the doctor us doing.,afixed,a,fixed,female,hispanic,18 - 24,high_school,lower_i,32,1
+27,1284689434,5/2/18 18:14,5/2/18 18:16,Very appropriate,he was within his abilities and soing what a good doctor should based upon his experiences,afixed,a,fixed,male,white,25 - 34,vocational_technical_college,lower_ii,76,5
+28,1599869600,5/2/18 18:15,5/2/18 18:15,Very appropriate,Because it's the most logical,afixed,a,fixed,male,hispanic,25 - 34,postgraduate,lower_ii,14,5
+29,925144141,5/2/18 17:58,5/2/18 17:59,Very inappropriate,Every person is different!,afixed,a,fixed,male,white,> 54,university,lower_ii,11,1
+30,-1192588509,5/2/18 17:58,5/2/18 17:59,Very appropriate,"If both A and B are effective and patients can handle side effects, I think choosing either drug would be fine. Unless he should decide on a patient by patient basis",afixed,a,fixed,female,white,25 - 34,high_school,lower_ii,56,5
+31,1794661988,5/2/18 17:59,5/2/18 17:59,Neither inappropriate nor appropriate,Because I really dont have an opinion,afixed,a,fixed,female,white,35 - 44,high_school,middle_ii,18,3
+32,-1329007363,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,He is trying to help his patients. Both A & B work the same & are both affordable. So he,afixed,a,fixed,female,white,18 - 24,high_school,lower_i,46,3
+33,16554688,5/2/18 18:15,5/2/18 18:17,Somewhat appropriate,"I don't know all the facts, but as long as a doctor is providing affordable and medically appropriate medicine to treat patients then it's fine.",afixed,a,fixed,male,white,35 - 44,university,lower_i,85,4
+34,1175267451,5/2/18 18:05,5/2/18 18:06,Very appropriate,Because he is prescribing what he thinks will help the patient.,afixed,a,fixed,female,white,45 - 54,university,lower_i,53,5
+35,1790785544,5/2/18 18:00,5/2/18 18:00,Very appropriate,If they are about the same and same side effects,afixed,a,fixed,female,white,45 - 54,vocational_technical_college,middle_i,21,5
+36,14913155,5/2/18 18:03,5/2/18 18:04,Very inappropriate,Important,afixed,a,fixed,female,prefer_not_to_say,35 - 44,high_school,prefer_not_to_say,70,1
+37,716079719,5/2/18 18:00,5/2/18 18:01,Very appropriate,Taking the needs of the patients in consideration. Putting patients first,afixed,a,fixed,female,white,35 - 44,postgraduate,middle_i,29,5
+38,-795904186,5/2/18 18:08,5/2/18 18:08,Somewhat appropriate,Just because,afixed,a,fixed,male,white,35 - 44,vocational_technical_college,lower_ii,8,4
+39,444448224,5/2/18 18:15,5/2/18 18:15,Very inappropriate,Like,afixed,a,fixed,male,asian,25 - 34,middle_school,prefer_not_to_say,32,1
+40,1509770885,5/2/18 18:00,5/2/18 18:01,Very inappropriate,because the choice was inappropriate in my opinion,afixed,a,fixed,female,white,25 - 34,university,middle_i,32,1
+41,-1348521524,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,There's nothing wrong with his choice since both medicine can be used. It's just a matter of opinion.,afixed,a,fixed,female,prefer_not_to_say,25 - 34,university,prefer_not_to_say,32,3
+42,136294767,5/2/18 17:59,5/2/18 17:59,Very appropriate,It sounded like a drug baby was going to have more side effects and probably bad for the patient,afixed,a,fixed,female,white,25 - 34,vocational_technical_college,middle_ii,16,5
+43,-997946530,5/2/18 18:01,5/2/18 18:01,Very appropriate,It's a better solution and a better for health reasons,afixed,a,fixed,female,white,25 - 34,vocational_technical_college,high_i,30,5
+44,-1647423469,5/2/18 18:01,5/2/18 18:02,Neither inappropriate nor appropriate,Because both have side affects,afixed,a,fixed,female,hispanic,> 54,vocational_technical_college,lower_i,25,3
+45,-2069251741,5/2/18 17:58,5/2/18 17:58,Very inappropriate,Just cause,afixed,a,fixed,male,white,25 - 34,high_school,lower_i,15,1
+46,-2061586342,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,Cause alot of people dont have insurance so they can't pay for meds or the meds are to expensive for peioke to pay,afixed,a,fixed,female,white,35 - 44,high_school,middle_ii,42,4
+47,-1699421022,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,He feels it is a better option,afixed,a,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,18,4
+48,997844903,5/2/18 17:58,5/2/18 18:00,Very appropriate,Both a and b work effectively good choice,afixed,a,fixed,male,white,45 - 54,high_school,prefer_not_to_say,100,5
+49,-1847341391,5/2/18 18:07,5/2/18 18:08,Neither inappropriate nor appropriate,It's the doctors choice to give better care to their patients,afixed,a,fixed,male,other,35 - 44,high_school,lower_ii,51,3
+50,-788278269,5/2/18 18:05,5/2/18 18:05,Very inappropriate,Government drugs are to not be trusted,afixed,a,fixed,male,black,18 - 24,high_school,lower_i,29,1
+51,-689928830,5/2/18 17:59,5/2/18 18:00,Neither inappropriate nor appropriate,I feel that if both work the same with the same side effects that it doesn't matter which one the patient gets. If the side effects are different then the patient should choose,afixed,a,fixed,male,white,25 - 34,high_school,lower_i,74,3
+52,1528924698,5/2/18 18:03,5/2/18 18:03,Somewhat inappropriate,Because they need for studies done,afixed,a,fixed,female,white,25 - 34,high_school,lower_i,17,2
+53,-1072490338,5/2/18 18:12,5/2/18 18:13,Somewhat appropriate,Thing s could have turned out different,afixed,a,fixed,male,white,35 - 44,high_school,prefer_not_to_say,55,4
+54,-1234054801,5/2/18 18:09,5/2/18 18:10,Neither inappropriate nor appropriate,It would depend on how many times the patient had been seen before and by how many other doctors. I think it would be a bit of negligence to just prescribe whichever medication you felt fit the patient without looking at their medical records to see what they're already taking regardless of whether it will interfere or cause issues with a mix why do it before stopping the other medication. If the patient had not yet been taking any other medication then why not sounded like he had a reasonable reason to give her medication a,afixed,a,fixed,male,white,25 - 34,high_school,lower_ii,61,3
+55,-1323126838,5/2/18 18:02,5/2/18 18:02,Somewhat inappropriate,I don't know that much about habing blood pressure,afixed,a,fixed,female,white,45 - 54,university,lower_ii,32,2
+56,-482633516,5/2/18 17:59,5/2/18 17:59,Neither inappropriate nor appropriate,Food,afixed,a,fixed,male,black,18 - 24,high_school,lower_ii,3,3
+57,42000896,5/2/18 18:03,5/2/18 18:05,Neither inappropriate nor appropriate,"If both medications are equally effective, affordable and have similar side effects that it really doesn't matter which drug is prescribed except prescribing the same one such as drug A every time helps the dr keep track of the drug",afixed,a,fixed,female,white,35 - 44,middle_school,lower_ii,140,3
+58,1659659890,5/2/18 18:07,5/2/18 18:08,Somewhat inappropriate,People gaining what. Obesity,afixed,a,fixed,male,white,35 - 44,high_school,middle_i,41,2
+59,332303918,5/2/18 18:09,5/2/18 18:11,Very inappropriate,"If they're both going to provide the same affect with minimal side affects, it doesn't matter what is prescribed. Also they're both affordable.",afixed,a,fixed,male,multiracial,35 - 44,university,middle_ii,93,1
+60,-216390313,5/2/18 18:06,5/2/18 18:06,Very appropriate,Because he is a doctor so he should know the benefits of both drugs,afixed,a,fixed,male,white,18 - 24,high_school,lower_ii,28,5
+61,-1616875793,5/2/18 18:03,5/2/18 18:03,Very appropriate,Because he can prescribe either medication.,afixed,a,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,15,5
+62,1288990028,5/2/18 18:09,5/2/18 18:09,Very appropriate,Be I'm me,afixed,a,fixed,male,black,25 - 34,high_school,lower_i,12,5
+63,1049700641,5/2/18 18:02,5/2/18 18:02,Somewhat inappropriate,I’m not sure just feel if,afixed,a,fixed,female,hispanic,35 - 44,high_school,lower_ii,18,2
+64,-1944910709,5/2/18 18:13,5/2/18 18:13,Somewhat inappropriate,no input,afixed,a,fixed,male,white,25 - 34,postgraduate,lower_i,8,2
+65,-1187341035,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,Not good,afixed,a,fixed,female,black,25 - 34,high_school,lower_ii,11,3
+66,2037415806,5/2/18 18:03,5/2/18 18:05,Very inappropriate,Because he shows he cares for people's health.  I think he would make a good doctor.,afixed,a,fixed,female,white,45 - 54,high_school,lower_i,92,1
+67,1970627616,5/2/18 18:00,5/2/18 18:01,Very appropriate,Doctor  has great opinion,afixed,a,fixed,female,white,25 - 34,university,lower_i,51,5
+68,138434472,5/2/18 18:03,5/2/18 18:04,Very appropriate,The statement says that the patients can have A or B so it don't matter which one he gives.,afixed,a,fixed,female,black,25 - 34,high_school,lower_i,45,5
+69,-1069205091,5/2/18 18:00,5/2/18 18:01,Very inappropriate,Because drug A is most likely a name brand and he the doctor is being paid off to push their medicine.,afixed,a,fixed,female,latino,> 54,vocational_technical_college,prefer_not_to_say,51,1
+70,-2086081683,5/2/18 18:01,5/2/18 18:02,Neither inappropriate nor appropriate,It seems it is a good drug,afixed,a,fixed,male,white,35 - 44,university,high_i,21,3
+71,625354192,5/2/18 18:02,5/2/18 18:03,Very inappropriate,"If they both do the same thing, why does it matter?",afixed,a,fixed,male,white,18 - 24,high_school,middle_i,21,1
+72,-753185438,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,I don’t know tbh,afixed,a,fixed,male,hispanic,25 - 34,university,prefer_not_to_say,14,4
+73,-1100534360,5/2/18 18:09,5/2/18 18:10,Very inappropriate,It's very important to choose the right medication for your illness.,afixed,a,fixed,male,white,25 - 34,high_school,lower_i,30,1
+74,-196905358,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,He the doctor,afixed,a,fixed,female,white,35 - 44,high_school,prefer_not_to_say,15,3
+75,269687079,5/2/18 18:16,5/2/18 18:16,Neither inappropriate nor appropriate,It sounds like both options work about the same.,afixed,a,fixed,male,white,35 - 44,university,high_i,31,3
+76,-1868283145,5/2/18 18:00,5/2/18 18:01,Very appropriate,Because it stated some doctors choose drug a while others choose drug b for their patients. So if doctor jones chooses drug a they must think that is the better one,afixed,a,fixed,female,white,25 - 34,high_school,prefer_not_to_say,64,5
+77,-1089890213,5/2/18 18:05,5/2/18 18:05,Very appropriate,Because that’s the way it should be,afixed,a,fixed,female,latino,18 - 24,high_school,lower_ii,13,5
+78,1579493653,5/2/18 17:59,5/2/18 18:02,Somewhat appropriate,Because all medications contains drug and I think is nothing wrong wit it if it’s for a good,afixed,a,fixed,female,hispanic,25 - 34,high_school,lower_i,138,4
+79,-1716676795,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,I am not sure,afixed,a,fixed,female,white,25 - 34,university,lower_ii,9,3
+80,1318393203,5/2/18 18:07,5/2/18 18:08,Very inappropriate,Don’t forget,afixed,a,fixed,male,white,> 54,high_school,lower_ii,6,1
+81,-490070567,5/2/18 17:57,5/2/18 17:58,Neither inappropriate nor appropriate,Cause sometimes life doesn’t matter,afixed,a,fixed,female,white,45 - 54,high_school,prefer_not_to_say,21,3
+82,638599690,5/2/18 18:04,5/2/18 18:06,Very inappropriate,Because drugs is very dangerous even if it can treat high blood pressure it can’destroy many other things in your body so this is innapropiriate for a doctor to use drugs for treatment,afixed,a,fixed,female,black,25 - 34,high_school,middle_i,83,1
+83,-303566945,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,If both options are safe and approved the doctor is going by what he knows about the drug and is using his knowledge to help his patients,afixed,a,fixed,female,white,45 - 54,vocational_technical_college,middle_i,65,4
+84,-1895550870,5/2/18 18:02,5/2/18 18:02,Somewhat inappropriate,Hey good,afixed,a,fixed,male,asian,25 - 34,postgraduate,lower_i,9,2
+85,146487821,5/2/18 18:10,5/2/18 18:10,Somewhat appropriate,Nothing,afixed,a,fixed,male,white,18 - 24,university,lower_ii,4,4
+86,-2117777801,5/2/18 18:08,5/2/18 18:08,Very appropriate,If the patient happens to get Jones then they should go with what he prescribed. If they are unhappy say they’d rather wait for the other doctor.,afixed,a,fixed,male,white,25 - 34,vocational_technical_college,middle_i,36,5
+87,-1797934437,5/2/18 18:05,5/2/18 18:06,Very appropriate,Drug A is user friendly with few side effects and works well.,afixed,a,fixed,male,white,45 - 54,university,middle_ii,39,5
+88,1969614568,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,It seemed like there was no difference between the two.,afixed,a,fixed,female,white,18 - 24,postgraduate,middle_i,14,4
+89,-907770180,5/2/18 18:08,5/2/18 18:08,Somewhat inappropriate,nope,afixed,a,fixed,male,white,25 - 34,high_school,lower_ii,6,2
+90,152316351,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,just depends,afixed,a,fixed,male,white,25 - 34,vocational_technical_college,lower_ii,8,3
+91,-715514751,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,Because as a doctor he is making the right decision to insure his patients get the right care.,afixed,a,fixed,female,white,25 - 34,high_school,lower_ii,36,4
+92,1099885633,5/2/18 18:14,5/2/18 18:14,Neither inappropriate nor appropriate,i really have never abused drugs so i dont know what it would be like for someone on them,afixed,a,fixed,male,white,25 - 34,university,lower_ii,21,3
+93,-1086018290,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,"Since both medications due what they are supposed to with little side effect, I think the doctor did the right thing",afixed,a,fixed,male,black,> 54,vocational_technical_college,lower_i,76,4
+94,1465348816,5/2/18 18:14,5/2/18 18:16,Very inappropriate,because it's my opinion about what I read,afixed,a,fixed,male,white,25 - 34,university,high_i,119,1
+95,-526839962,5/2/18 18:06,5/2/18 18:06,Neither inappropriate nor appropriate,Because there was still no difference between drug A and drug B,afixed,a,fixed,male,white,25 - 34,high_school,lower_ii,21,3
+96,1108425637,5/2/18 17:58,5/2/18 17:58,Somewhat appropriate,"Because other Dr are also prescribing it, it haa tolerable side effects and its also affordable",afixed,a,fixed,female,hispanic,25 - 34,vocational_technical_college,lower_i,48,4
+97,239807360,5/2/18 18:01,5/2/18 18:03,Somewhat inappropriate,Drs choice what to prescribe but patient should know other options,afixed,a,fixed,female,white,45 - 54,university,lower_ii,72,2
+98,1465346772,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,"If both drug choices are equivalent, either choice will benefit in the same way to the patient.",afixed,a,fixed,female,white,18 - 24,high_school,lower_i,53,3
+99,-1886204825,5/2/18 18:11,5/2/18 18:12,Somewhat appropriate,Coz I like,afixed,a,fixed,male,asian,25 - 34,university,lower_i,14,4
+100,-352998647,5/2/18 17:59,5/2/18 18:03,Neither inappropriate nor appropriate,I would like to know why he chose drug A. And how do the side effects compare to drug B.,afixed,a,fixed,male,multiracial,45 - 54,vocational_technical_college,lower_ii,217,3
+101,764770011,5/2/18 18:00,5/2/18 18:00,Very inappropriate,Cool,afixed,a,fixed,female,black,18 - 24,vocational_technical_college,middle_ii,3,1
+102,1732719531,5/2/18 18:00,5/2/18 18:00,Very appropriate,Drug appropriate for condition of patient,afixed,a,fixed,female,asian,> 54,vocational_technical_college,lower_i,32,5
+103,16027017,5/2/18 18:01,5/2/18 18:02,Very appropriate,Good,afixed,a,fixed,female,black,35 - 44,high_school,lower_i,12,5
+104,1411481344,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,It seemed appropriate,afixed,a,fixed,female,other,18 - 24,high_school,prefer_not_to_say,13,4
+105,-113183403,5/2/18 18:12,5/2/18 18:12,Neither inappropriate nor appropriate,Bull slit,afixed,a,fixed,male,white,> 54,high_school,middle_i,14,3
+106,504060829,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,No drug should be legal unless it helps with someone's health,afixed,a,fixed,male,white,25 - 34,high_school,middle_ii,32,3
+107,2012395698,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,Cause I just did,afixed,a,fixed,female,white,45 - 54,high_school,lower_i,21,3
+108,832480512,5/2/18 18:01,5/2/18 18:02,Neither inappropriate nor appropriate,It depends what prescription b is as far as whether prescription a is the appropriate decision or not,afixed,a,fixed,female,white,25 - 34,university,middle_ii,29,3
+109,97762094,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,Everyone should get the medicine they need,afixed,a,fixed,female,hispanic,18 - 24,university,middle_i,40,4
+110,1821946977,5/2/18 18:15,5/2/18 18:15,Very inappropriate,Its not right and so not fair,afixed,a,fixed,male,white,18 - 24,high_school,lower_i,20,1
+111,65421476,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,The patients should have labs done and then the decision on which medication should be prescribed can be addressed.,afixed,a,fixed,female,other,25 - 34,university,high_i,76,4
+112,2124332452,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,It makes alot of sense and I like it.,afixed,a,fixed,female,white,35 - 44,high_school,lower_i,20,4
+113,408202686,5/2/18 18:06,5/2/18 18:06,Somewhat inappropriate,God Is My Answer,afixed,a,fixed,male,latino,18 - 24,vocational_technical_college,high_ii,14,2
+114,433467406,5/2/18 17:58,5/2/18 17:59,Somewhat appropriate,If the side effects are about the same it should be fine. If the cost is about the same it does not make a huge difference,afixed,a,fixed,female,white,> 54,high_school,middle_i,77,4
+115,1513813471,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,Gust though it was a good choices,afixed,a,fixed,male,white,35 - 44,high_school,lower_ii,31,2
+116,1913024595,5/2/18 18:04,5/2/18 18:05,Somewhat inappropriate,d'not like,afixed,a,fixed,female,latino,25 - 34,high_school,lower_i,45,2
+117,1924478380,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,I really don't know. Imaybe it depends on the peeson whose taking medications.,afixed,a,fixed,female,asian,25 - 34,high_school,prefer_not_to_say,48,3
+118,-998772992,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,don't know him,afixed,a,fixed,female,white,25 - 34,high_school,prefer_not_to_say,19,3
+119,-262730212,5/2/18 18:00,5/2/18 18:00,Very appropriate,Best drug offere,afixed,a,fixed,female,arab,18 - 24,middle_school,prefer_not_to_say,35,5
+0,-340275642,5/2/18 18:01,5/2/18 18:02,Very appropriate,Both medications are the same. This story doesn't give enough info to make an accurate choice.,b,b,reverse,female,white,35 - 44,high_school,lower_ii,39,5
+1,-1161235449,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,Some Dr's prefer one drug over another because they have seen it work better.,b,b,reverse,female,white,35 - 44,high_school,lower_i,44,3
+2,540472523,5/2/18 18:13,5/2/18 18:13,Very appropriate,Good lab,b,b,reverse,male,asian,> 54,vocational_technical_college,lower_ii,9,5
+3,-1236776771,5/2/18 18:15,5/2/18 18:15,Somewhat appropriate,Either of the options would work for the patients.,b,b,reverse,male,white,18 - 24,university,lower_i,23,4
+4,1075221875,5/2/18 18:14,5/2/18 18:14,Very appropriate,Because he is a very good person and I don’t forget that he was going to call me back,b,b,reverse,male,arab,35 - 44,high_school,lower_i,49,5
+5,-177491936,5/2/18 18:16,5/2/18 18:16,Very appropriate,He made a good decision.,b,b,reverse,male,white,18 - 24,vocational_technical_college,lower_ii,13,5
+6,-1905485118,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,Because it's his opinion as to which medicine should be used.,b,b,reverse,female,white,45 - 54,high_school,lower_ii,22,3
+7,-1824015108,5/2/18 17:58,5/2/18 17:59,Very appropriate,He thinks its the best for that person that is seeing him,b,b,reverse,female,white,18 - 24,high_school,lower_ii,32,5
+8,-1631454513,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Not sure,b,b,reverse,male,white,35 - 44,high_school,lower_i,34,3
+9,599367582,5/2/18 17:58,5/2/18 17:59,Somewhat appropriate,I'm not really sure what side affects each medication has or what the medications are to make a clear choice.,b,b,reverse,female,black,25 - 34,high_school,lower_i,32,4
+10,-1468993908,5/2/18 18:06,5/2/18 18:06,Neither inappropriate nor appropriate,Not sure don’t have an opinion there,b,b,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,7,3
+11,-749571379,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,If the drug is safe and effective it should be prescribed,b,b,reverse,male,other,35 - 44,high_school,lower_ii,48,3
+12,-1559124111,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,It's logical,b,b,reverse,male,white,25 - 34,postgraduate,high_iii,8,4
+13,1582054864,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,Because he could’ve chosen either one so to stick with just one doesn’t always make sense. Not for everyone.,b,b,reverse,female,white,35 - 44,university,lower_ii,31,4
+14,-1754945757,5/2/18 18:01,5/2/18 18:01,Very appropriate,Medicine needs to be offered so that everyone can afford them to stay healthy,b,b,reverse,female,white,45 - 54,high_school,prefer_not_to_say,48,5
+15,543477159,5/2/18 18:14,5/2/18 18:14,Neither inappropriate nor appropriate,As a doctor he has the professional opinion to prescribed either one,b,b,reverse,male,white,45 - 54,university,middle_i,16,3
+16,-1734486264,5/2/18 18:01,5/2/18 18:01,Very inappropriate,They should all get the same,b,b,reverse,female,white,35 - 44,high_school,lower_ii,12,1
+17,360261146,5/2/18 18:05,5/2/18 18:05,Very appropriate,If both drugs are effective and affordable then I didn’t matter which he chose,b,b,reverse,female,white,18 - 24,vocational_technical_college,lower_ii,19,5
+18,1021109023,5/2/18 18:05,5/2/18 18:05,Very appropriate,Cuz hes a dr,b,b,reverse,female,black,18 - 24,high_school,lower_i,6,5
+19,1512985926,5/2/18 18:00,5/2/18 18:02,Neither inappropriate nor appropriate,Why would he prescribe drug A like other doctors instead of drug B witch didn't really tell u what drug B if for,b,b,reverse,male,hispanic,25 - 34,high_school,lower_ii,103,3
+20,-2052728696,5/2/18 18:13,5/2/18 18:13,Somewhat appropriate,Good,b,b,reverse,male,white,18 - 24,vocational_technical_college,middle_i,10,4
+21,1880061366,5/2/18 18:04,5/2/18 18:04,Neither inappropriate nor appropriate,Idk,b,b,reverse,female,white,35 - 44,high_school,lower_i,3,3
+22,-566715405,5/2/18 18:05,5/2/18 18:06,Very appropriate,It's suitable for the statement,b,b,reverse,male,asian,25 - 34,vocational_technical_college,middle_i,30,5
+23,-1253484407,5/2/18 17:58,5/2/18 17:58,Very appropriate,Because ot sounded good. I liked what it said.,b,b,reverse,female,hispanic,25 - 34,high_school,lower_ii,37,5
+24,1483078634,5/2/18 18:04,5/2/18 18:04,Neither inappropriate nor appropriate,None,b,b,reverse,female,white,45 - 54,university,lower_ii,6,3
+25,741740294,5/2/18 18:07,5/2/18 18:08,Neither inappropriate nor appropriate,Cause he needs to give them the type of drug they need for there high blood pressure,b,b,reverse,male,multiracial,18 - 24,university,lower_ii,40,3
+26,-394975412,5/2/18 18:08,5/2/18 18:10,Very appropriate,Both options work it's his opinion St that point,b,b,reverse,male,white,25 - 34,university,middle_ii,128,5
+27,1462950156,5/2/18 17:58,5/2/18 17:58,Neither inappropriate nor appropriate,G bub can,b,b,reverse,male,white,18 - 24,high_school,middle_i,4,3
+28,-374251372,5/2/18 17:59,5/2/18 17:59,Very inappropriate,Just cuz that is the answer I liked,b,b,reverse,female,hispanic,25 - 34,high_school,lower_i,26,1
+29,-1481114211,5/2/18 18:00,5/2/18 18:00,Somewhat appropriate,None,b,b,reverse,female,hispanic,18 - 24,high_school,middle_i,5,4
+30,-453962886,5/2/18 18:02,5/2/18 18:03,Very appropriate,I don't know,b,b,reverse,female,hispanic,35 - 44,middle_school,lower_i,18,5
+31,2047636690,5/2/18 18:03,5/2/18 18:04,Very appropriate,They are right most all the time so now I trust  them,b,b,reverse,male,white,> 54,university,lower_i,59,5
+32,-1700990018,5/2/18 18:14,5/2/18 18:15,Very appropriate,The doctor thinks it's the best for his patients,b,b,reverse,male,white,45 - 54,high_school,lower_ii,59,5
+33,-1293703518,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,No comments,b,b,reverse,female,prefer_not_to_say,35 - 44,postgraduate,prefer_not_to_say,13,4
+34,1771916882,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,Because I see where he is coming from but not completely,b,b,reverse,female,black,25 - 34,university,middle_i,17,4
+35,-1372429156,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,U have to go to the b there is no longer any of these are you going 6666666 mph and the b there is no longer any of these are,b,b,reverse,male,white,25 - 34,university,middle_ii,9,3
+36,1830807298,5/2/18 18:06,5/2/18 18:06,Very appropriate,Hey I’m just trying not gonna was the last night you were gonna we were gonna last,b,b,reverse,female,hispanic,25 - 34,vocational_technical_college,lower_ii,10,5
+37,-1365056931,5/2/18 18:13,5/2/18 18:14,Somewhat appropriate,I chose this option because you are given the side effects on the box so if you agree to take a drug its on you.,b,b,reverse,male,hispanic,25 - 34,high_school,prefer_not_to_say,67,4
+38,35171214,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,I don't know enough about the subject to form a option,b,b,reverse,male,white,25 - 34,university,lower_ii,37,4
+39,-1999607041,5/2/18 18:03,5/2/18 18:04,Somewhat inappropriate,Giving people choices,b,b,reverse,female,hispanic,45 - 54,high_school,lower_i,7,2
+40,1385279241,5/2/18 18:03,5/2/18 18:05,Very appropriate,Not every patient has the same Health problems and need different types a medication,b,b,reverse,female,latino,25 - 34,high_school,lower_ii,86,5
+41,323891550,5/2/18 18:10,5/2/18 18:10,Very appropriate,Seems like dr jones has a good idea,b,b,reverse,male,white,35 - 44,university,lower_i,30,5
+42,-459400353,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,If he knows which medicine cocktails are good for hbp then it is ok. But everyone is different sooo....  may jot not be good,b,b,reverse,female,white,35 - 44,vocational_technical_college,lower_ii,50,4
+43,-1301148052,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,To help the patients,b,b,reverse,male,hispanic,25 - 34,vocational_technical_college,lower_ii,15,4
+44,-323374461,5/2/18 18:02,5/2/18 18:05,Somewhat appropriate,its somewhat justified because if each one has the same effect then it is equally appropriate to choose whichever one.,b,b,reverse,male,white,18 - 24,vocational_technical_college,lower_ii,145,4
+45,946195594,5/2/18 18:07,5/2/18 18:07,Somewhat appropriate,Because some drugs could be good,b,b,reverse,male,black,14 - 17,middle_school,prefer_not_to_say,21,4
+46,-2077917620,5/2/18 18:04,5/2/18 18:05,Very appropriate,He is providing care for his patients. He is giving them what he thinks is best and also affordable.,b,b,reverse,female,white,25 - 34,high_school,lower_ii,36,5
+47,391454805,5/2/18 18:01,5/2/18 18:01,Very appropriate,Yes,b,b,reverse,female,white,35 - 44,university,high_i,4,5
+48,1499726184,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,You cannot give the same medicine to everyone,b,b,reverse,female,white,> 54,vocational_technical_college,lower_ii,52,3
+49,1271838915,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,it's the doctors choice I guess,b,b,reverse,female,white,25 - 34,high_school,middle_i,22,3
+50,1921541464,5/2/18 18:11,5/2/18 18:11,Neither inappropriate nor appropriate,Everyone has their own option,b,b,reverse,male,white,35 - 44,high_school,lower_ii,15,3
+51,-444898823,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,Cause I think it's appreate,b,b,reverse,female,white,25 - 34,high_school,lower_ii,13,4
+52,-1120023764,5/2/18 18:12,5/2/18 18:13,Neither inappropriate nor appropriate,It can be a good choice and also a bad one. Each person reacts differently to a drug,b,b,reverse,male,white,45 - 54,university,middle_i,63,3
+53,-967444010,5/2/18 18:09,5/2/18 18:10,Neither inappropriate nor appropriate,Because there's not enough information given to figure out if drug B is worse or better,b,b,reverse,male,white,25 - 34,high_school,lower_ii,30,3
+54,1097343321,5/2/18 18:00,5/2/18 18:01,Very appropriate,"Because they are FDA approved , affordable and the doctor prefers that drug",b,b,reverse,female,white,45 - 54,high_school,middle_ii,38,5
+55,-1810312765,5/2/18 18:10,5/2/18 18:12,Somewhat appropriate,"He is certainly knowledgeable enough to come up with a theory. But, it takes more than one person to find the answer.",b,b,reverse,male,white,25 - 34,high_school,lower_i,69,4
+56,1073621883,5/2/18 18:11,5/2/18 18:11,Neither inappropriate nor appropriate,It doesn't really matter,b,b,reverse,male,white,18 - 24,high_school,prefer_not_to_say,14,3
+57,-455898883,5/2/18 18:04,5/2/18 18:04,Very appropriate,Everyone should be able to afford the medicine they need.,b,b,reverse,female,white,18 - 24,university,lower_ii,12,5
+58,-89263472,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,Because if they are both good then the doctor should know which medicine the patient would work best on,b,b,reverse,female,white,18 - 24,vocational_technical_college,lower_ii,34,4
+59,-627330602,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,He is helping his patients. So I think he is making a good decision.,b,b,reverse,female,white,25 - 34,postgraduate,middle_ii,20,4
+60,-1665321774,5/2/18 18:08,5/2/18 18:10,Somewhat inappropriate,If Drug A is more effective than Drug B and they are both affordable why not prescribe Drug A? Also patients be more happy if they reveived better treatment from Drug A,b,b,reverse,male,hispanic,25 - 34,university,lower_i,119,2
+61,147354913,5/2/18 18:06,5/2/18 18:06,Very appropriate,Great,b,b,reverse,female,white,18 - 24,university,high_ii,1,5
+62,-1192444913,5/2/18 18:00,5/2/18 18:02,Somewhat appropriate,"He should not make a blanket decision for all patients. Though the symptom is the same, underlying issues with individuals may affect how a patient responds to a drug. Therefore each case should be fully evaluated and a decision as to which drug will benefit the patient should be decided on a case to case basis.",b,b,reverse,female,white,25 - 34,university,lower_ii,138,4
+63,90316859,5/2/18 18:03,5/2/18 18:03,Somewhat appropriate,Wants best,b,b,reverse,female,white,25 - 34,vocational_technical_college,lower_ii,21,4
+64,-882400302,5/2/18 18:04,5/2/18 18:05,Very inappropriate,Because doctors are choosing between medicines that are both equally dangerous...how do we as pacients know that these doctors even care about there job or are morraly correct.,b,b,reverse,female,hispanic,25 - 34,vocational_technical_college,lower_i,68,1
+65,656430016,5/2/18 18:08,5/2/18 18:08,Somewhat appropriate,Because he was right,b,b,reverse,male,asian,18 - 24,high_school,lower_ii,13,4
+66,801428854,5/2/18 18:10,5/2/18 18:13,Somewhat appropriate,"He should prescribe meds based on the patient. If Joe responded better to drug A,then give him A. If George responded to B, give him B. Not just prescribe the same thing for everyone",b,b,reverse,male,white,35 - 44,high_school,lower_ii,197,4
+67,-1831771356,5/2/18 18:00,5/2/18 18:00,Very appropriate,If both work then it’s gine,b,b,reverse,female,white,25 - 34,postgraduate,middle_i,11,5
+68,736382520,5/2/18 18:05,5/2/18 18:06,Somewhat appropriate,Because we don’t know enough details about drug B ! That’s why i can’t be sure that it’s better than drug A,b,b,reverse,female,arab,25 - 34,university,middle_i,46,4
+69,880247126,5/2/18 18:07,5/2/18 18:07,Somewhat appropriate,In a generic way he is correct although some controversy could arise,b,b,reverse,male,white,35 - 44,university,middle_ii,38,4
+70,78937970,5/2/18 18:06,5/2/18 18:06,Very appropriate,Important,b,b,reverse,female,arab,18 - 24,high_school,prefer_not_to_say,13,5
+71,-2138455450,5/2/18 17:59,5/2/18 18:00,Very appropriate,Very appropriate for the situation,b,b,reverse,female,white,25 - 34,high_school,lower_i,23,5
+72,1429093405,5/2/18 18:02,5/2/18 18:03,Very appropriate,"If it’s same level as medicine A, go for it",b,b,reverse,female,white,25 - 34,high_school,middle_i,41,5
+73,1880426590,5/2/18 18:04,5/2/18 18:05,Very appropriate,Because both medicines are affordable and work the same.,b,b,reverse,female,white,25 - 34,high_school,lower_i,27,5
+74,-1784386213,5/2/18 18:02,5/2/18 18:03,Very appropriate,Because if both are the same with treating and side effects also same with price it shouldn’t matter which one her prescribed! As long as the patient best interest is in mind it should be ok!,b,b,reverse,female,white,35 - 44,vocational_technical_college,lower_i,73,5
+75,1838117504,5/2/18 17:59,5/2/18 18:00,Neither inappropriate nor appropriate,clean,b,b,reverse,male,asian,25 - 34,postgraduate,lower_ii,3,3
+76,-426438095,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,"As long as drug B was the more effective treatment, it is the correct path",b,b,reverse,male,white,25 - 34,high_school,high_i,16,4
+77,1811801582,5/2/18 18:00,5/2/18 18:00,Somewhat appropriate,he makes a right decision.It helps the victims,b,b,reverse,male,asian,25 - 34,vocational_technical_college,lower_ii,39,4
+78,1587218671,5/2/18 17:59,5/2/18 18:00,Very inappropriate,it should be up to the patient to decide. Some Doctors get kickbacks for referring certain drugs therefore not always the best option.,b,b,reverse,male,white,45 - 54,vocational_technical_college,lower_ii,83,1
+79,-1505411876,5/2/18 18:00,5/2/18 18:02,Neither inappropriate nor appropriate,"It seems either drug option is fine in the given scenario, so preferring B over A doesn't really seem to matter. Just personal preference ....",b,b,reverse,male,white,35 - 44,university,lower_i,100,3
+80,41260216,5/2/18 18:04,5/2/18 18:04,Very appropriate,"As the doctor he sought the best course for the patient, which is highly appropriate for a doctor to do.",b,b,reverse,female,white,25 - 34,postgraduate,lower_i,24,5
+81,-1733425884,5/2/18 18:06,5/2/18 18:07,Neither inappropriate nor appropriate,if it is alright why is it wrong,b,b,reverse,female,black,18 - 24,high_school,lower_ii,15,3
+82,-760946520,5/2/18 18:01,5/2/18 18:01,Very appropriate,there both the same statement and mean the same thing,b,b,reverse,female,black,35 - 44,vocational_technical_college,middle_i,17,5
+83,-558694463,5/2/18 18:00,5/2/18 18:00,Very appropriate,I think the patient care is important. It should be specific for the patient,b,b,reverse,female,white,25 - 34,high_school,middle_ii,37,5
+84,1870413096,5/2/18 18:09,5/2/18 18:10,Very appropriate,They are both viable options.,b,b,reverse,male,white,35 - 44,university,middle_ii,6,5
+85,1515064788,5/2/18 17:59,5/2/18 17:59,Very appropriate,"if one medicine is as good as the other available, a dr can prescribe whichever he or she chooses",b,b,reverse,female,white,35 - 44,university,prefer_not_to_say,33,5
+86,-1487894803,5/2/18 18:00,5/2/18 18:01,Somewhat appropriate,I think it makes sense,b,b,reverse,female,white,35 - 44,high_school,lower_ii,11,4
+87,-1168061257,5/2/18 18:00,5/2/18 18:01,Very appropriate,You have to trust the reason why,b,b,reverse,female,white,45 - 54,university,prefer_not_to_say,34,5
+88,-1284336524,5/2/18 18:00,5/2/18 18:01,Very appropriate,Because he is trying to gives us a medication that is right for us,b,b,reverse,female,white,25 - 34,university,lower_ii,29,5
+89,754601629,5/2/18 18:02,5/2/18 18:03,Somewhat inappropriate,Because both drugs lower blood pressure,b,b,reverse,female,white,18 - 24,high_school,lower_i,42,2
+90,-264401266,5/2/18 18:14,5/2/18 18:15,Somewhat appropriate,If the two medicines don't have a difference then it doesn't really matter.,b,b,reverse,male,latino,14 - 17,high_school,lower_ii,42,4
+91,-925695141,5/2/18 17:57,5/2/18 17:58,Very appropriate,"I chose it because as a doctor, he will know best going through so many years of school and also because it's the most efficient.",b,b,reverse,female,other,> 54,university,prefer_not_to_say,57,5
+92,-1585875327,5/2/18 18:09,5/2/18 18:09,Somewhat appropriate,Good,b,b,reverse,male,hispanic,18 - 24,high_school,middle_ii,14,4
+93,1154520474,5/2/18 18:00,5/2/18 18:00,Very appropriate,Love it,b,b,reverse,male,white,25 - 34,high_school,high_ii,9,5
+94,2110633365,5/2/18 18:03,5/2/18 18:05,Neither inappropriate nor appropriate,Dr's make hard but educated decisions. Neither is likely wrong.,b,b,reverse,male,white,45 - 54,high_school,lower_i,121,3
+95,-366856195,5/2/18 18:04,5/2/18 18:05,Very appropriate,Just did,b,b,reverse,female,white,45 - 54,high_school,prefer_not_to_say,18,5
+96,-1204795793,5/2/18 18:04,5/2/18 18:04,Very appropriate,Because he wants the one that works the best for them,b,b,reverse,female,white,25 - 34,high_school,lower_i,15,5
+97,582583553,5/2/18 18:03,5/2/18 18:04,Neither inappropriate nor appropriate,I can't decide,b,b,reverse,female,white,25 - 34,postgraduate,lower_ii,13,3
+98,651165813,5/2/18 18:05,5/2/18 18:06,Very appropriate,Because that's what I chose,b,b,reverse,female,hispanic,35 - 44,high_school,prefer_not_to_say,62,5
+99,1210270186,5/2/18 18:00,5/2/18 18:02,Very inappropriate,Patients need to know their options to choose what is best for them. Doctors tend to perscribe what makes THEM money not what will truly help the patient. The patient knows their body best and should know all of the options,b,b,reverse,female,white,35 - 44,high_school,lower_i,137,1
+100,-90260457,5/2/18 18:10,5/2/18 18:14,Somewhat appropriate,It depends on the person. Some High blood pressure medications make people cough and have a dry mouth while others give headaches. As long as they treat the problem for the same price as comparable drugs then it shouldn't matter.,b,b,reverse,male,white,18 - 24,vocational_technical_college,prefer_not_to_say,228,4
+101,1672793985,5/2/18 18:05,5/2/18 18:05,Very appropriate,Na,b,b,reverse,female,white,25 - 34,high_school,lower_ii,2,5
+102,1950595915,5/2/18 18:06,5/2/18 18:06,Very appropriate,treats everyone equal,b,b,reverse,female,hispanic,35 - 44,high_school,lower_i,20,5
+103,2051547341,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,not sur,b,b,reverse,female,white,25 - 34,high_school,high_i,7,3
+104,320753077,5/2/18 18:01,5/2/18 18:01,Very appropriate,Because he is doing the right thing,b,b,reverse,female,white,18 - 24,high_school,high_i,16,5
+105,627496587,5/2/18 17:57,5/2/18 17:58,Neither inappropriate nor appropriate,Because vi have no opinion,b,b,reverse,female,white,35 - 44,high_school,lower_i,25,3
+106,449511225,5/2/18 17:59,5/2/18 18:00,Very appropriate,Good choice,b,b,reverse,female,white,35 - 44,high_school,lower_i,22,5
+107,1090609308,5/2/18 18:07,5/2/18 18:09,Very appropriate,Pois é melhor resposta para tudo,b,b,reverse,male,black,25 - 34,postgraduate,middle_i,61,5
+108,-1938302002,5/2/18 18:10,5/2/18 18:12,Neither inappropriate nor appropriate,As long as hes basing his opinion on which medication would work best for the patient not what the company who made the medication is doin for him,b,b,reverse,male,white,35 - 44,vocational_technical_college,middle_i,84,3
+109,1351756640,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,Seems fir,b,b,reverse,male,white,35 - 44,postgraduate,middle_ii,13,4
+110,1626948814,5/2/18 17:59,5/2/18 17:59,Very appropriate,If both of them work the same and are the same price he is being consistent.,b,b,reverse,female,white,35 - 44,university,middle_ii,20,5
+111,-596246463,5/2/18 17:58,5/2/18 17:59,Somewhat appropriate,Did not understand all of the story or what it really means for sure,b,b,reverse,female,white,45 - 54,middle_school,lower_i,57,4
+112,-201505742,5/2/18 18:01,5/2/18 18:02,Somewhat appropriate,This  is so true,b,b,reverse,male,asian,45 - 54,high_school,middle_i,17,4
+113,942483831,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,Indoor zks k x z nj jz xo b. I sbjsxjka d no bsbd ko s. Sjns k f k d k d b d d.djd did,b,b,reverse,female,multiracial,45 - 54,vocational_technical_college,high_i,12,3
+114,-1684281236,5/2/18 18:03,5/2/18 18:04,Very appropriate,Both are affordable and patients can tolereate side effects,b,b,reverse,female,white,25 - 34,university,lower_ii,28,5
+115,-68916440,5/2/18 18:09,5/2/18 18:10,Neither inappropriate nor appropriate,"Because both drugs are fine. If he chooses to stick with one, it doesn't make a difference.",b,b,reverse,male,hispanic,25 - 34,vocational_technical_college,middle_i,27,3
+116,-557682036,5/2/18 18:06,5/2/18 18:07,Very appropriate,Because he concern about patient,b,b,reverse,female,white,25 - 34,university,middle_i,15,5
+117,-183379710,5/2/18 18:02,5/2/18 18:02,Very appropriate,I just like this option,b,b,reverse,female,white,35 - 44,high_school,lower_ii,15,5
+118,-405135814,5/2/18 18:02,5/2/18 18:07,Neither inappropriate nor appropriate,"it says each of those drugs has its own side effects, so I know that both of them are going to treat high blood pressure patients despite thier side effects. Also, may be the doctor chose  B instead of A depending on the patient health status( B may have minimal side effects fo this patient)",b,b,reverse,female,arab,25 - 34,university,lower_ii,246,3
+119,2105278549,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,I chose this opinion because as it stated both are good and treat what they need. They also said the side effects were tolerable making either medication appropriate.,b,b,reverse,male,prefer_not_to_say,35 - 44,high_school,prefer_not_to_say,64,3
+0,-1714502244,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Doesnt matter,bfixed,b,fixed,male,white,25 - 34,high_school,middle_i,6,3
+1,2076525639,5/2/18 18:00,5/2/18 18:01,Very appropriate,If both options medication are affective and safe for patient the doctor can choice either one since they will work for the patient,bfixed,b,fixed,female,white,35 - 44,university,lower_ii,68,5
+2,220757234,5/2/18 18:03,5/2/18 18:03,Somewhat appropriate,Don't know if i could get the job of the last time a couple years ago but I'm not,bfixed,b,fixed,female,prefer_not_to_say,18 - 24,high_school,prefer_not_to_say,12,4
+3,1866929418,5/2/18 18:18,5/2/18 18:20,Neither inappropriate nor appropriate,Cause it could go either way,bfixed,b,fixed,male,white,45 - 54,high_school,lower_i,90,3
+4,913626413,5/2/18 18:09,5/2/18 18:10,Very appropriate,Because he cares about his patients enough to try and give them the best care possible,bfixed,b,fixed,male,white,25 - 34,vocational_technical_college,lower_i,38,5
+5,1595367401,5/2/18 18:03,5/2/18 18:04,Somewhat inappropriate,That's my best choice for me,bfixed,b,fixed,male,white,45 - 54,high_school,lower_ii,71,2
+6,-1387191393,5/2/18 18:20,5/2/18 18:20,Very inappropriate,None,bfixed,b,fixed,male,hispanic,35 - 44,high_school,lower_ii,4,1
+7,837214550,5/2/18 18:10,5/2/18 18:10,Somewhat appropriate,Idk,bfixed,b,fixed,male,prefer_not_to_say,18 - 24,high_school,lower_i,9,4
+8,-219529031,5/2/18 18:17,5/2/18 18:18,Very inappropriate,Not sure,bfixed,b,fixed,male,white,25 - 34,high_school,lower_ii,11,1
+9,1568770475,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,He wants them to get the best care so he chose the best medicine.,bfixed,b,fixed,female,white,35 - 44,university,lower_ii,21,4
+10,853060186,5/2/18 18:04,5/2/18 18:06,Neither inappropriate nor appropriate,It seems like it fit into the scenario since doctors were prescribing both.,bfixed,b,fixed,male,white,25 - 34,high_school,lower_i,65,3
+11,-626070784,5/2/18 18:04,5/2/18 18:05,Somewhat appropriate,It said many doctors go with either or so he just did what anyone else would do,bfixed,b,fixed,female,hispanic,18 - 24,high_school,lower_i,37,4
+12,-1357355139,5/2/18 18:02,5/2/18 18:03,Very inappropriate,If both are good drugs for diabetes then the patient should be able to chose which one is best for them,bfixed,b,fixed,female,white,35 - 44,vocational_technical_college,lower_i,87,1
+13,1757408734,5/2/18 18:11,5/2/18 18:11,Somewhat inappropriate,He violates rights,bfixed,b,fixed,male,asian,25 - 34,postgraduate,high_iii,18,2
+14,-876687604,5/2/18 18:03,5/2/18 18:03,Somewhat inappropriate,I think he should offer both and see what the patient would prefer,bfixed,b,fixed,female,white,> 54,university,lower_ii,27,2
+15,-408929911,5/2/18 18:14,5/2/18 18:16,Very appropriate,I think its great for a doctor to truly think about There patients more than just the money.,bfixed,b,fixed,male,white,35 - 44,high_school,lower_i,118,5
+16,560591734,5/2/18 18:14,5/2/18 18:14,Very appropriate,I like better food,bfixed,b,fixed,male,white,25 - 34,high_school,prefer_not_to_say,22,5
+17,-208977748,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,Because he isn’t committing a crime. Every doctor has different ethics and will use different methids,bfixed,b,fixed,female,white,25 - 34,university,lower_ii,24,3
+18,-969378330,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,Based on the situation a deduction had to be made,bfixed,b,fixed,male,white,18 - 24,university,lower_ii,21,4
+19,-1914260112,5/2/18 18:20,5/2/18 18:20,Somewhat appropriate,Idk,bfixed,b,fixed,male,hispanic,25 - 34,high_school,lower_ii,5,4
+20,-348410782,5/2/18 18:05,5/2/18 18:06,Very appropriate,Cause it’s not inappropriate,bfixed,b,fixed,male,white,18 - 24,high_school,high_iii,31,5
+21,-437795417,5/2/18 18:04,5/2/18 18:05,Very inappropriate,Okay,bfixed,b,fixed,female,white,18 - 24,vocational_technical_college,lower_i,79,1
+22,852398608,5/2/18 18:19,5/2/18 18:20,Somewhat appropriate,I think they know what's good,bfixed,b,fixed,male,white,> 54,high_school,lower_ii,16,4
+23,1918967192,5/2/18 18:18,5/2/18 18:18,Neither inappropriate nor appropriate,no,bfixed,b,fixed,male,multiracial,35 - 44,university,high_iii,3,3
+24,-919262890,5/2/18 18:18,5/2/18 18:18,Neither inappropriate nor appropriate,He used it as attended,bfixed,b,fixed,male,white,35 - 44,vocational_technical_college,middle_ii,35,3
+25,-699878453,5/2/18 18:01,5/2/18 18:01,Very appropriate,He’s the doctor and knows what he is doing,bfixed,b,fixed,female,white,18 - 24,postgraduate,lower_ii,12,5
+26,447792434,5/2/18 18:03,5/2/18 18:04,Very appropriate,Because both of the drugs worked so he made an appropriate choice,bfixed,b,fixed,female,white,18 - 24,high_school,middle_ii,29,5
+27,-1706973673,5/2/18 18:18,5/2/18 18:19,Neither inappropriate nor appropriate,Cause i need money to pay thr rent,bfixed,b,fixed,male,asian,18 - 24,middle_school,prefer_not_to_say,21,3
+28,-674905307,5/2/18 18:05,5/2/18 18:05,Somewhat appropriate,People need meds give them what they need,bfixed,b,fixed,female,white,25 - 34,university,middle_ii,20,4
+29,-1434085872,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,The doctor can change the medicine but patients should be able to choose what they want to take,bfixed,b,fixed,female,black,35 - 44,high_school,lower_ii,58,3
+30,-1616679064,5/2/18 18:16,5/2/18 18:17,Very appropriate,He's trying to figure out what type of medicine is going to be best for his patients,bfixed,b,fixed,male,hispanic,35 - 44,postgraduate,middle_ii,26,5
+31,592515812,5/2/18 18:05,5/2/18 18:05,Somewhat inappropriate,Becuase I don't believe in drugd,bfixed,b,fixed,female,white,35 - 44,high_school,middle_ii,26,2
+32,-401797905,5/2/18 18:10,5/2/18 18:10,Somewhat inappropriate,Okay,bfixed,b,fixed,male,asian,25 - 34,postgraduate,high_ii,5,2
+33,970954472,5/2/18 18:19,5/2/18 18:19,Somewhat appropriate,He wants to help his patients,bfixed,b,fixed,male,asian,18 - 24,high_school,prefer_not_to_say,13,4
+34,-640714745,5/2/18 17:59,5/2/18 18:02,Neither inappropriate nor appropriate,While he can prescribe either medication. Its his choice to whch one he wants to use. Keeping it simple he chooses B in which he must lime that particular script better.,bfixed,b,fixed,female,white,35 - 44,high_school,lower_ii,158,3
+35,1558737065,5/2/18 18:05,5/2/18 18:05,Neither inappropriate nor appropriate,I don't know anything about drug a or b,bfixed,b,fixed,female,white,> 54,high_school,lower_ii,27,3
+36,-195640274,5/2/18 18:01,5/2/18 18:02,Very appropriate,The dr has 2 options and he had to pick one,bfixed,b,fixed,female,hispanic,25 - 34,high_school,lower_i,25,5
+37,-967489547,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,"He cares about his patients, and wants the best medicine for them, yet he doesn't read the ingredients of the medication",bfixed,b,fixed,female,hispanic,18 - 24,high_school,lower_i,51,3
+38,454986301,5/2/18 18:03,5/2/18 18:05,Somewhat inappropriate,"If there are many options the doctor shouldn’t just be set on one. I would assume that the medications would have different side effects, etc. so a doctor shouldn’t be limited to one. One that works well for one may not work for the other person.",bfixed,b,fixed,female,white,18 - 24,high_school,lower_i,86,2
+39,-543829229,5/2/18 17:59,5/2/18 18:00,Somewhat appropriate,Both a and b help with the needs of the patient. Hopefully the doctor chose appropriately and it will benefit the patient.,bfixed,b,fixed,female,prefer_not_to_say,25 - 34,university,prefer_not_to_say,62,4
+40,-209694505,5/2/18 18:05,5/2/18 18:06,Very inappropriate,Don't agree with drugs,bfixed,b,fixed,female,white,35 - 44,high_school,lower_i,8,1
+41,-342858414,5/2/18 18:20,5/2/18 18:20,Somewhat appropriate,Exams evoth are valid hence B should be good too,bfixed,b,fixed,male,prefer_not_to_say,25 - 34,university,lower_ii,22,4
+42,-525161907,5/2/18 18:00,5/2/18 18:01,Very appropriate,Everythi g is in good order,bfixed,b,fixed,female,white,25 - 34,university,middle_i,17,5
+43,642714070,5/2/18 18:00,5/2/18 18:01,Neither inappropriate nor appropriate,It's straight and to the point,bfixed,b,fixed,male,asian,45 - 54,university,middle_ii,30,3
+44,326206933,5/2/18 17:59,5/2/18 17:59,Very appropriate,"Both drugs are similar in price, effectiveness, and side effects, so either would be a good choice",bfixed,b,fixed,male,white,> 54,postgraduate,middle_ii,56,5
+45,-680060101,5/2/18 18:08,5/2/18 18:08,Somewhat appropriate,I think his findings are legitimate,bfixed,b,fixed,male,white,35 - 44,university,high_i,19,4
+46,-634350946,5/2/18 18:19,5/2/18 18:20,Somewhat appropriate,He's choosing a cheaper alternative for his patients,bfixed,b,fixed,male,hispanic,25 - 34,vocational_technical_college,middle_i,33,4
+47,253428230,5/2/18 18:05,5/2/18 18:05,Very inappropriate,No,bfixed,b,fixed,female,latino,18 - 24,postgraduate,lower_i,7,1
+48,-193904760,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,Love you too baby girl and,bfixed,b,fixed,female,white,25 - 34,postgraduate,high_ii,4,4
+49,-1913936758,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,I think he is right,bfixed,b,fixed,female,white,35 - 44,high_school,lower_i,9,4
+50,839745944,5/2/18 18:01,5/2/18 18:02,Somewhat inappropriate,Because both a and b can treat high blood pressure.,bfixed,b,fixed,female,white,25 - 34,vocational_technical_college,high_i,15,2
+51,283786117,5/2/18 18:02,5/2/18 18:02,Somewhat appropriate,It’s really necessary,bfixed,b,fixed,female,asian,25 - 34,university,lower_i,12,4
+52,-503923778,5/2/18 17:59,5/2/18 17:59,Very appropriate,Because of it legal it's fine,bfixed,b,fixed,female,black,18 - 24,high_school,lower_i,22,5
+53,1933158028,5/2/18 18:17,5/2/18 18:18,Somewhat inappropriate,Self decision,bfixed,b,fixed,male,asian,35 - 44,university,middle_i,21,2
+54,1932212372,5/2/18 17:59,5/2/18 17:59,Neither inappropriate nor appropriate,Both A and B are prescription options.,bfixed,b,fixed,female,white,18 - 24,university,lower_i,14,3
+55,214515885,5/2/18 18:00,5/2/18 18:00,Very inappropriate,The patient should have a choice,bfixed,b,fixed,female,white,> 54,vocational_technical_college,middle_ii,33,1
+56,1076977321,5/2/18 17:59,5/2/18 17:59,Very inappropriate,Lying to people isn’t okay,bfixed,b,fixed,female,hispanic,25 - 34,vocational_technical_college,lower_ii,10,1
+57,-245785316,5/2/18 18:00,5/2/18 18:00,Somewhat appropriate,Idk,bfixed,b,fixed,female,black,25 - 34,high_school,lower_i,15,4
+58,-2036582292,5/2/18 18:04,5/2/18 18:04,Somewhat inappropriate,Hes disobeying the law.  You shouldnt mess with medication,bfixed,b,fixed,male,white,35 - 44,high_school,lower_i,30,2
+59,-741623848,5/2/18 18:19,5/2/18 18:19,Very appropriate,Hes worried about his patients,bfixed,b,fixed,male,black,25 - 34,high_school,middle_i,16,5
+60,-840978749,5/2/18 18:02,5/2/18 18:04,Very appropriate,If they both are affordable and effective but that doctor just happens to like drug b more then that's fine,bfixed,b,fixed,female,white,35 - 44,high_school,lower_i,76,5
+61,348222472,5/2/18 18:01,5/2/18 18:02,Very appropriate,"Because if drug A and drug B are very similar then it doesn't matter which one he prescribes, if it's what he feels would treat patient better",bfixed,b,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,83,5
+62,-144941229,5/2/18 18:16,5/2/18 18:18,Very appropriate,All doctors know the correct answers,bfixed,b,fixed,male,white,35 - 44,high_school,lower_i,106,5
+63,2104786238,5/2/18 18:08,5/2/18 18:09,Neither inappropriate nor appropriate,I am surely not but I can say that he is taking good decision...,bfixed,b,fixed,male,hispanic,25 - 34,postgraduate,high_i,60,3
+64,931133949,5/2/18 18:05,5/2/18 18:06,Neither inappropriate nor appropriate,I need more information.  Why did he chose B?  We're there any other reasons?,bfixed,b,fixed,male,white,> 54,high_school,lower_i,33,3
+65,1050320595,5/2/18 18:04,5/2/18 18:04,Somewhat appropriate,Seems he's only trying to help,bfixed,b,fixed,female,white,25 - 34,high_school,lower_i,18,4
+66,-1553691988,5/2/18 18:01,5/2/18 18:01,Neither inappropriate nor appropriate,Because he’s trying to save his patients money and help them at the same time,bfixed,b,fixed,female,black,25 - 34,high_school,lower_i,23,3
+67,1743539582,5/2/18 18:09,5/2/18 18:09,Somewhat inappropriate,I think logical,bfixed,b,fixed,male,white,45 - 54,vocational_technical_college,middle_i,15,2
+68,-2003366550,5/2/18 18:01,5/2/18 18:01,Somewhat appropriate,Because is better,bfixed,b,fixed,male,latino,35 - 44,university,lower_ii,27,4
+69,2002776589,5/2/18 18:03,5/2/18 18:04,Somewhat appropriate,Because it should work,bfixed,b,fixed,female,white,35 - 44,high_school,lower_i,15,4
+70,-1752502422,5/2/18 18:05,5/2/18 18:05,Very appropriate,I think it’s fair to trust his judgement in this.,bfixed,b,fixed,female,white,25 - 34,postgraduate,lower_ii,23,5
+71,-824268735,5/2/18 18:04,5/2/18 18:04,Very inappropriate,It is his right to say what he wants and state his opinion. He should be able to say what he wants freely in this country without judgment,bfixed,b,fixed,female,white,25 - 34,vocational_technical_college,lower_ii,27,1
+72,1639079797,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Because the doctor should do what he thinks is beat,bfixed,b,fixed,female,white,18 - 24,high_school,lower_ii,13,3
+73,-1876014696,5/2/18 18:02,5/2/18 18:03,Very appropriate,"Because A and/or B provide the same results, therefore either one would be okay",bfixed,b,fixed,male,white,25 - 34,university,high_i,52,5
+74,-248705531,5/2/18 18:13,5/2/18 18:13,Somewhat appropriate,Because both drugs cures high blood pressure,bfixed,b,fixed,male,prefer_not_to_say,25 - 34,vocational_technical_college,prefer_not_to_say,27,4
+75,-826114251,5/2/18 18:18,5/2/18 18:19,Somewhat appropriate,I think it should be the same unless a patient can’t handle the other drug,bfixed,b,fixed,male,white,25 - 34,vocational_technical_college,middle_i,41,4
+76,1794506988,5/2/18 18:03,5/2/18 18:04,Somewhat inappropriate,Well just because he thinks it's the best doesn't make it the best for the patient,bfixed,b,fixed,female,white,> 54,university,high_i,48,2
+77,-1597025225,5/2/18 18:02,5/2/18 18:02,Very appropriate,Very good,bfixed,b,fixed,female,hispanic,25 - 34,high_school,lower_i,1,5
+78,2010074232,5/2/18 18:02,5/2/18 18:02,Very appropriate,If that’s what normal doctors prescribe their patients it seems most reasonable,bfixed,b,fixed,female,white,18 - 24,high_school,lower_i,33,5
+79,-86079161,5/2/18 18:00,5/2/18 18:02,Somewhat inappropriate,I do not agree with,bfixed,b,fixed,male,white,25 - 34,high_school,lower_ii,118,2
+80,-551971728,5/2/18 18:02,5/2/18 18:02,Very appropriate,dr. jones is only trying to help his patients as best he can,bfixed,b,fixed,female,black,35 - 44,university,middle_ii,16,5
+81,705777062,5/2/18 18:03,5/2/18 18:04,Very appropriate,"It seems that both drugs are affordable and both do the same thing, so Dr. Jones has probably went by his patients personal needs and has decided on Medication B",bfixed,b,fixed,female,white,> 54,university,high_i,72,5
+82,397966593,5/2/18 18:19,5/2/18 18:19,Very appropriate,There is nothing wrong with his behavior or his choice of which medication to prescribe.  The doctor did nothing wrong.,bfixed,b,fixed,male,asian,25 - 34,postgraduate,high_i,31,5
+83,-142506625,5/2/18 17:59,5/2/18 17:59,Neither inappropriate nor appropriate,he should see which option works for the individual patient and not just use one medication for all,bfixed,b,fixed,female,white,35 - 44,high_school,middle_i,34,3
+84,-882000103,5/2/18 18:18,5/2/18 18:19,Very appropriate,I just did,bfixed,b,fixed,male,prefer_not_to_say,35 - 44,high_school,high_i,15,5
+85,962645666,5/2/18 18:02,5/2/18 18:03,Neither inappropriate nor appropriate,I have no idea why the patient cannot try to correct his high blood pressure without drugs - diet and exercise.,bfixed,b,fixed,female,white,> 54,university,lower_ii,39,3
+86,366735449,5/2/18 18:00,5/2/18 18:00,Very appropriate,Both A and B are the same as far as I know.,bfixed,b,fixed,female,white,45 - 54,university,middle_ii,27,5
+87,-687826919,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,Not enough information and should be person specific,bfixed,b,fixed,female,white,45 - 54,postgraduate,high_ii,13,3
+88,-285115916,5/2/18 18:01,5/2/18 18:01,Very appropriate,It was the best choice.,bfixed,b,fixed,female,white,18 - 24,high_school,lower_i,12,5
+89,-1462190431,5/2/18 18:00,5/2/18 18:00,Very inappropriate,He needs a,bfixed,b,fixed,female,white,25 - 34,university,lower_ii,4,1
+90,-776024916,5/2/18 18:00,5/2/18 18:01,Very appropriate,Both are used and he selected the one he perfers to give to patients,bfixed,b,fixed,female,white,> 54,high_school,high_iii,49,5
+91,2005774370,5/2/18 18:03,5/2/18 18:04,Very appropriate,From what i understand both drugs work and effect people the same. Its no different so its appropriate either way.,bfixed,b,fixed,male,white,35 - 44,vocational_technical_college,middle_i,55,5
+92,-309054793,5/2/18 18:02,5/2/18 18:07,Somewhat inappropriate,I do not know why doctors would prescribe one drug overdose another I was suspect there are reasons why they choose one over another I really have no idea maybe there are money give them back from the drug company maybe not I just don't know,bfixed,b,fixed,male,white,> 54,university,lower_ii,275,2
+93,-435911203,5/2/18 18:04,5/2/18 18:05,Very appropriate,Because it is safe and affordable.,bfixed,b,fixed,female,white,35 - 44,vocational_technical_college,lower_i,29,5
+94,-1594468765,5/2/18 18:18,5/2/18 18:19,Somewhat inappropriate,Yes way,bfixed,b,fixed,male,hispanic,25 - 34,vocational_technical_college,high_i,17,2
+95,-1680308797,5/2/18 17:58,5/2/18 17:59,Somewhat inappropriate,Because i dont like people knowing my personal information,bfixed,b,fixed,female,white,18 - 24,high_school,lower_ii,29,2
+96,-823659741,5/2/18 18:03,5/2/18 18:04,Very inappropriate,Cause option a is for high blood pressure not b,bfixed,b,fixed,female,white,25 - 34,high_school,lower_i,23,1
+97,430145851,5/2/18 18:02,5/2/18 18:03,Very appropriate,I picked that answer because it help people control their side effects,bfixed,b,fixed,female,white,18 - 24,high_school,lower_i,42,5
+98,1719860648,5/2/18 18:12,5/2/18 18:12,Very inappropriate,Because it all ways good to have someone that knows what they are doing,bfixed,b,fixed,male,white,25 - 34,high_school,lower_i,41,1
+99,-1212840010,5/2/18 18:18,5/2/18 18:18,Somewhat appropriate,Much good,bfixed,b,fixed,male,white,18 - 24,university,high_ii,0,4
+100,-417858518,5/2/18 17:58,5/2/18 17:59,Very inappropriate,because tobacco it's not healthy,bfixed,b,fixed,female,hispanic,18 - 24,high_school,lower_i,22,1
+101,1296184418,5/2/18 18:00,5/2/18 18:01,Very appropriate,"Doctors are highly trained and should be trusted. If medicine is not doing it's function, than alternatives are available, but you don't know til you try.",bfixed,b,fixed,female,white,25 - 34,university,lower_i,45,5
+102,1113716767,5/2/18 17:58,5/2/18 17:58,Neither inappropriate nor appropriate,Cause I feel it's not right,bfixed,b,fixed,female,white,25 - 34,high_school,lower_ii,9,3
+103,547492708,5/2/18 18:03,5/2/18 18:05,Somewhat appropriate,It is his ethical decision what to prescribe but I don't like if he only uses one companies drugs for other reasons.,bfixed,b,fixed,female,white,45 - 54,high_school,high_iii,106,4
+104,1550653242,5/2/18 18:02,5/2/18 18:02,Neither inappropriate nor appropriate,"Because if it works , then they can treat the different side affects",bfixed,b,fixed,female,white,45 - 54,high_school,lower_i,36,3
+105,166928657,5/2/18 18:04,5/2/18 18:05,Neither inappropriate nor appropriate,Because I'm not really sure I'm just not really sure but I can get there I get there,bfixed,b,fixed,female,black,18 - 24,high_school,prefer_not_to_say,100,3
+106,-881583642,5/2/18 18:00,5/2/18 18:00,Neither inappropriate nor appropriate,It depends on the person's allergies etc which blood pressure medicine is better for them.,bfixed,b,fixed,female,white,25 - 34,high_school,lower_ii,28,3
+107,521181411,5/2/18 18:08,5/2/18 18:09,Very appropriate,Because he care about his patience and their health.,bfixed,b,fixed,male,black,> 54,vocational_technical_college,lower_ii,55,5
+108,56196970,5/2/18 18:18,5/2/18 18:20,Neither inappropriate nor appropriate,Some doctors feel that a particular brand might work better for your situation.,bfixed,b,fixed,male,white,35 - 44,vocational_technical_college,lower_i,86,3
+109,637632742,5/2/18 17:59,5/2/18 18:01,Somewhat inappropriate,"I feel like the most appropriate action would be to inform the patient of the two drugs available, compare and contrast the two drugs with each patient and allow them to make an educated decision on the drug prescribed to them.",bfixed,b,fixed,female,white,35 - 44,high_school,prefer_not_to_say,89,2
+110,-1505148937,5/2/18 17:58,5/2/18 17:59,Neither inappropriate nor appropriate,He is deciding to do what's best for the patient and their needs.,bfixed,b,fixed,male,hispanic,25 - 34,high_school,lower_ii,56,3
+111,1388926324,5/2/18 17:59,5/2/18 17:59,Very appropriate,No comment,bfixed,b,fixed,female,hispanic,45 - 54,vocational_technical_college,lower_i,15,5
+112,1597142810,5/2/18 18:00,5/2/18 18:01,Neither inappropriate nor appropriate,It's the right choice to make,bfixed,b,fixed,male,white,35 - 44,high_school,lower_ii,13,3
+113,1934230579,5/2/18 18:04,5/2/18 18:05,Very appropriate,Because i think that it is really a good question bc some people want to know more about the drug of food,bfixed,b,fixed,female,white,18 - 24,high_school,middle_i,57,5
+114,-1291522283,5/2/18 18:03,5/2/18 18:03,Somewhat appropriate,Giving 9pew m,bfixed,b,fixed,female,hispanic,45 - 54,high_school,lower_i,32,4
+115,268833734,5/2/18 18:03,5/2/18 18:03,Neither inappropriate nor appropriate,I don't think all patients need the same medication. If one doesn't work well they should try the other.,bfixed,b,fixed,female,white,25 - 34,vocational_technical_college,middle_i,47,3
+116,110340247,5/2/18 18:02,5/2/18 18:03,Somewhat appropriate,It doesn't say which drug is better so him choosing drug A or drug B would be somewhat appropriate.,bfixed,b,fixed,female,white,35 - 44,vocational_technical_college,lower_ii,47,4
+117,1235387235,5/2/18 18:09,5/2/18 18:10,Somewhat appropriate,If he is trying to help people then it is OK as long as his actions have good intentions and outcomes,bfixed,b,fixed,male,white,35 - 44,vocational_technical_college,middle_ii,31,4
+118,-105633566,5/2/18 18:19,5/2/18 18:19,Very inappropriate,cause it's appropiate,bfixed,b,fixed,male,prefer_not_to_say,18 - 24,high_school,prefer_not_to_say,20,1
+119,1919079080,5/2/18 18:08,5/2/18 18:08,Somewhat inappropriate,Just think wrong decsion,bfixed,b,fixed,male,white,45 - 54,high_school,high_i,28,2
