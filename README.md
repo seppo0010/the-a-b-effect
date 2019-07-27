@@ -2,6 +2,8 @@
 
 ## Pasos a seguir
 
+Según el maestro Palamago https://twitter.com/palamago/status/1053357438982856705
+
 1. Elegir el tema. 
 
 2. Mapa. 
@@ -25,6 +27,8 @@
    Busco videos de fondo que puedan motivar, imágenes que impacten.
    Poco para leer, mucho para mirar y escuchar.
    La charla está en lo que se escucha. La presentación como soporte visual.
+
+6. Practicar
 
 ## Tema
 
