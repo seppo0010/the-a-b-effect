@@ -76,31 +76,31 @@ Objeción a la experimentación aún cuando ninguna de las opciones es objetable
 
   * OkCupid midiendo la eficacia de su algoritmo de matches
 
-    ** “OkCupid simply lied, falsifying their results and intentionally mismatching people.
+    * “OkCupid simply lied, falsifying their results and intentionally mismatching people.
     This manipulation invariably lead to countless terrible dates, wasted money, increased
     frustration and quite likely questions as to why these users could not find the love they
     were seeking.”
 
-    ** But that conclusion only follows if OkCupid already knew, prior to the  experiment, that
+    * But that conclusion only follows if OkCupid already knew, prior to the  experiment, that
     its computed compatibility probabilities were  accurate
 
   * Facebook midiendo el impacto de los posts que le mostraba a sus usuarios en su felicidad.
 
-      ** <2007 Facebook cambiaba configuración de newsfeed a mano ("más fotos, menos plataforma").
+      * <2007 Facebook cambiaba configuración de newsfeed a mano ("más fotos, menos plataforma").
          En 2007 crearon EdgeRank que medía afinidad (entre los amigos), peso (likes e interacciones)
          y decaimiento (en tiempo).
          En 2010 pasaron a usar ML.
 
-      ** Los posts son mayormente positivos.
+      * Los posts son mayormente positivos.
 
-      ** By 2011, twenty-­‐seven percent of all time spent on Facebook was spent on News Feed. [...]
+      * By 2011, twenty-­‐seven percent of all time spent on Facebook was spent on News Feed. [...]
       What are the effects [...]? Academic studies have suggested two contradictory hypothes about the
       risks of Facebook use to its 1.35 billion users: that exposure to friends’ positive posts is
       psychologically risky (through a social comparison mechanism) and that exposure to negative posts
       is psychologically risky (through an emotional contagion mechanism). 10  But these contradictory
       studies were mostly small and observational.
 
-      **  Like much behavioral research, if the Facebook experiment had been conducted with users who
+      *  Like much behavioral research, if the Facebook experiment had been conducted with users who
       had consented to participate after being fully informed about what behaviors the researchers were
       looking for and why and how they intended to elicit those responses, the results would have been
       badly biased, perhaps to the point of being deemed useless by the scientific community. Subjects’
@@ -112,7 +112,7 @@ Objeción a la experimentación aún cuando ninguna de las opciones es objetable
       disclosed study would have been different from those who opted out, in ways that would have
       mattered for producing results that generalize to Facebook’s 1.35 billion users.
 
-      ** Facebook experiment could have been conducted with incompletely informed consent (rather than
+      * Facebook experiment could have been conducted with incompletely informed consent (rather than
       no informed consent at all) without significantly biasing the results is a closer question,
       scientifically speaking. Users might have been invited to participate in a study and told that
       the algorithm that curates their News Feed would be adjusted (in unspecified ways) for one week.
@@ -120,7 +120,7 @@ Objeción a la experimentación aún cuando ninguna de las opciones es objetable
       to participate might behave differently in response to the intervention than they would have had
       they not been primed by the consent process to pay attention to the content of their News Feed.
 
-      ** In the Facebook case, the alleged risk would have materialized during the week-long
+      * In the Facebook case, the alleged risk would have materialized during the week-long
       intervention as a result of increased exposure to positive or negative words. Neither
       debriefing nor the opportunity to withdraw their data from the analysis of the effects of
       that intervention can erase any harm that occurred or restore subjects’ opportunity to
