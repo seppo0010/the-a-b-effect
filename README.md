@@ -166,3 +166,21 @@ Objeción a la experimentación aún cuando ninguna de las opciones es objetable
 
   * Personas aversas a la experimentación pueden sesgar las muestras de los experimentos declinando
     a participar.
+
+## Temas y orden
+
+Qué es A/B testing.
+
+Replicar Estudio 1 con los participantes.
+
+Limitaciones de A/B testing. Consentimiento. Belmort Report.
+
+Historia de Timeline de Facebook. Historia de terror de amigo hospitalizado. A/B testing de
+sentimientos. Pearson Education. Experimento de OkCupid con matches. Tratamiento de bebés, horarios
+flexibles de residentes. ¿Están bien?
+
+Si A y B son alternativas aceptables, ¿Por qué A/B testing no? Estudio 1.
+
+Explicaciones posibles.
+
+Consecuencias posibles.
