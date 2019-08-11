@@ -184,3 +184,16 @@ Si A y B son alternativas aceptables, ¿Por qué A/B testing no? Estudio 1.
 Explicaciones posibles.
 
 Consecuencias posibles.
+
+## Guión
+
+A/B testing, o randomized controlled trial (prueba controlada aleatorisada) es una forma de evaluar
+distinas opciones para ver cuál es más efectiva. Se usa mucho en medicina para comparar tratamientos
+contra no tratamientos (o placebos) o entre ellos, pero también se usa bastante en las empresas
+para evaluar distintas opciones de acuerdo al comportamiento de los usuarios.
+
+A/B testing consiste en elegir opciones a evaluar (dos o más) y dividir aleatoriamente a la
+población en la misma cantidad de grupos, asignarle a cada uno una opción y ver los resultados.
+Por ejemplo si tenemos una nueva opción para el botón de comprar en nuestro sitio le podemos mostrar
+a una porción aleatoria de nuestros usuarios la nueva versión y ver si eso afecta las ventas de
+alguna forma.
