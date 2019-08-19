@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+  body { display: none; }
+  body.ready { display: block; }
+
+  body { font: 18px arial, helvetica, sans-serif; }
+  ul, li { display: block; width: 100%; margin: 10px 0; padding: 0; }
+  button { width: 100%; padding: 6px 0; }
+  button.selected { font-weight: bold; }
+  p { margin: 0; }
+  </style>
+</head>
+<body>
+<p id="text"></p>
+<ul>
+  <li><button value="1">Very inappropriate</button></li>
+  <li><button value="2">Somewhat inappropriate</button></li>
+  <li><button value="3">Neither appropriate nor inappropriate</button></li>
+  <li><button value="4">Somewhat appropriate</button></li>
+  <li><button value="5">Very appropriate</button></li>
+</ul>
+<script>
+fetch('text')
+  .then((response) => {
+    return response.text();
+  })
+  .then((text) => {
+    document.getElementById('text').innerText = text;
+    document.getElementsByTagName('body')[0].classList.add('ready')
+  });
+const buttons = document.getElementsByTagName('button')
+Array.prototype.slice.call(buttons).forEach((button) => {
+  const value = button.value;
+  button.addEventListener('click', () => {
+    Array.prototype.slice.call(buttons).forEach((button) => { button.classList.remove('selected') })
+    button.classList.add('selected')
+    fetch('vote', {
+      method: 'POST',
+      body: 'value=' + value,
+      headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+    })
+    .then(() => {
+      alert('Thanks!')
+    })
+  });
+})
+</script>
+</body>
+</html>

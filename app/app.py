@@ -1,7 +1,10 @@
+from uuid import uuid4
+import json
 import random
-from flask import Flask, Response, request
+from flask import Flask, Response, request, current_app
 
-COOKIE_NAME = 'group'
+USER_COOKIE_NAME = 'user'
+GROUP_COOKIE_NAME = 'group'
 GROUP_TEXT = {
     'badge': '''
 Some medical treatments require a doctor to insert a plastic tube into a large vein. These treatments can save lives, but they can also lead to deadly infections. A hospital director comes up with an idea to reduce these infections. He decides to give each doctor who performs this procedure a new ID badge with a list of standard safety precautions for the procedure printed on the back. All doctors performing this procedure will then have this list attached to their clothing, so they can look at it while performing the procedure. The director thinks that these new badges might help doctors remember all of the safety steps they were trained to take during the procedure.
@@ -29,11 +32,33 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    group = request.cookies.get(COOKIE_NAME)
+    return current_app.send_static_file("index.html")
+
+@app.route('/text')
+def text():
+    group = request.cookies.get(GROUP_COOKIE_NAME)
     if group not in GROUP_TEXT:
         group = None
     if group is None:
         group = random.choice(list(GROUP_TEXT.keys()))
     response = Response(GROUP_TEXT[group])
-    response.set_cookie(COOKIE_NAME, group)
+    response.set_cookie(GROUP_COOKIE_NAME, group)
+    return response
+
+@app.route('/vote', methods=['POST'])
+def post_result():
+    response = Response()
+    value = request.form.get('value', None)
+    group = request.cookies.get(GROUP_COOKIE_NAME)
+    user = request.cookies.get(USER_COOKIE_NAME)
+    if user is None:
+        user = str(uuid4())
+        response.set_cookie(USER_COOKIE_NAME, user)
+
+    print(group, user, value)
+    if group is None or user is None or value is None:
+        return '', 400
+
+    with open('votes/{}'.format(user), 'w') as fp:
+        fp.write(json.dumps({'group': group, 'value': value}))
     return response
