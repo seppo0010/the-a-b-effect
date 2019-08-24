@@ -197,3 +197,32 @@ población en la misma cantidad de grupos, asignarle a cada uno una opción y ve
 Por ejemplo si tenemos una nueva opción para el botón de comprar en nuestro sitio le podemos mostrar
 a una porción aleatoria de nuestros usuarios la nueva versión y ver si eso afecta las ventas de
 alguna forma.
+
+Vamos a hacer un ejemplo de esto. Cada uno entre a <URL>. Se le va a plantear un escenario y
+una pregunta. Leanlo y respondan, después vemos los resultados.
+
+Ahora bien, no para todos los problemas se puede estudiar de esta forma. por ejemplo si queremos
+ver la reacción de personas a un estímulo con preguntarles no alcanza porque pueden mentir o
+estimar mal su comportamiento. Ahí la única posibilidad es exponer a las personas a una situación
+y ver su reacción. El problema que surge ahí es el consentimiento y evitarles daños a los
+participantes.
+
+En Estados Unidos esto se rige por el Belmont Report: Ethical Principles and Guidelines for the
+Protection of Human Subjects of Research, Report of the National Commission for the Protection of
+Human Subjects of Biomedical and Behavioral Research. Sobre este caso lo que propone es indicarle
+a los sujetos que están siendo invitados a participar de una investigación pero que los detalles
+no se les van a revelar hasta que concluya. Para poder hacer esto es requisito que sea necesario
+para el experimento, que los riesgos para los individuos no sea más que mínimos y que haya un plan
+para informar a los sujetos cuando el experimento haya concluido. Cuando esto pasa es necesario
+no ocultar riesgos y responder cualquier pregunta que hagan las personas.
+
+Ahora veamos un caso de experimentación sobre el comportamiento de personas que se hizo de forma
+masiva. Facebook quiso medir el impacto de los posts que ven los usuarios sobre su estado de ánimo.
+
+Inicialmente el _News Feed_ tenía una configuración manual. Después Facebook desarrolló _EdgeRank_
+que elegía historias basadas en afinidad, importancia y decaímiento, y a partir de 2010 el orden
+lo establece con Machine Learning viendo muchas cosas.
+
+La pregunta que querían responder era si el estado de ánimo se contagia, es decir si ver mensajes
+felices pone feliz al usuario, o si por el contrario hay una idea de competencia constante donde
+ver mensajes felices pone a la persona triste por compararse con otras.
