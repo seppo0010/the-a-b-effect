@@ -226,3 +226,22 @@ lo establece con Machine Learning viendo muchas cosas.
 La pregunta que querían responder era si el estado de ánimo se contagia, es decir si ver mensajes
 felices pone feliz al usuario, o si por el contrario hay una idea de competencia constante donde
 ver mensajes felices pone a la persona triste por compararse con otras.
+
+Hasta ese momento Facebook optimizaba el _News Feed_ de acuerdo a sus objetivos: qué es lo que creen
+mejor para sus usuarios, qué es lo mejor para ganar plata. Al hacer un experimento sobre el estado
+de ánimo de sus usuarios la meta es otra, pero no tan diferente, porque sin este experimento no
+saben si lo que están haciendo de buena fe es en realidad perjudicial para sus usuarios.
+
+Algo parecido hizo OkCupid con sus usuarios. OkCupid es un sitio/app de citas que le hace a sus
+usuarios preguntas sobre preferencias de distinto tipo (político, social, moral, sexual), qué
+respuestas desean que la otra persona responda y cuánto le importa, y en base a eso, y otras cosas
+da un puntaje. Ahora bien, ¿Cómo evaluás el éxito del puntaje? Si de alguna forma podés ver si
+fueron un buen _match_, ¿cómo sabés que no fue porque le diste un puntaje alto, o hasta qué punto
+influye? Entonces para medir esto OkCupid hizo un experimento durante un período de tiempo
+mostrando porcentajes distintos a sus usuarios de los que su algoritmo decía y ver si los valores
+que mostraban tenían el significado que creían.
+
+Si aceptamos que Facebook nos cure el News Feed como cree conveniente, y aceptamos que OkCupid nos
+dé un valor de coincidencia con otra persona, ¿por qué consideramos que cambios en ello para
+entender mejor sus efectos son problemáticos? O sea, si en un experimento tanto A como B nos
+parecen alternativas razonables, ¿por qué nos puede incomodar un experimento que compare A y B?
