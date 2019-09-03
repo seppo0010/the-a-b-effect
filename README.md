@@ -262,3 +262,12 @@ a la otra y por eso le parecía innecesario el experimento y que al hacerlo expo
 innecesarios a los pacientes, por lo que hicieron una segunda prueba donde comparaban una droga A
 con una droga B de la que no tenían más información que las distinga, y se vuelve a dar una
 preferencia contra la experimentación.
+
+La segunda idea era si había una aversión a la aleatoridad, entonces plantean el mismo escenario
+que el caso anterior pero en vez de ser un A/B controlado dicen que algunos médicos prefieren una
+droga y otros otra y que se asignan de acuerdo a la fecha y hora. Sigue habiendo una aleatoriedad
+pero no es controlada. Los resultados mejoraron pero sigue habiendo una diferencia considerable.
+
+La tercera opción es la falta de consentimiento de los participantes. Acá surge la duda de por qué
+querrían consentimiento para la prueba entre A y B si tanto A como B son opciones razonables,
+mejores que ninguna de las dos.
