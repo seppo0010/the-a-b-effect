@@ -198,9 +198,6 @@ Por ejemplo si tenemos una nueva opción para el botón de comprar en nuestro si
 a una porción aleatoria de nuestros usuarios la nueva versión y ver si eso afecta las ventas de
 alguna forma.
 
-Vamos a hacer un ejemplo de esto. Cada uno entre a <URL>. Se le va a plantear un escenario y
-una pregunta. Leanlo y respondan, después vemos los resultados.
-
 Ahora bien, no para todos los problemas se puede estudiar de esta forma. por ejemplo si queremos
 ver la reacción de personas a un estímulo con preguntarles no alcanza porque pueden mentir o
 estimar mal su comportamiento. Ahí la única posibilidad es exponer a las personas a una situación
