@@ -242,3 +242,23 @@ Si aceptamos que Facebook nos cure el News Feed como cree conveniente, y aceptam
 dé un valor de coincidencia con otra persona, ¿por qué consideramos que cambios en ello para
 entender mejor sus efectos son problemáticos? O sea, si en un experimento tanto A como B nos
 parecen alternativas razonables, ¿por qué nos puede incomodar un experimento que compare A y B?
+
+Ésa es la pregunta a la que el paper en cuestión intenta buscar una respuesta. Primero establece
+que ocurre este efecto, para eso hace un A/B testing sobre A/B testing. El experimento que hacen
+es contarle a los participantes del experimento que para evitar infecciones al hacer un
+procedimiento médico el director de un hospital piensa que una checklist puede ayudar a los doctores
+por lo que la imprime en el reverso de la credencial en un caso, como poster en la pared de la sala
+alternativamente o una tercera opción que es hacer un A/B testing entre las dos opciones, ver
+cuál da mejores resultados y quedarse con esa. Después le preguntan qué tan apropiada le parece
+la decisión del director y por qué. Consistentemente se ve que el A/B test parece más inapropiado
+para más gente que tanto A como B.
+
+Ahora, ¿por qué es esto? A los investigadores le surgieron distintas hipótesis, en parte inspirados
+por los comentarios del experimento inicial, y en base a eso diseñaron distintos experimentos para
+evaluar el efecto de cada una.
+
+La primera hipótesis fue que quizás había gente que consideraba una de las dos opciones superior
+a la otra y por eso le parecía innecesario el experimento y que al hacerlo exponía peligros
+innecesarios a los pacientes, por lo que hicieron una segunda prueba donde comparaban una droga A
+con una droga B de la que no tenían más información que las distinga, y se vuelve a dar una
+preferencia contra la experimentación.
