@@ -271,3 +271,26 @@ pero no es controlada. Los resultados mejoraron pero sigue habiendo una diferenc
 La tercera opción es la falta de consentimiento de los participantes. Acá surge la duda de por qué
 querrían consentimiento para la prueba entre A y B si tanto A como B son opciones razonables,
 mejores que ninguna de las dos.
+
+La cuarta es pensar que puede haber una motivación malvada detrás del experimento. Esto quizás pasa
+se cree más en el caso de Facebook, pero aún cuando el razonamiento es benigno y explicado la
+diferencia sigue existiendo.
+
+Una quinta hipótesis es pensar que las personas dedicadas a eso ya deberían saber cuál es el mejor
+curso de acción. Esto es un problema doble porque entonces las personas no quieren que exista el
+experimento que los pruebe, y están más dispuestas a aceptar una opción no probada.
+
+Sexto es que parece haber un rechazo a la experimentación controlada, la idea de "guinea pigs",
+"playing with lives", que no se da si el experimento es no controlado.
+
+Por último a los autores se le ocurrió que podía estar correlacionado con el nivel de educación,
+gente con menos conocimiento científico o menos experiencia con este tipo de experimentación tenga
+más rechazo, pero no se ve una diferencia entre estos resultados. De hecho volvieron a correr
+el experimento con profesionales de la salud y el resultado fue similar al anterior.
+
+Si bien no encontramos una única causa de estos sí encontramos varios factores que contribuyen y
+otros que no. Podemos sacar al menos dos conclusiones, una es que al darse este efecto las personas
+que objeten a esta política si pueden excluirse de algún experimento lo harán, sesgando la muestra.
+Por otro lado la gente, en particular políticos, que debiera conducir experimentos a gran escala
+puede no querer hacerlo ya sea por caer en este efecto o por pensar que este efecto en otras
+personas puede afectarle.
